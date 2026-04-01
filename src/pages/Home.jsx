@@ -40,7 +40,15 @@ export default function Home({ onSelect }) {
     recognition.onend = () => setListening(false)
     recognition.onerror = (e) => {
       setListening(false)
-      setVoiceError('语音识别失败，请重试')
+      if (e.error === 'not-allowed') {
+        setVoiceError('麦克风权限被拒绝，请在浏览器设置中允许')
+      } else if (e.error === 'network') {
+        setVoiceError('网络错误，语音识别需要联网')
+      } else if (e.error === 'service-not-allowed') {
+        setVoiceError('此浏览器不支持语音，请用 Chrome')
+      } else {
+        setVoiceError(`语音识别失败 (${e.error})，请重试`)
+      }
     }
     recognition.onresult = (e) => {
       const text = e.results[0][0].transcript.trim()
