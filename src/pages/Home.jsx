@@ -52,13 +52,29 @@ export default function Home({ onSelect }) {
     }
     recognition.onresult = (e) => {
       const text = e.results[0][0].transcript.trim()
-      // 提取第一个汉字
-      const match = text.match(/[\u4e00-\u9fa5]/)
-      if (match) {
-        setInput(match[0])
-        // 如果字典里有，直接跳转
-        if (characters[match[0]]) {
-          setTimeout(() => handleSelect(match[0]), 300)
+      // 智能提取目标字：优先匹配"X字怎么写/X怎么写/X字"等句式中的目标字
+      const hanziList = text.match(/[\u4e00-\u9fa5]/g) || []
+      let target = null
+
+      // 模式1："某某字怎么写" → 取"字"前面那个字
+      const m1 = text.match(/([\u4e00-\u9fa5])字怎么写/)
+      // 模式2："某某的某字" → 取最后一个"的"后、"字"前的字
+      const m2 = text.match(/的([\u4e00-\u9fa5])字/)
+      // 模式3："某某怎么写" → 取"怎"前面那个字
+      const m3 = text.match(/([\u4e00-\u9fa5])怎么写/)
+      // 模式4："查某某字" → 取"查"后面那个字
+      const m4 = text.match(/查([\u4e00-\u9fa5])/)
+
+      if (m1) target = m1[1]
+      else if (m2) target = m2[1]
+      else if (m3) target = m3[1]
+      else if (m4) target = m4[1]
+      else if (hanziList.length > 0) target = hanziList[hanziList.length - 1] // 降级：取最后一个字
+
+      if (target) {
+        setInput(target)
+        if (characters[target]) {
+          setTimeout(() => handleSelect(target), 300)
         }
       } else {
         setVoiceError(`没有识别到汉字，听到了：${text}`)
