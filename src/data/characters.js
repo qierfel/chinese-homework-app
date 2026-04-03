@@ -1,17 +1,17 @@
 // 自动生成 - 汉字数据库
 // 共 7200 个字，来源：hanzi-writer-data + CC-CEDICT
-// 生成时间：2026-04-01T03:35:43.492Z
+// 生成时间：2026-04-03T09:21:45.883Z
 
 const characters = {
   "㐆": {
     "pinyin": "yin3",
-    "radical": "",
+    "radical": "丨",
     "strokes": 6,
     "words": []
   },
   "㐌": {
     "pinyin": "tā",
-    "radical": "𠂉",
+    "radical": "丿",
     "strokes": 5,
     "words": []
   },
@@ -29,13 +29,13 @@ const characters = {
   },
   "㝵": {
     "pinyin": "aì",
-    "radical": "旦",
+    "radical": "日",
     "strokes": 8,
     "words": []
   },
   "㥯": {
     "pinyin": "yin3",
-    "radical": "",
+    "radical": "㥯",
     "strokes": 14,
     "words": []
   },
@@ -175,7 +175,7 @@ const characters = {
   },
   "不": {
     "pinyin": "bù",
-    "radical": "丆",
+    "radical": "一",
     "strokes": 4,
     "words": [
       "不久",
@@ -201,13 +201,13 @@ const characters = {
   },
   "丏": {
     "pinyin": "mian3",
-    "radical": "",
+    "radical": "一",
     "strokes": 4,
     "words": []
   },
   "丐": {
     "pinyin": "gaì",
-    "radical": "下",
+    "radical": "一",
     "strokes": 4,
     "words": [
       "乞丐",
@@ -229,7 +229,7 @@ const characters = {
   },
   "专": {
     "pinyin": "zhuan1",
-    "radical": "",
+    "radical": "二",
     "strokes": 4,
     "words": [
       "专家",
@@ -255,7 +255,7 @@ const characters = {
   },
   "丕": {
     "pinyin": "pī",
-    "radical": "不",
+    "radical": "一",
     "strokes": 5,
     "words": [
       "曹丕"
@@ -328,7 +328,7 @@ const characters = {
   },
   "东": {
     "pinyin": "Dong1",
-    "radical": "七",
+    "radical": "木",
     "strokes": 5,
     "words": [
       "东方",
@@ -354,7 +354,7 @@ const characters = {
   },
   "丞": {
     "pinyin": "cheng2",
-    "radical": "氶",
+    "radical": "㇖",
     "strokes": 6,
     "words": [
       "丞相"
@@ -362,7 +362,7 @@ const characters = {
   },
   "丢": {
     "pinyin": "diū",
-    "radical": "壬",
+    "radical": "㇒",
     "strokes": 6,
     "words": [
       "丢下",
@@ -388,7 +388,7 @@ const characters = {
   },
   "严": {
     "pinyin": "Yan2",
-    "radical": "亚",
+    "radical": "一",
     "strokes": 7,
     "words": [
       "严寒",
@@ -401,7 +401,7 @@ const characters = {
   },
   "丧": {
     "pinyin": "sang1",
-    "radical": "",
+    "radical": "土",
     "strokes": 8,
     "words": [
       "丧失",
@@ -451,7 +451,7 @@ const characters = {
   },
   "丬": {
     "pinyin": "qiang2",
-    "radical": "亠",
+    "radical": "丬",
     "strokes": 3,
     "words": []
   },
@@ -470,7 +470,7 @@ const characters = {
   },
   "丰": {
     "pinyin": "feng1",
-    "radical": "三",
+    "radical": "一",
     "strokes": 4,
     "words": [
       "丰厚",
@@ -483,13 +483,13 @@ const characters = {
   },
   "丱": {
     "pinyin": "guan4",
-    "radical": "丩",
+    "radical": "丱",
     "strokes": 5,
     "words": []
   },
   "串": {
     "pinyin": "chuan4",
-    "radical": "中",
+    "radical": "串",
     "strokes": 7,
     "words": [
       "串门",
@@ -502,7 +502,7 @@ const characters = {
   },
   "临": {
     "pinyin": "lin2",
-    "radical": "",
+    "radical": "丨",
     "strokes": 9,
     "words": [
       "来临",
@@ -515,7 +515,7 @@ const characters = {
   },
   "丵": {
     "pinyin": "zhuó",
-    "radical": "业",
+    "radical": "",
     "strokes": 10,
     "words": []
   },
@@ -527,13 +527,13 @@ const characters = {
   },
   "丷": {
     "pinyin": "bā",
-    "radical": "八",
+    "radical": "丷",
     "strokes": 2,
     "words": []
   },
   "丸": {
     "pinyin": "wan2",
-    "radical": "九",
+    "radical": "丿",
     "strokes": 3,
     "words": [
       "丸子",
@@ -598,7 +598,7 @@ const characters = {
   },
   "举": {
     "pinyin": "jǔ",
-    "radical": "兴",
+    "radical": "⺍",
     "strokes": 9,
     "words": [
       "一举",
@@ -617,7 +617,7 @@ const characters = {
   },
   "乂": {
     "pinyin": "yì",
-    "radical": "㇒",
+    "radical": "乂",
     "strokes": 2,
     "words": []
   },
@@ -679,7 +679,7 @@ const characters = {
   },
   "之": {
     "pinyin": "zhī",
-    "radical": "𪜋",
+    "radical": "王",
     "strokes": 3,
     "words": [
       "之前",
@@ -692,7 +692,7 @@ const characters = {
   },
   "乌": {
     "pinyin": "Wū",
-    "radical": "",
+    "radical": "㇆",
     "strokes": 4,
     "words": [
       "乌云",
@@ -705,7 +705,7 @@ const characters = {
   },
   "乍": {
     "pinyin": "zhà",
-    "radical": "",
+    "radical": "丿",
     "strokes": 5,
     "words": [
       "乍看",
@@ -741,7 +741,7 @@ const characters = {
   },
   "乐": {
     "pinyin": "Lè",
-    "radical": "",
+    "radical": "㇒",
     "strokes": 5,
     "words": [
       "快乐",
@@ -754,13 +754,13 @@ const characters = {
   },
   "乑": {
     "pinyin": "zhong4",
-    "radical": "𧰨",
+    "radical": "乑",
     "strokes": 6,
     "words": []
   },
   "乒": {
     "pinyin": "ping1",
-    "radical": "丘",
+    "radical": "斤",
     "strokes": 6,
     "words": [
       "乒乓"
@@ -768,7 +768,7 @@ const characters = {
   },
   "乓": {
     "pinyin": "pang1",
-    "radical": "丘",
+    "radical": "斤",
     "strokes": 6,
     "words": [
       "乒乓"
@@ -776,7 +776,7 @@ const characters = {
   },
   "乔": {
     "pinyin": "Qiaó",
-    "radical": "夭",
+    "radical": "㇒",
     "strokes": 6,
     "words": [
       "乔丹",
@@ -789,7 +789,7 @@ const characters = {
   },
   "乖": {
     "pinyin": "guaī",
-    "radical": "千",
+    "radical": "㇒",
     "strokes": 8,
     "words": [
       "乖巧",
@@ -815,7 +815,7 @@ const characters = {
   },
   "乙": {
     "pinyin": "yǐ",
-    "radical": "㇠",
+    "radical": "乙",
     "strokes": 1,
     "words": [
       "乙方",
@@ -834,7 +834,7 @@ const characters = {
   },
   "乛": {
     "pinyin": "zhé",
-    "radical": "㇖",
+    "radical": "乛",
     "strokes": 1,
     "words": []
   },
@@ -861,7 +861,7 @@ const characters = {
   },
   "乞": {
     "pinyin": "qǐ",
-    "radical": "𠂉",
+    "radical": "丿",
     "strokes": 3,
     "words": [
       "乞丐",
@@ -874,7 +874,7 @@ const characters = {
   },
   "也": {
     "pinyin": "Yě",
-    "radical": "乚",
+    "radical": "乙",
     "strokes": 3,
     "words": [
       "也许",
@@ -910,7 +910,7 @@ const characters = {
   },
   "书": {
     "pinyin": "Shū",
-    "radical": "",
+    "radical": "乙",
     "strokes": 4,
     "words": [
       "情书",
@@ -923,7 +923,7 @@ const characters = {
   },
   "乩": {
     "pinyin": "jī",
-    "radical": "占",
+    "radical": "⺊",
     "strokes": 6,
     "words": []
   },
@@ -955,7 +955,7 @@ const characters = {
   },
   "乳": {
     "pinyin": "rǔ",
-    "radical": "孚",
+    "radical": "爫",
     "strokes": 8,
     "words": [
       "乳房",
@@ -968,19 +968,19 @@ const characters = {
   },
   "乶": {
     "pinyin": "Fǔ",
-    "radical": "甫",
+    "radical": "十",
     "strokes": 8,
     "words": []
   },
   "乹": {
     "pinyin": "gan1",
-    "radical": "龺",
+    "radical": "十",
     "strokes": 9,
     "words": []
   },
   "乾": {
     "pinyin": "Qian2",
-    "radical": "龺",
+    "radical": "十",
     "strokes": 11,
     "words": [
       "乾坤",
@@ -992,7 +992,7 @@ const characters = {
   },
   "乿": {
     "pinyin": "luan4",
-    "radical": "",
+    "radical": "爫",
     "strokes": 11,
     "words": []
   },
@@ -1043,7 +1043,7 @@ const characters = {
   },
   "事": {
     "pinyin": "shì",
-    "radical": "",
+    "radical": "十",
     "strokes": 8,
     "words": [
       "事情",
@@ -1056,7 +1056,7 @@ const characters = {
   },
   "二": {
     "pinyin": "er4",
-    "radical": "一",
+    "radical": "二",
     "strokes": 2,
     "words": [
       "十二",
@@ -1180,7 +1180,7 @@ const characters = {
   },
   "些": {
     "pinyin": "xiē",
-    "radical": "此",
+    "radical": "止",
     "strokes": 8,
     "words": [
       "一些",
@@ -1193,7 +1193,7 @@ const characters = {
   },
   "亟": {
     "pinyin": "jí",
-    "radical": "",
+    "radical": "㇇",
     "strokes": 8,
     "words": [
       "亟待"
@@ -1225,7 +1225,7 @@ const characters = {
   },
   "交": {
     "pinyin": "jiaō",
-    "radical": "六",
+    "radical": "亠",
     "strokes": 6,
     "words": [
       "交友",
@@ -1238,7 +1238,7 @@ const characters = {
   },
   "亥": {
     "pinyin": "haì",
-    "radical": "",
+    "radical": "亠",
     "strokes": 6,
     "words": [
       "辛亥",
@@ -1270,7 +1270,7 @@ const characters = {
   },
   "亨": {
     "pinyin": "heng1",
-    "radical": "",
+    "radical": "亠",
     "strokes": 7,
     "words": [
       "亨利",
@@ -1292,7 +1292,7 @@ const characters = {
   },
   "享": {
     "pinyin": "xiang3",
-    "radical": "",
+    "radical": "亠",
     "strokes": 8,
     "words": [
       "分享",
@@ -1305,7 +1305,7 @@ const characters = {
   },
   "京": {
     "pinyin": "Jing1",
-    "radical": "",
+    "radical": "亠",
     "strokes": 8,
     "words": [
       "北京",
@@ -1318,7 +1318,7 @@ const characters = {
   },
   "亭": {
     "pinyin": "ting2",
-    "radical": "",
+    "radical": "亠",
     "strokes": 9,
     "words": [
       "亭子",
@@ -1331,7 +1331,7 @@ const characters = {
   },
   "亮": {
     "pinyin": "liang4",
-    "radical": "",
+    "radical": "亠",
     "strokes": 9,
     "words": [
       "漂亮",
@@ -1357,7 +1357,7 @@ const characters = {
   },
   "亳": {
     "pinyin": "Bó",
-    "radical": "",
+    "radical": "亠",
     "strokes": 10,
     "words": [
       "亳州"
@@ -1387,7 +1387,7 @@ const characters = {
   },
   "人": {
     "pinyin": "ren2",
-    "radical": "㇒",
+    "radical": "人",
     "strokes": 2,
     "words": [
       "人生",
@@ -1400,7 +1400,7 @@ const characters = {
   },
   "亻": {
     "pinyin": "ren2",
-    "radical": "㇒",
+    "radical": "亻",
     "strokes": 2,
     "words": []
   },
@@ -1513,7 +1513,7 @@ const characters = {
   },
   "今": {
     "pinyin": "jin1",
-    "radical": "亽",
+    "radical": "人",
     "strokes": 4,
     "words": [
       "今天",
@@ -1549,7 +1549,7 @@ const characters = {
   },
   "从": {
     "pinyin": "Cong2",
-    "radical": "人",
+    "radical": "从",
     "strokes": 4,
     "words": [
       "从来",
@@ -1695,7 +1695,7 @@ const characters = {
   },
   "令": {
     "pinyin": "Ling2",
-    "radical": "亽",
+    "radical": "人",
     "strokes": 5,
     "words": [
       "号令",
@@ -1708,7 +1708,7 @@ const characters = {
   },
   "以": {
     "pinyin": "Yǐ",
-    "radical": "",
+    "radical": "乚",
     "strokes": 4,
     "words": [
       "以后",
@@ -1967,7 +1967,7 @@ const characters = {
   },
   "众": {
     "pinyin": "Zhong4",
-    "radical": "人",
+    "radical": "众",
     "strokes": 6,
     "words": [
       "公众",
@@ -2466,7 +2466,7 @@ const characters = {
   },
   "佥": {
     "pinyin": "qian1",
-    "radical": "亼",
+    "radical": "人",
     "strokes": 7,
     "words": []
   },
@@ -2984,7 +2984,7 @@ const characters = {
   },
   "俞": {
     "pinyin": "Yú",
-    "radical": "亼",
+    "radical": "人",
     "strokes": 9,
     "words": []
   },
@@ -3060,7 +3060,7 @@ const characters = {
   },
   "修": {
     "pinyin": "Xiū",
-    "radical": "",
+    "radical": "亻",
     "strokes": 9,
     "words": [
       "修复",
@@ -3144,7 +3144,7 @@ const characters = {
   },
   "倏": {
     "pinyin": "shū",
-    "radical": "",
+    "radical": "亻",
     "strokes": 10,
     "words": [
       "倏地",
@@ -3184,7 +3184,7 @@ const characters = {
   },
   "候": {
     "pinyin": "hoù",
-    "radical": "",
+    "radical": "亻",
     "strokes": 10,
     "words": [
       "时候",
@@ -3217,7 +3217,7 @@ const characters = {
   },
   "倝": {
     "pinyin": "gan4",
-    "radical": "龺",
+    "radical": "十",
     "strokes": 10,
     "words": []
   },
@@ -3808,7 +3808,7 @@ const characters = {
   },
   "儿": {
     "pinyin": "er2",
-    "radical": "丿",
+    "radical": "儿",
     "strokes": 2,
     "words": [
       "事儿",
@@ -3844,7 +3844,7 @@ const characters = {
   },
   "元": {
     "pinyin": "Yuan2",
-    "radical": "二",
+    "radical": "儿",
     "strokes": 4,
     "words": [
       "元宵",
@@ -3857,7 +3857,7 @@ const characters = {
   },
   "兄": {
     "pinyin": "xiong1",
-    "radical": "口",
+    "radical": "儿",
     "strokes": 5,
     "words": [
       "兄弟",
@@ -3896,7 +3896,7 @@ const characters = {
   },
   "先": {
     "pinyin": "xian1",
-    "radical": "⺧",
+    "radical": "儿",
     "strokes": 6,
     "words": [
       "先生",
@@ -3909,7 +3909,7 @@ const characters = {
   },
   "光": {
     "pinyin": "guang1",
-    "radical": "⺌",
+    "radical": "儿",
     "strokes": 6,
     "words": [
       "光明",
@@ -3922,7 +3922,7 @@ const characters = {
   },
   "克": {
     "pinyin": "kè",
-    "radical": "古",
+    "radical": "十",
     "strokes": 7,
     "words": [
       "克服",
@@ -3961,7 +3961,7 @@ const characters = {
   },
   "兔": {
     "pinyin": "tù",
-    "radical": "免",
+    "radical": "⺈",
     "strokes": 8,
     "words": [
       "兔子",
@@ -3980,7 +3980,7 @@ const characters = {
   },
   "兖": {
     "pinyin": "Yan3",
-    "radical": "六",
+    "radical": "亠",
     "strokes": 8,
     "words": [
       "兖州"
@@ -3988,7 +3988,7 @@ const characters = {
   },
   "党": {
     "pinyin": "Dang3",
-    "radical": "龸",
+    "radical": "⺌",
     "strokes": 10,
     "words": [
       "死党",
@@ -4001,7 +4001,7 @@ const characters = {
   },
   "兜": {
     "pinyin": "doū",
-    "radical": "",
+    "radical": "㇒",
     "strokes": 11,
     "words": [
       "兜兜",
@@ -4014,13 +4014,13 @@ const characters = {
   },
   "兟": {
     "pinyin": "shen1",
-    "radical": "先",
+    "radical": "兟",
     "strokes": 12,
     "words": []
   },
   "兢": {
     "pinyin": "jing1",
-    "radical": "克",
+    "radical": "兢",
     "strokes": 14,
     "words": [
       "战兢"
@@ -4028,7 +4028,7 @@ const characters = {
   },
   "入": {
     "pinyin": "rù",
-    "radical": "人",
+    "radical": "入",
     "strokes": 2,
     "words": [
       "加入",
@@ -4054,7 +4054,7 @@ const characters = {
   },
   "八": {
     "pinyin": "bā",
-    "radical": "㇒",
+    "radical": "八",
     "strokes": 2,
     "words": [
       "十八",
@@ -4114,7 +4114,7 @@ const characters = {
   },
   "共": {
     "pinyin": "gong4",
-    "radical": "龷",
+    "radical": "艹",
     "strokes": 6,
     "words": [
       "共同",
@@ -4140,7 +4140,7 @@ const characters = {
   },
   "兴": {
     "pinyin": "Xing1",
-    "radical": "",
+    "radical": "⺍",
     "strokes": 6,
     "words": [
       "兴奋",
@@ -4153,7 +4153,7 @@ const characters = {
   },
   "兵": {
     "pinyin": "bing1",
-    "radical": "𠔊",
+    "radical": "兵",
     "strokes": 7,
     "words": [
       "兵器",
@@ -4192,7 +4192,7 @@ const characters = {
   },
   "典": {
     "pinyin": "dian3",
-    "radical": "曲",
+    "radical": "",
     "strokes": 8,
     "words": [
       "经典",
@@ -4205,7 +4205,7 @@ const characters = {
   },
   "兹": {
     "pinyin": "zī",
-    "radical": "䒑",
+    "radical": "丷",
     "strokes": 9,
     "words": [
       "利兹",
@@ -4215,7 +4215,7 @@ const characters = {
   },
   "养": {
     "pinyin": "yang3",
-    "radical": "",
+    "radical": "羊",
     "strokes": 9,
     "words": [
       "保养",
@@ -4228,7 +4228,7 @@ const characters = {
   },
   "兼": {
     "pinyin": "jian1",
-    "radical": "䒑",
+    "radical": "丷",
     "strokes": 10,
     "words": [
       "兼职",
@@ -4262,7 +4262,7 @@ const characters = {
   },
   "冁": {
     "pinyin": "chan3",
-    "radical": "单",
+    "radical": "丷",
     "strokes": 18,
     "words": []
   },
@@ -4314,7 +4314,7 @@ const characters = {
   },
   "册": {
     "pinyin": "cè",
-    "radical": "",
+    "radical": "册",
     "strokes": 5,
     "words": [
       "相册",
@@ -4346,13 +4346,13 @@ const characters = {
   },
   "冑": {
     "pinyin": "zhoù",
-    "radical": "由",
+    "radical": "二",
     "strokes": 9,
     "words": []
   },
   "冒": {
     "pinyin": "Maò",
-    "radical": "冃",
+    "radical": "冂",
     "strokes": 9,
     "words": [
       "感冒",
@@ -4365,13 +4365,13 @@ const characters = {
   },
   "冓": {
     "pinyin": "goù",
-    "radical": "井",
+    "radical": "",
     "strokes": 10,
     "words": []
   },
   "冕": {
     "pinyin": "mian3",
-    "radical": "冃",
+    "radical": "冂",
     "strokes": 11,
     "words": [
       "卫冕",
@@ -4383,7 +4383,7 @@ const characters = {
   },
   "冖": {
     "pinyin": "mì",
-    "radical": "冂",
+    "radical": "冖",
     "strokes": 2,
     "words": []
   },
@@ -4492,7 +4492,7 @@ const characters = {
   },
   "冫": {
     "pinyin": "bing1",
-    "radical": "丶",
+    "radical": "冫",
     "strokes": 2,
     "words": []
   },
@@ -4756,7 +4756,7 @@ const characters = {
   },
   "几": {
     "pinyin": "jī",
-    "radical": "丿",
+    "radical": "几",
     "strokes": 2,
     "words": [
       "十几",
@@ -4801,13 +4801,13 @@ const characters = {
   },
   "凫": {
     "pinyin": "fú",
-    "radical": "",
+    "radical": "㇆",
     "strokes": 6,
     "words": []
   },
   "凭": {
     "pinyin": "ping2",
-    "radical": "任",
+    "radical": "亻",
     "strokes": 8,
     "words": [
       "任凭",
@@ -4820,7 +4820,7 @@ const characters = {
   },
   "凯": {
     "pinyin": "Kaǐ",
-    "radical": "岂",
+    "radical": "山",
     "strokes": 8,
     "words": [
       "凯旋",
@@ -4854,7 +4854,7 @@ const characters = {
   },
   "凵": {
     "pinyin": "qū",
-    "radical": "冂",
+    "radical": "凵",
     "strokes": 2,
     "words": []
   },
@@ -4873,7 +4873,7 @@ const characters = {
   },
   "凸": {
     "pinyin": "tū",
-    "radical": "丄",
+    "radical": "凸",
     "strokes": 5,
     "words": [
       "凸显",
@@ -4886,7 +4886,7 @@ const characters = {
   },
   "凹": {
     "pinyin": "aō",
-    "radical": "凵",
+    "radical": "凹",
     "strokes": 5,
     "words": [
       "凹凸",
@@ -4899,7 +4899,7 @@ const characters = {
   },
   "出": {
     "pinyin": "chū",
-    "radical": "山",
+    "radical": "出",
     "strokes": 5,
     "words": [
       "付出",
@@ -4912,7 +4912,7 @@ const characters = {
   },
   "击": {
     "pinyin": "jī",
-    "radical": "",
+    "radical": "二",
     "strokes": 5,
     "words": [
       "猛击",
@@ -4944,7 +4944,7 @@ const characters = {
   },
   "凿": {
     "pinyin": "zaó",
-    "radical": "业",
+    "radical": "",
     "strokes": 12,
     "words": [
       "确凿",
@@ -4954,7 +4954,7 @@ const characters = {
   },
   "刀": {
     "pinyin": "Daō",
-    "radical": "㇆",
+    "radical": "刀",
     "strokes": 2,
     "words": [
       "菜刀",
@@ -4977,7 +4977,7 @@ const characters = {
   },
   "刂": {
     "pinyin": "daō",
-    "radical": "亅",
+    "radical": "刂",
     "strokes": 2,
     "words": []
   },
@@ -5009,7 +5009,7 @@ const characters = {
   },
   "切": {
     "pinyin": "qiē",
-    "radical": "七",
+    "radical": "乚",
     "strokes": 4,
     "words": [
       "一切",
@@ -5047,7 +5047,7 @@ const characters = {
   },
   "刎": {
     "pinyin": "wen3",
-    "radical": "勿",
+    "radical": "勹",
     "strokes": 6,
     "words": [
       "自刎"
@@ -5055,7 +5055,7 @@ const characters = {
   },
   "刑": {
     "pinyin": "Xing2",
-    "radical": "开",
+    "radical": "一",
     "strokes": 6,
     "words": [
       "刑事",
@@ -5087,7 +5087,7 @@ const characters = {
   },
   "列": {
     "pinyin": "liè",
-    "radical": "歹",
+    "radical": "刀",
     "strokes": 6,
     "words": [
       "列车",
@@ -5113,7 +5113,7 @@ const characters = {
   },
   "则": {
     "pinyin": "zé",
-    "radical": "贝",
+    "radical": "刀",
     "strokes": 6,
     "words": [
       "原则",
@@ -5126,7 +5126,7 @@ const characters = {
   },
   "刚": {
     "pinyin": "gang1",
-    "radical": "冈",
+    "radical": "冂",
     "strokes": 6,
     "words": [
       "刚刚",
@@ -5139,7 +5139,7 @@ const characters = {
   },
   "创": {
     "pinyin": "chuang1",
-    "radical": "仓",
+    "radical": "人",
     "strokes": 6,
     "words": [
       "创意",
@@ -5152,7 +5152,7 @@ const characters = {
   },
   "初": {
     "pinyin": "chū",
-    "radical": "衤",
+    "radical": "刀",
     "strokes": 7,
     "words": [
       "初一",
@@ -5176,7 +5176,7 @@ const characters = {
   },
   "判": {
     "pinyin": "pan4",
-    "radical": "半",
+    "radical": "二",
     "strokes": 7,
     "words": [
       "判断",
@@ -5189,7 +5189,7 @@ const characters = {
   },
   "刨": {
     "pinyin": "baò",
-    "radical": "包",
+    "radical": "勹",
     "strokes": 7,
     "words": [
       "刨冰",
@@ -5199,7 +5199,7 @@ const characters = {
   },
   "利": {
     "pinyin": "Lì",
-    "radical": "禾",
+    "radical": "刀",
     "strokes": 7,
     "words": [
       "利用",
@@ -5212,7 +5212,7 @@ const characters = {
   },
   "别": {
     "pinyin": "Bié",
-    "radical": "另",
+    "radical": "刀",
     "strokes": 7,
     "words": [
       "别人",
@@ -5225,7 +5225,7 @@ const characters = {
   },
   "刭": {
     "pinyin": "jing3",
-    "radical": "",
+    "radical": "龴",
     "strokes": 7,
     "words": []
   },
@@ -5244,7 +5244,7 @@ const characters = {
   },
   "到": {
     "pinyin": "daò",
-    "radical": "至",
+    "radical": "刀",
     "strokes": 8,
     "words": [
       "不到",
@@ -5257,13 +5257,13 @@ const characters = {
   },
   "刳": {
     "pinyin": "kū",
-    "radical": "夸",
+    "radical": "大",
     "strokes": 8,
     "words": []
   },
   "制": {
     "pinyin": "zhì",
-    "radical": "",
+    "radical": "刀",
     "strokes": 8,
     "words": [
       "制度",
@@ -5276,7 +5276,7 @@ const characters = {
   },
   "刷": {
     "pinyin": "shuā",
-    "radical": "𡰯",
+    "radical": "尸",
     "strokes": 8,
     "words": [
       "刷新",
@@ -5289,7 +5289,7 @@ const characters = {
   },
   "券": {
     "pinyin": "quan4",
-    "radical": "龹",
+    "radical": "二",
     "strokes": 8,
     "words": [
       "证券",
@@ -5301,7 +5301,7 @@ const characters = {
   },
   "刹": {
     "pinyin": "chà",
-    "radical": "杀",
+    "radical": "乂",
     "strokes": 8,
     "words": [
       "刹车",
@@ -5314,7 +5314,7 @@ const characters = {
   },
   "刺": {
     "pinyin": "cī",
-    "radical": "朿",
+    "radical": "木",
     "strokes": 8,
     "words": [
       "刺激",
@@ -5327,7 +5327,7 @@ const characters = {
   },
   "刻": {
     "pinyin": "kè",
-    "radical": "亥",
+    "radical": "刀",
     "strokes": 8,
     "words": [
       "时刻",
@@ -5340,25 +5340,25 @@ const characters = {
   },
   "刽": {
     "pinyin": "guì",
-    "radical": "会",
+    "radical": "人",
     "strokes": 8,
     "words": []
   },
   "刿": {
     "pinyin": "guì",
-    "radical": "岁",
+    "radical": "山",
     "strokes": 8,
     "words": []
   },
   "剀": {
     "pinyin": "kaǐ",
-    "radical": "岂",
+    "radical": "山",
     "strokes": 8,
     "words": []
   },
   "剁": {
     "pinyin": "duò",
-    "radical": "朵",
+    "radical": "几",
     "strokes": 8,
     "words": [
       "剁碎"
@@ -5379,7 +5379,7 @@ const characters = {
   },
   "剃": {
     "pinyin": "tì",
-    "radical": "弟",
+    "radical": "丷",
     "strokes": 9,
     "words": [
       "剃刀",
@@ -5389,7 +5389,7 @@ const characters = {
   },
   "削": {
     "pinyin": "xiaō",
-    "radical": "肖",
+    "radical": "⺌",
     "strokes": 9,
     "words": [
       "削弱",
@@ -5402,13 +5402,13 @@ const characters = {
   },
   "剌": {
     "pinyin": "lá",
-    "radical": "束",
+    "radical": "木",
     "strokes": 9,
     "words": []
   },
   "前": {
     "pinyin": "qian2",
-    "radical": "䒑",
+    "radical": "刀",
     "strokes": 9,
     "words": [
       "之前",
@@ -5421,13 +5421,13 @@ const characters = {
   },
   "剐": {
     "pinyin": "guǎ",
-    "radical": "呙",
+    "radical": "口",
     "strokes": 9,
     "words": []
   },
   "剑": {
     "pinyin": "jian4",
-    "radical": "佥",
+    "radical": "人",
     "strokes": 9,
     "words": [
       "剑客",
@@ -5440,7 +5440,7 @@ const characters = {
   },
   "剔": {
     "pinyin": "tī",
-    "radical": "易",
+    "radical": "日",
     "strokes": 10,
     "words": [
       "剔除",
@@ -5450,7 +5450,7 @@ const characters = {
   },
   "剖": {
     "pinyin": "poū",
-    "radical": "咅",
+    "radical": "立",
     "strokes": 10,
     "words": [
       "剖析",
@@ -5463,13 +5463,13 @@ const characters = {
   },
   "剜": {
     "pinyin": "wan1",
-    "radical": "宛",
+    "radical": "宀",
     "strokes": 10,
     "words": []
   },
   "剞": {
     "pinyin": "jī",
-    "radical": "奇",
+    "radical": "大",
     "strokes": 10,
     "words": []
   },
@@ -5481,7 +5481,7 @@ const characters = {
   },
   "剥": {
     "pinyin": "baō",
-    "radical": "录",
+    "radical": "彐",
     "strokes": 10,
     "words": [
       "剥夺",
@@ -5494,7 +5494,7 @@ const characters = {
   },
   "剧": {
     "pinyin": "jù",
-    "radical": "居",
+    "radical": "尸",
     "strokes": 10,
     "words": [
       "剧情",
@@ -5507,7 +5507,7 @@ const characters = {
   },
   "剩": {
     "pinyin": "sheng4",
-    "radical": "乘",
+    "radical": "禾",
     "strokes": 12,
     "words": [
       "剩下",
@@ -5520,7 +5520,7 @@ const characters = {
   },
   "剪": {
     "pinyin": "Jian3",
-    "radical": "前",
+    "radical": "丷",
     "strokes": 11,
     "words": [
       "剪刀",
@@ -5533,7 +5533,7 @@ const characters = {
   },
   "副": {
     "pinyin": "fù",
-    "radical": "畐",
+    "radical": "一",
     "strokes": 11,
     "words": [
       "副本",
@@ -5546,7 +5546,7 @@ const characters = {
   },
   "割": {
     "pinyin": "gē",
-    "radical": "害",
+    "radical": "宀",
     "strokes": 12,
     "words": [
       "分割",
@@ -5559,7 +5559,7 @@ const characters = {
   },
   "剽": {
     "pinyin": "piaō",
-    "radical": "票",
+    "radical": "覀",
     "strokes": 13,
     "words": [
       "剽悍",
@@ -5568,7 +5568,7 @@ const characters = {
   },
   "剿": {
     "pinyin": "chaō",
-    "radical": "巢",
+    "radical": "巛",
     "strokes": 13,
     "words": [
       "剿匪",
@@ -5579,19 +5579,19 @@ const characters = {
   },
   "劁": {
     "pinyin": "qiaō",
-    "radical": "焦",
+    "radical": "隹",
     "strokes": 14,
     "words": []
   },
   "劂": {
     "pinyin": "jué",
-    "radical": "厥",
+    "radical": "厂",
     "strokes": 14,
     "words": []
   },
   "劈": {
     "pinyin": "pī",
-    "radical": "辟",
+    "radical": "尸",
     "strokes": 15,
     "words": [
       "劈腿",
@@ -5610,7 +5610,7 @@ const characters = {
   },
   "力": {
     "pinyin": "Lì",
-    "radical": "㇆",
+    "radical": "力",
     "strokes": 2,
     "words": [
       "力量",
@@ -5688,13 +5688,13 @@ const characters = {
   },
   "劢": {
     "pinyin": "maì",
-    "radical": "万",
+    "radical": "一",
     "strokes": 5,
     "words": []
   },
   "劣": {
     "pinyin": "liè",
-    "radical": "少",
+    "radical": "小",
     "strokes": 6,
     "words": [
       "卑劣",
@@ -5707,13 +5707,13 @@ const characters = {
   },
   "劦": {
     "pinyin": "liè",
-    "radical": "力",
+    "radical": "劦",
     "strokes": 6,
     "words": []
   },
   "动": {
     "pinyin": "dong4",
-    "radical": "云",
+    "radical": "力",
     "strokes": 6,
     "words": [
       "主动",
@@ -5726,7 +5726,7 @@ const characters = {
   },
   "助": {
     "pinyin": "zhù",
-    "radical": "且",
+    "radical": "力",
     "strokes": 7,
     "words": [
       "帮助",
@@ -5739,7 +5739,7 @@ const characters = {
   },
   "努": {
     "pinyin": "nǔ",
-    "radical": "奴",
+    "radical": "力",
     "strokes": 7,
     "words": [
       "努力"
@@ -5747,7 +5747,7 @@ const characters = {
   },
   "劫": {
     "pinyin": "jié",
-    "radical": "去",
+    "radical": "土",
     "strokes": 7,
     "words": [
       "劫匪",
@@ -5760,19 +5760,19 @@ const characters = {
   },
   "劬": {
     "pinyin": "qú",
-    "radical": "句",
+    "radical": "勹",
     "strokes": 7,
     "words": []
   },
   "劭": {
     "pinyin": "Shaò",
-    "radical": "召",
+    "radical": "刀",
     "strokes": 7,
     "words": []
   },
   "励": {
     "pinyin": "Lì",
-    "radical": "厉",
+    "radical": "厂",
     "strokes": 7,
     "words": [
       "奖励",
@@ -5784,7 +5784,7 @@ const characters = {
   },
   "劲": {
     "pinyin": "jin4",
-    "radical": "",
+    "radical": "龴",
     "strokes": 7,
     "words": [
       "使劲",
@@ -5797,7 +5797,7 @@ const characters = {
   },
   "劳": {
     "pinyin": "laó",
-    "radical": "艹",
+    "radical": "力",
     "strokes": 7,
     "words": [
       "功劳",
@@ -5810,19 +5810,19 @@ const characters = {
   },
   "劵": {
     "pinyin": "quan4",
-    "radical": "龹",
+    "radical": "二",
     "strokes": 8,
     "words": []
   },
   "劼": {
     "pinyin": "jié",
-    "radical": "吉",
+    "radical": "士",
     "strokes": 8,
     "words": []
   },
   "劾": {
     "pinyin": "hé",
-    "radical": "亥",
+    "radical": "亠",
     "strokes": 8,
     "words": [
       "弹劾"
@@ -5830,7 +5830,7 @@ const characters = {
   },
   "势": {
     "pinyin": "shì",
-    "radical": "执",
+    "radical": "扌",
     "strokes": 8,
     "words": [
       "优势",
@@ -5843,7 +5843,7 @@ const characters = {
   },
   "勃": {
     "pinyin": "bó",
-    "radical": "孛",
+    "radical": "十",
     "strokes": 9,
     "words": [
       "勃勃",
@@ -5856,7 +5856,7 @@ const characters = {
   },
   "勇": {
     "pinyin": "yong3",
-    "radical": "龴",
+    "radical": "力",
     "strokes": 9,
     "words": [
       "勇敢",
@@ -5869,7 +5869,7 @@ const characters = {
   },
   "勉": {
     "pinyin": "mian3",
-    "radical": "免",
+    "radical": "⺈",
     "strokes": 9,
     "words": [
       "勉强",
@@ -5882,7 +5882,7 @@ const characters = {
   },
   "勋": {
     "pinyin": "xun1",
-    "radical": "员",
+    "radical": "口",
     "strokes": 9,
     "words": [
       "勋章",
@@ -5893,7 +5893,7 @@ const characters = {
   },
   "勐": {
     "pinyin": "meng3",
-    "radical": "孟",
+    "radical": "子",
     "strokes": 10,
     "words": [
       "勐海",
@@ -5915,13 +5915,13 @@ const characters = {
   },
   "勖": {
     "pinyin": "xù",
-    "radical": "冒",
+    "radical": "冂",
     "strokes": 11,
     "words": []
   },
   "勘": {
     "pinyin": "kan1",
-    "radical": "甚",
+    "radical": "甘",
     "strokes": 11,
     "words": [
       "勘探",
@@ -5934,7 +5934,7 @@ const characters = {
   },
   "募": {
     "pinyin": "mù",
-    "radical": "莫",
+    "radical": "艹",
     "strokes": 12,
     "words": [
       "招募",
@@ -5947,7 +5947,7 @@ const characters = {
   },
   "勤": {
     "pinyin": "qin2",
-    "radical": "堇",
+    "radical": "廿",
     "strokes": 13,
     "words": [
       "勤劳",
@@ -5960,7 +5960,7 @@ const characters = {
   },
   "勦": {
     "pinyin": "chaō",
-    "radical": "巢",
+    "radical": "巛",
     "strokes": 13,
     "words": []
   },
@@ -5972,7 +5972,7 @@ const characters = {
   },
   "勹": {
     "pinyin": "baō",
-    "radical": "㇆",
+    "radical": "勹",
     "strokes": 2,
     "words": []
   },
@@ -6038,7 +6038,7 @@ const characters = {
   },
   "匆": {
     "pinyin": "cong1",
-    "radical": "勿",
+    "radical": "勹",
     "strokes": 5,
     "words": [
       "匆匆",
@@ -6076,7 +6076,7 @@ const characters = {
   },
   "匏": {
     "pinyin": "paó",
-    "radical": "夸",
+    "radical": "大",
     "strokes": 11,
     "words": []
   },
@@ -6090,7 +6090,7 @@ const characters = {
   },
   "匕": {
     "pinyin": "bǐ",
-    "radical": "乚",
+    "radical": "匕",
     "strokes": 2,
     "words": [
       "匕首"
@@ -6111,7 +6111,7 @@ const characters = {
   },
   "北": {
     "pinyin": "beǐ",
-    "radical": "匕",
+    "radical": "北",
     "strokes": 5,
     "words": [
       "北京",
@@ -6124,7 +6124,7 @@ const characters = {
   },
   "匙": {
     "pinyin": "chí",
-    "radical": "是",
+    "radical": "日",
     "strokes": 11,
     "words": [
       "钥匙",
@@ -6136,7 +6136,7 @@ const characters = {
   },
   "匚": {
     "pinyin": "fang1",
-    "radical": "一",
+    "radical": "匚",
     "strokes": 2,
     "words": []
   },
@@ -6208,7 +6208,7 @@ const characters = {
   },
   "匸": {
     "pinyin": "xì",
-    "radical": "匚",
+    "radical": "匸",
     "strokes": 2,
     "words": []
   },
@@ -6278,7 +6278,7 @@ const characters = {
   },
   "十": {
     "pinyin": "shí",
-    "radical": "一",
+    "radical": "十",
     "strokes": 2,
     "words": [
       "三十",
@@ -6358,7 +6358,7 @@ const characters = {
   },
   "半": {
     "pinyin": "ban4",
-    "radical": "",
+    "radical": "二",
     "strokes": 5,
     "words": [
       "一半",
@@ -6377,7 +6377,7 @@ const characters = {
   },
   "华": {
     "pinyin": "Huá",
-    "radical": "化",
+    "radical": "亻",
     "strokes": 6,
     "words": [
       "中华",
@@ -6403,7 +6403,7 @@ const characters = {
   },
   "卑": {
     "pinyin": "beī",
-    "radical": "",
+    "radical": "冂",
     "strokes": 8,
     "words": [
       "卑微",
@@ -6494,7 +6494,7 @@ const characters = {
   },
   "卜": {
     "pinyin": "Bǔ",
-    "radical": "丨",
+    "radical": "卜",
     "strokes": 2,
     "words": [
       "萝卜",
@@ -6532,7 +6532,7 @@ const characters = {
   },
   "卡": {
     "pinyin": "kǎ",
-    "radical": "上",
+    "radical": "⺊",
     "strokes": 5,
     "words": [
       "打卡",
@@ -6564,7 +6564,7 @@ const characters = {
   },
   "卤": {
     "pinyin": "lǔ",
-    "radical": "⺊",
+    "radical": "卤",
     "strokes": 7,
     "words": [
       "卤味",
@@ -6601,7 +6601,7 @@ const characters = {
   },
   "卫": {
     "pinyin": "Weì",
-    "radical": "",
+    "radical": "㇆",
     "strokes": 3,
     "words": [
       "保卫",
@@ -6614,19 +6614,19 @@ const characters = {
   },
   "卬": {
     "pinyin": "Ang2",
-    "radical": "",
+    "radical": "㇒",
     "strokes": 4,
     "words": []
   },
   "卮": {
     "pinyin": "zhī",
-    "radical": "𠂋",
+    "radical": "⺁",
     "strokes": 5,
     "words": []
   },
   "卯": {
     "pinyin": "maǒ",
-    "radical": "卩",
+    "radical": "卯",
     "strokes": 5,
     "words": [
       "辛卯",
@@ -6639,7 +6639,7 @@ const characters = {
   },
   "印": {
     "pinyin": "Yin4",
-    "radical": "",
+    "radical": "㇒",
     "strokes": 5,
     "words": [
       "印度",
@@ -6665,7 +6665,7 @@ const characters = {
   },
   "即": {
     "pinyin": "jí",
-    "radical": "",
+    "radical": "丨",
     "strokes": 7,
     "words": [
       "即使",
@@ -6678,7 +6678,7 @@ const characters = {
   },
   "却": {
     "pinyin": "què",
-    "radical": "去",
+    "radical": "土",
     "strokes": 7,
     "words": [
       "了却",
@@ -6691,7 +6691,7 @@ const characters = {
   },
   "卵": {
     "pinyin": "luan3",
-    "radical": "卪",
+    "radical": "卵",
     "strokes": 7,
     "words": [
       "卵子",
@@ -6704,7 +6704,7 @@ const characters = {
   },
   "卷": {
     "pinyin": "juan3",
-    "radical": "龹",
+    "radical": "二",
     "strokes": 8,
     "words": [
       "试卷",
@@ -6717,7 +6717,7 @@ const characters = {
   },
   "卸": {
     "pinyin": "xiè",
-    "radical": "𦈢",
+    "radical": "干",
     "strokes": 9,
     "words": [
       "卸妆",
@@ -6730,7 +6730,7 @@ const characters = {
   },
   "卺": {
     "pinyin": "jin3",
-    "radical": "丞",
+    "radical": "㇖",
     "strokes": 8,
     "words": []
   },
@@ -6742,7 +6742,7 @@ const characters = {
   },
   "厂": {
     "pinyin": "han3",
-    "radical": "㇕",
+    "radical": "厂",
     "strokes": 2,
     "words": [
       "工厂",
@@ -6868,7 +6868,7 @@ const characters = {
   },
   "厚": {
     "pinyin": "hoù",
-    "radical": "",
+    "radical": "厂",
     "strokes": 9,
     "words": [
       "丰厚",
@@ -6913,7 +6913,7 @@ const characters = {
   },
   "厣": {
     "pinyin": "yan3",
-    "radical": "厌",
+    "radical": "厂",
     "strokes": 11,
     "words": []
   },
@@ -6983,7 +6983,7 @@ const characters = {
   },
   "厹": {
     "pinyin": "qiú",
-    "radical": "九",
+    "radical": "丿",
     "strokes": 4,
     "words": []
   },
@@ -7002,7 +7002,7 @@ const characters = {
   },
   "县": {
     "pinyin": "xian4",
-    "radical": "且",
+    "radical": "月",
     "strokes": 7,
     "words": [
       "梅县",
@@ -7015,13 +7015,13 @@ const characters = {
   },
   "叁": {
     "pinyin": "san1",
-    "radical": "",
+    "radical": "厶",
     "strokes": 8,
     "words": []
   },
   "参": {
     "pinyin": "can1",
-    "radical": "",
+    "radical": "厶",
     "strokes": 8,
     "words": [
       "参加",
@@ -7034,7 +7034,7 @@ const characters = {
   },
   "又": {
     "pinyin": "yoù",
-    "radical": "㇇",
+    "radical": "又",
     "strokes": 2,
     "words": []
   },
@@ -7053,7 +7053,7 @@ const characters = {
   },
   "及": {
     "pinyin": "jí",
-    "radical": "乃",
+    "radical": "㇎",
     "strokes": 3,
     "words": [
       "以及",
@@ -7066,7 +7066,7 @@ const characters = {
   },
   "友": {
     "pinyin": "yoǔ",
-    "radical": "𠂇",
+    "radical": "又",
     "strokes": 4,
     "words": [
       "好友",
@@ -7105,7 +7105,7 @@ const characters = {
   },
   "发": {
     "pinyin": "fā",
-    "radical": "",
+    "radical": "㇗",
     "strokes": 5,
     "words": [
       "出发",
@@ -7118,7 +7118,7 @@ const characters = {
   },
   "叔": {
     "pinyin": "shū",
-    "radical": "尗",
+    "radical": "又",
     "strokes": 8,
     "words": [
       "叔叔",
@@ -7131,7 +7131,7 @@ const characters = {
   },
   "取": {
     "pinyin": "qǔ",
-    "radical": "耳",
+    "radical": "又",
     "strokes": 8,
     "words": [
       "获取",
@@ -7144,7 +7144,7 @@ const characters = {
   },
   "受": {
     "pinyin": "shoù",
-    "radical": "",
+    "radical": "又",
     "strokes": 8,
     "words": [
       "享受",
@@ -7157,7 +7157,7 @@ const characters = {
   },
   "变": {
     "pinyin": "bian4",
-    "radical": "亦",
+    "radical": "亠",
     "strokes": 8,
     "words": [
       "多变",
@@ -7170,7 +7170,7 @@ const characters = {
   },
   "叙": {
     "pinyin": "xù",
-    "radical": "余",
+    "radical": "人",
     "strokes": 9,
     "words": [
       "叙旧",
@@ -7183,13 +7183,13 @@ const characters = {
   },
   "叚": {
     "pinyin": "jiǎ",
-    "radical": "𡰥",
+    "radical": "尸",
     "strokes": 9,
     "words": []
   },
   "叛": {
     "pinyin": "pan4",
-    "radical": "半",
+    "radical": "二",
     "strokes": 9,
     "words": [
       "背叛",
@@ -7202,7 +7202,7 @@ const characters = {
   },
   "叟": {
     "pinyin": "soǔ",
-    "radical": "",
+    "radical": "臼",
     "strokes": 9,
     "words": [
       "老叟"
@@ -7222,7 +7222,7 @@ const characters = {
   },
   "口": {
     "pinyin": "koǔ",
-    "radical": "囗",
+    "radical": "口",
     "strokes": 3,
     "words": [
       "人口",
@@ -7357,7 +7357,7 @@ const characters = {
   },
   "可": {
     "pinyin": "kě",
-    "radical": "丁",
+    "radical": "一",
     "strokes": 5,
     "words": [
       "可以",
@@ -7392,7 +7392,7 @@ const characters = {
   },
   "史": {
     "pinyin": "Shǐ",
-    "radical": "中",
+    "radical": "口",
     "strokes": 5,
     "words": [
       "史上",
@@ -7405,7 +7405,7 @@ const characters = {
   },
   "右": {
     "pinyin": "yoù",
-    "radical": "𠂇",
+    "radical": "口",
     "strokes": 5,
     "words": [
       "右边",
@@ -7539,7 +7539,7 @@ const characters = {
   },
   "合": {
     "pinyin": "gě",
-    "radical": "亼",
+    "radical": "人",
     "strokes": 6,
     "words": [
       "合作",
@@ -7623,7 +7623,7 @@ const characters = {
   },
   "吏": {
     "pinyin": "lì",
-    "radical": "",
+    "radical": "十",
     "strokes": 6,
     "words": [
       "污吏",
@@ -7681,7 +7681,7 @@ const characters = {
   },
   "吕": {
     "pinyin": "Lu:3",
-    "radical": "口",
+    "radical": "吕",
     "strokes": 6,
     "words": [
       "吕布",
@@ -7707,7 +7707,7 @@ const characters = {
   },
   "君": {
     "pinyin": "jun1",
-    "radical": "尹",
+    "radical": "⺕",
     "strokes": 7,
     "words": [
       "君子",
@@ -7731,7 +7731,7 @@ const characters = {
   },
   "吞": {
     "pinyin": "tun1",
-    "radical": "天",
+    "radical": "一",
     "strokes": 7,
     "words": [
       "吞噬",
@@ -7782,7 +7782,7 @@ const characters = {
   },
   "否": {
     "pinyin": "foǔ",
-    "radical": "不",
+    "radical": "一",
     "strokes": 7,
     "words": [
       "是否",
@@ -7826,7 +7826,7 @@ const characters = {
   },
   "含": {
     "pinyin": "han2",
-    "radical": "今",
+    "radical": "人",
     "strokes": 7,
     "words": [
       "含有",
@@ -7976,7 +7976,7 @@ const characters = {
   },
   "吾": {
     "pinyin": "Wú",
-    "radical": "五",
+    "radical": "一",
     "strokes": 7,
     "words": [
       "伊吾",
@@ -8272,7 +8272,7 @@ const characters = {
   },
   "命": {
     "pinyin": "ming4",
-    "radical": "亼",
+    "radical": "人",
     "strokes": 8,
     "words": [
       "命运",
@@ -8337,7 +8337,7 @@ const characters = {
   },
   "咎": {
     "pinyin": "jiù",
-    "radical": "处",
+    "radical": "夂",
     "strokes": 8,
     "words": [
       "归咎",
@@ -8494,7 +8494,7 @@ const characters = {
   },
   "咨": {
     "pinyin": "zī",
-    "radical": "次",
+    "radical": "冫",
     "strokes": 9,
     "words": [
       "咨询",
@@ -8520,7 +8520,7 @@ const characters = {
   },
   "咫": {
     "pinyin": "zhǐ",
-    "radical": "尺",
+    "radical": "尸",
     "strokes": 9,
     "words": [
       "咫尺"
@@ -8584,7 +8584,7 @@ const characters = {
   },
   "咸": {
     "pinyin": "Xian2",
-    "radical": "戊",
+    "radical": "厂",
     "strokes": 9,
     "words": [
       "咸宁",
@@ -8605,7 +8605,7 @@ const characters = {
   },
   "咼": {
     "pinyin": "Guō",
-    "radical": "冎",
+    "radical": "冂",
     "strokes": 9,
     "words": []
   },
@@ -8649,7 +8649,7 @@ const characters = {
   },
   "品": {
     "pinyin": "pin3",
-    "radical": "口",
+    "radical": "品",
     "strokes": 9,
     "words": [
       "人品",
@@ -8715,7 +8715,7 @@ const characters = {
   },
   "哉": {
     "pinyin": "zaī",
-    "radical": "𢦏",
+    "radical": "土",
     "strokes": 9,
     "words": [
       "善哉",
@@ -8862,7 +8862,7 @@ const characters = {
   },
   "哥": {
     "pinyin": "gē",
-    "radical": "可",
+    "radical": "哥",
     "strokes": 10,
     "words": [
       "哥哥",
@@ -8956,7 +8956,7 @@ const characters = {
   },
   "哲": {
     "pinyin": "zhé",
-    "radical": "折",
+    "radical": "扌",
     "strokes": 10,
     "words": [
       "哲学",
@@ -9004,7 +9004,7 @@ const characters = {
   },
   "哿": {
     "pinyin": "gě",
-    "radical": "加",
+    "radical": "力",
     "strokes": 10,
     "words": []
   },
@@ -9058,7 +9058,7 @@ const characters = {
   },
   "唎": {
     "pinyin": "lì",
-    "radical": "咊",
+    "radical": "口",
     "strokes": 10,
     "words": []
   },
@@ -9277,7 +9277,7 @@ const characters = {
   },
   "商": {
     "pinyin": "Shang1",
-    "radical": "",
+    "radical": "亠",
     "strokes": 11,
     "words": [
       "商务",
@@ -9313,7 +9313,7 @@ const characters = {
   },
   "啓": {
     "pinyin": "qǐ",
-    "radical": "𢼄",
+    "radical": "户",
     "strokes": 11,
     "words": []
   },
@@ -9402,7 +9402,7 @@ const characters = {
   },
   "啬": {
     "pinyin": "sè",
-    "radical": "",
+    "radical": "土",
     "strokes": 11,
     "words": [
       "吝啬"
@@ -9476,7 +9476,7 @@ const characters = {
   },
   "啻": {
     "pinyin": "chì",
-    "radical": "帝",
+    "radical": "亠",
     "strokes": 12,
     "words": [
       "不啻"
@@ -9539,7 +9539,7 @@ const characters = {
   },
   "善": {
     "pinyin": "shan4",
-    "radical": "",
+    "radical": "羊",
     "strokes": 12,
     "words": [
       "善于",
@@ -9552,7 +9552,7 @@ const characters = {
   },
   "喆": {
     "pinyin": "zhé",
-    "radical": "吉",
+    "radical": "喆",
     "strokes": 12,
     "words": [
       "陶喆"
@@ -9769,7 +9769,7 @@ const characters = {
   },
   "喾": {
     "pinyin": "kù",
-    "radical": "",
+    "radical": "⺍",
     "strokes": 12,
     "words": []
   },
@@ -9890,7 +9890,7 @@ const characters = {
   },
   "嗣": {
     "pinyin": "sì",
-    "radical": "",
+    "radical": "口",
     "strokes": 13,
     "words": [
       "子嗣"
@@ -10059,7 +10059,7 @@ const characters = {
   },
   "嘏": {
     "pinyin": "gǔ",
-    "radical": "古",
+    "radical": "十",
     "strokes": 14,
     "words": []
   },
@@ -10456,7 +10456,7 @@ const characters = {
   },
   "嚮": {
     "pinyin": "xiang4",
-    "radical": "鄉",
+    "radical": "",
     "strokes": 17,
     "words": []
   },
@@ -10489,7 +10489,7 @@ const characters = {
   },
   "囊": {
     "pinyin": "nang2",
-    "radical": "",
+    "radical": "十",
     "strokes": 22,
     "words": [
       "窝囊",
@@ -10511,7 +10511,7 @@ const characters = {
   },
   "囗": {
     "pinyin": "weí",
-    "radical": "冂",
+    "radical": "囗",
     "strokes": 3,
     "words": []
   },
@@ -10547,7 +10547,7 @@ const characters = {
   },
   "回": {
     "pinyin": "huí",
-    "radical": "囗",
+    "radical": "回",
     "strokes": 6,
     "words": [
       "回来",
@@ -10560,7 +10560,7 @@ const characters = {
   },
   "囟": {
     "pinyin": "xin4",
-    "radical": "",
+    "radical": "囗",
     "strokes": 6,
     "words": [
       "囟门"
@@ -10645,7 +10645,7 @@ const characters = {
   },
   "囱": {
     "pinyin": "chuang1",
-    "radical": "",
+    "radical": "囗",
     "strokes": 7,
     "words": [
       "烟囱"
@@ -10803,7 +10803,7 @@ const characters = {
   },
   "土": {
     "pinyin": "Tǔ",
-    "radical": "十",
+    "radical": "土",
     "strokes": 3,
     "words": [
       "土地",
@@ -10829,7 +10829,7 @@ const characters = {
   },
   "在": {
     "pinyin": "zaì",
-    "radical": "𠂇",
+    "radical": "土",
     "strokes": 6,
     "words": [
       "在乎",
@@ -10860,7 +10860,7 @@ const characters = {
   },
   "圭": {
     "pinyin": "guī",
-    "radical": "土",
+    "radical": "圭",
     "strokes": 6,
     "words": []
   },
@@ -10980,7 +10980,7 @@ const characters = {
   },
   "坌": {
     "pinyin": "ben4",
-    "radical": "分",
+    "radical": "八",
     "strokes": 7,
     "words": []
   },
@@ -11065,7 +11065,7 @@ const characters = {
   },
   "坚": {
     "pinyin": "jian1",
-    "radical": "",
+    "radical": "丨",
     "strokes": 7,
     "words": [
       "坚强",
@@ -11133,7 +11133,7 @@ const characters = {
   },
   "坠": {
     "pinyin": "zhuì",
-    "radical": "队",
+    "radical": "阝",
     "strokes": 7,
     "words": [
       "坠落",
@@ -11237,7 +11237,7 @@ const characters = {
   },
   "坴": {
     "pinyin": "lù",
-    "radical": "",
+    "radical": "土",
     "strokes": 8,
     "words": []
   },
@@ -11265,7 +11265,7 @@ const characters = {
   },
   "垂": {
     "pinyin": "chuí",
-    "radical": "",
+    "radical": "㇒",
     "strokes": 8,
     "words": [
       "下垂",
@@ -11306,7 +11306,7 @@ const characters = {
   },
   "型": {
     "pinyin": "xing2",
-    "radical": "刑",
+    "radical": "一",
     "strokes": 9,
     "words": [
       "造型",
@@ -11350,7 +11350,7 @@ const characters = {
   },
   "垚": {
     "pinyin": "yaó",
-    "radical": "土",
+    "radical": "垚",
     "strokes": 9,
     "words": []
   },
@@ -11416,13 +11416,13 @@ const characters = {
   },
   "垩": {
     "pinyin": "è",
-    "radical": "亚",
+    "radical": "一",
     "strokes": 9,
     "words": []
   },
   "垫": {
     "pinyin": "dian4",
-    "radical": "执",
+    "radical": "扌",
     "strokes": 9,
     "words": [
       "坐垫",
@@ -11645,7 +11645,7 @@ const characters = {
   },
   "埶": {
     "pinyin": "yì",
-    "radical": "坴",
+    "radical": "土",
     "strokes": 11,
     "words": []
   },
@@ -11670,7 +11670,7 @@ const characters = {
   },
   "基": {
     "pinyin": "jī",
-    "radical": "其",
+    "radical": "甘",
     "strokes": 11,
     "words": [
       "基地",
@@ -11701,7 +11701,7 @@ const characters = {
   },
   "堂": {
     "pinyin": "tang2",
-    "radical": "",
+    "radical": "⺌",
     "strokes": 11,
     "words": [
       "天堂",
@@ -11753,13 +11753,13 @@ const characters = {
   },
   "堑": {
     "pinyin": "qian4",
-    "radical": "斩",
+    "radical": "车",
     "strokes": 11,
     "words": []
   },
   "堕": {
     "pinyin": "duò",
-    "radical": "陏",
+    "radical": "阝",
     "strokes": 11,
     "words": [
       "堕落",
@@ -11787,7 +11787,7 @@ const characters = {
   },
   "堡": {
     "pinyin": "baǒ",
-    "radical": "保",
+    "radical": "亻",
     "strokes": 12,
     "words": [
       "城堡",
@@ -11870,7 +11870,7 @@ const characters = {
   },
   "塑": {
     "pinyin": "sù",
-    "radical": "朔",
+    "radical": "丷",
     "strokes": 13,
     "words": [
       "塑造",
@@ -11959,7 +11959,7 @@ const characters = {
   },
   "塾": {
     "pinyin": "shú",
-    "radical": "孰",
+    "radical": "亠",
     "strokes": 14,
     "words": [
       "私塾"
@@ -11992,7 +11992,7 @@ const characters = {
   },
   "墅": {
     "pinyin": "shù",
-    "radical": "野",
+    "radical": "里",
     "strokes": 14,
     "words": [
       "别墅"
@@ -12012,7 +12012,7 @@ const characters = {
   },
   "墓": {
     "pinyin": "mù",
-    "radical": "莫",
+    "radical": "艹",
     "strokes": 13,
     "words": [
       "公墓",
@@ -12088,7 +12088,7 @@ const characters = {
   },
   "壁": {
     "pinyin": "bì",
-    "radical": "辟",
+    "radical": "尸",
     "strokes": 16,
     "words": [
       "壁纸",
@@ -12107,7 +12107,7 @@ const characters = {
   },
   "壑": {
     "pinyin": "hè",
-    "radical": "㕡",
+    "radical": "卜",
     "strokes": 17,
     "words": [
       "沟壑",
@@ -12136,7 +12136,7 @@ const characters = {
   },
   "士": {
     "pinyin": "Shì",
-    "radical": "十",
+    "radical": "士",
     "strokes": 3,
     "words": [
       "人士",
@@ -12225,7 +12225,7 @@ const characters = {
   },
   "夂": {
     "pinyin": "zhǐ",
-    "radical": "又",
+    "radical": "夂",
     "strokes": 3,
     "words": []
   },
@@ -12269,19 +12269,19 @@ const characters = {
   },
   "夊": {
     "pinyin": "suī",
-    "radical": "夂",
+    "radical": "夊",
     "strokes": 3,
     "words": []
   },
   "夌": {
     "pinyin": "ling2",
-    "radical": "",
+    "radical": "土",
     "strokes": 8,
     "words": []
   },
   "复": {
     "pinyin": "fù",
-    "radical": "𠂉",
+    "radical": "夂",
     "strokes": 9,
     "words": [
       "修复",
@@ -12294,7 +12294,7 @@ const characters = {
   },
   "夏": {
     "pinyin": "Xià",
-    "radical": "𦣻",
+    "radical": "夂",
     "strokes": 10,
     "words": [
       "夏天",
@@ -12313,7 +12313,7 @@ const characters = {
   },
   "夕": {
     "pinyin": "xī",
-    "radical": "勺",
+    "radical": "夕",
     "strokes": 3,
     "words": [
       "除夕",
@@ -12354,7 +12354,7 @@ const characters = {
   },
   "多": {
     "pinyin": "duō",
-    "radical": "夕",
+    "radical": "多",
     "strokes": 6,
     "words": [
       "多少",
@@ -12380,7 +12380,7 @@ const characters = {
   },
   "够": {
     "pinyin": "goù",
-    "radical": "句",
+    "radical": "勹",
     "strokes": 11,
     "words": [
       "能够",
@@ -12399,7 +12399,7 @@ const characters = {
   },
   "夥": {
     "pinyin": "huǒ",
-    "radical": "果",
+    "radical": "田",
     "strokes": 14,
     "words": [
       "夥伴",
@@ -12408,7 +12408,7 @@ const characters = {
   },
   "大": {
     "pinyin": "dà",
-    "radical": "人",
+    "radical": "大",
     "strokes": 3,
     "words": [
       "大吉",
@@ -12494,7 +12494,7 @@ const characters = {
   },
   "失": {
     "pinyin": "shī",
-    "radical": "夫",
+    "radical": "人",
     "strokes": 5,
     "words": [
       "失去",
@@ -12546,7 +12546,7 @@ const characters = {
   },
   "夹": {
     "pinyin": "jiā",
-    "radical": "夫",
+    "radical": "人",
     "strokes": 6,
     "words": [
       "夹克",
@@ -12623,7 +12623,7 @@ const characters = {
   },
   "奉": {
     "pinyin": "feng4",
-    "radical": "𡗗",
+    "radical": "一",
     "strokes": 8,
     "words": [
       "奉上",
@@ -12659,7 +12659,7 @@ const characters = {
   },
   "奏": {
     "pinyin": "zoù",
-    "radical": "𡗗",
+    "radical": "一",
     "strokes": 9,
     "words": [
       "演奏",
@@ -12672,7 +12672,7 @@ const characters = {
   },
   "契": {
     "pinyin": "qì",
-    "radical": "㓞",
+    "radical": "一",
     "strokes": 9,
     "words": [
       "契约",
@@ -12704,13 +12704,13 @@ const characters = {
   },
   "奕": {
     "pinyin": "yì",
-    "radical": "亦",
+    "radical": "亠",
     "strokes": 9,
     "words": []
   },
   "奖": {
     "pinyin": "jiang3",
-    "radical": "",
+    "radical": "丬",
     "strokes": 9,
     "words": [
       "大奖",
@@ -12736,7 +12736,7 @@ const characters = {
   },
   "奘": {
     "pinyin": "zang4",
-    "radical": "壯",
+    "radical": "爿",
     "strokes": 10,
     "words": [
       "玄奘"
@@ -12752,7 +12752,7 @@ const characters = {
   },
   "奠": {
     "pinyin": "dian4",
-    "radical": "酋",
+    "radical": "丷",
     "strokes": 12,
     "words": [
       "祭奠",
@@ -12776,7 +12776,7 @@ const characters = {
   },
   "奥": {
     "pinyin": "Aò",
-    "radical": "",
+    "radical": "宀",
     "strokes": 12,
     "words": [
       "奥妙",
@@ -12795,7 +12795,7 @@ const characters = {
   },
   "女": {
     "pinyin": "nu:3",
-    "radical": "㇛",
+    "radical": "女",
     "strokes": 3,
     "words": [
       "女人",
@@ -12902,7 +12902,7 @@ const characters = {
   },
   "妄": {
     "pinyin": "wang4",
-    "radical": "亡",
+    "radical": "匸",
     "strokes": 6,
     "words": [
       "妄想",
@@ -13139,7 +13139,7 @@ const characters = {
   },
   "妻": {
     "pinyin": "qī",
-    "radical": "",
+    "radical": "十",
     "strokes": 8,
     "words": [
       "夫妻",
@@ -13369,7 +13369,7 @@ const characters = {
   },
   "姿": {
     "pinyin": "zī",
-    "radical": "次",
+    "radical": "冫",
     "strokes": 9,
     "words": [
       "姿势",
@@ -13382,7 +13382,7 @@ const characters = {
   },
   "威": {
     "pinyin": "weī",
-    "radical": "戌",
+    "radical": "厂",
     "strokes": 9,
     "words": [
       "助威",
@@ -13445,7 +13445,7 @@ const characters = {
   },
   "娈": {
     "pinyin": "luan2",
-    "radical": "亦",
+    "radical": "亠",
     "strokes": 9,
     "words": [
       "娈童"
@@ -13467,7 +13467,7 @@ const characters = {
   },
   "娑": {
     "pinyin": "suō",
-    "radical": "沙",
+    "radical": "氵",
     "strokes": 10,
     "words": [
       "婆娑",
@@ -13580,7 +13580,7 @@ const characters = {
   },
   "娶": {
     "pinyin": "qǔ",
-    "radical": "取",
+    "radical": "耳",
     "strokes": 11,
     "words": [
       "娶妻",
@@ -13612,7 +13612,7 @@ const characters = {
   },
   "婆": {
     "pinyin": "pó",
-    "radical": "波",
+    "radical": "氵",
     "strokes": 11,
     "words": [
       "老婆",
@@ -13729,7 +13729,7 @@ const characters = {
   },
   "婺": {
     "pinyin": "wù",
-    "radical": "敄",
+    "radical": "矛",
     "strokes": 12,
     "words": [
       "婺源",
@@ -13931,7 +13931,7 @@ const characters = {
   },
   "嫠": {
     "pinyin": "lí",
-    "radical": "",
+    "radical": "木",
     "strokes": 14,
     "words": []
   },
@@ -14005,7 +14005,7 @@ const characters = {
   },
   "嬖": {
     "pinyin": "bì",
-    "radical": "辟",
+    "radical": "尸",
     "strokes": 16,
     "words": []
   },
@@ -14033,7 +14033,7 @@ const characters = {
   },
   "嬴": {
     "pinyin": "Ying2",
-    "radical": "𣎆",
+    "radical": "匸",
     "strokes": 16,
     "words": [
       "嬴政"
@@ -14055,7 +14055,7 @@ const characters = {
   },
   "子": {
     "pinyin": "zǐ",
-    "radical": "了",
+    "radical": "子",
     "strokes": 3,
     "words": [
       "儿子",
@@ -14068,7 +14068,7 @@ const characters = {
   },
   "孑": {
     "pinyin": "jié",
-    "radical": "子",
+    "radical": "孑",
     "strokes": 3,
     "words": [
       "孑然",
@@ -14079,7 +14079,7 @@ const characters = {
   },
   "孓": {
     "pinyin": "jué",
-    "radical": "了",
+    "radical": "㇇",
     "strokes": 3,
     "words": [
       "孑孓"
@@ -14100,7 +14100,7 @@ const characters = {
   },
   "孕": {
     "pinyin": "yun4",
-    "radical": "乃",
+    "radical": "㇎",
     "strokes": 5,
     "words": [
       "孕妇",
@@ -14239,13 +14239,13 @@ const characters = {
   },
   "孥": {
     "pinyin": "nú",
-    "radical": "奴",
+    "radical": "女",
     "strokes": 8,
     "words": []
   },
   "学": {
     "pinyin": "xué",
-    "radical": "",
+    "radical": "子",
     "strokes": 8,
     "words": [
       "上学",
@@ -14271,7 +14271,7 @@ const characters = {
   },
   "孪": {
     "pinyin": "luan2",
-    "radical": "亦",
+    "radical": "亠",
     "strokes": 9,
     "words": [
       "孪生"
@@ -14279,7 +14279,7 @@ const characters = {
   },
   "孬": {
     "pinyin": "naō",
-    "radical": "不",
+    "radical": "一",
     "strokes": 10,
     "words": [
       "孬种"
@@ -14287,7 +14287,7 @@ const characters = {
   },
   "孰": {
     "pinyin": "shú",
-    "radical": "享",
+    "radical": "亠",
     "strokes": 11,
     "words": []
   },
@@ -14301,7 +14301,7 @@ const characters = {
   },
   "孳": {
     "pinyin": "zī",
-    "radical": "兹",
+    "radical": "丷",
     "strokes": 12,
     "words": [
       "孳生"
@@ -14324,7 +14324,7 @@ const characters = {
   },
   "孽": {
     "pinyin": "niè",
-    "radical": "薛",
+    "radical": "艹",
     "strokes": 19,
     "words": [
       "作孽",
@@ -14337,7 +14337,7 @@ const characters = {
   },
   "宀": {
     "pinyin": "mian2",
-    "radical": "冖",
+    "radical": "宀",
     "strokes": 3,
     "words": []
   },
@@ -14978,7 +14978,7 @@ const characters = {
   },
   "寨": {
     "pinyin": "zhaì",
-    "radical": "",
+    "radical": "宀",
     "strokes": 14,
     "words": [
       "山寨",
@@ -15006,7 +15006,7 @@ const characters = {
   },
   "寸": {
     "pinyin": "cun4",
-    "radical": "",
+    "radical": "寸",
     "strokes": 3,
     "words": [
       "分寸",
@@ -15068,7 +15068,7 @@ const characters = {
   },
   "寿": {
     "pinyin": "Shoù",
-    "radical": "丰",
+    "radical": "一",
     "strokes": 7,
     "words": [
       "寿司",
@@ -15094,7 +15094,7 @@ const characters = {
   },
   "尃": {
     "pinyin": "fū",
-    "radical": "甫",
+    "radical": "十",
     "strokes": 10,
     "words": []
   },
@@ -15126,7 +15126,7 @@ const characters = {
   },
   "尉": {
     "pinyin": "Weì",
-    "radical": "",
+    "radical": "尸",
     "strokes": 11,
     "words": [
       "校尉",
@@ -15139,7 +15139,7 @@ const characters = {
   },
   "尊": {
     "pinyin": "zun1",
-    "radical": "酋",
+    "radical": "丷",
     "strokes": 12,
     "words": [
       "尊严",
@@ -15152,13 +15152,13 @@ const characters = {
   },
   "尌": {
     "pinyin": "shù",
-    "radical": "壴",
+    "radical": "十",
     "strokes": 12,
     "words": []
   },
   "小": {
     "pinyin": "xiaǒ",
-    "radical": "亅",
+    "radical": "小",
     "strokes": 3,
     "words": [
       "小时",
@@ -15197,7 +15197,7 @@ const characters = {
   },
   "尕": {
     "pinyin": "gǎ",
-    "radical": "乃",
+    "radical": "㇎",
     "strokes": 5,
     "words": []
   },
@@ -15216,7 +15216,7 @@ const characters = {
   },
   "尗": {
     "pinyin": "shū",
-    "radical": "上",
+    "radical": "⺊",
     "strokes": 6,
     "words": []
   },
@@ -15241,7 +15241,7 @@ const characters = {
   },
   "尚": {
     "pinyin": "Shang4",
-    "radical": "",
+    "radical": "⺌",
     "strokes": 8,
     "words": [
       "和尚",
@@ -15262,7 +15262,7 @@ const characters = {
   },
   "尝": {
     "pinyin": "chang2",
-    "radical": "龸",
+    "radical": "⺌",
     "strokes": 9,
     "words": [
       "尝试",
@@ -15275,7 +15275,7 @@ const characters = {
   },
   "尢": {
     "pinyin": "wang1",
-    "radical": "𠂇",
+    "radical": "尢",
     "strokes": 3,
     "words": []
   },
@@ -15308,7 +15308,7 @@ const characters = {
   },
   "尨": {
     "pinyin": "Pang2",
-    "radical": "",
+    "radical": "𠂇",
     "strokes": 7,
     "words": []
   },
@@ -15322,7 +15322,7 @@ const characters = {
   },
   "就": {
     "pinyin": "jiù",
-    "radical": "京",
+    "radical": "亠",
     "strokes": 12,
     "words": [
       "就算",
@@ -15343,7 +15343,7 @@ const characters = {
   },
   "尸": {
     "pinyin": "shī",
-    "radical": "丨",
+    "radical": "尸",
     "strokes": 3,
     "words": [
       "僵尸",
@@ -15394,7 +15394,7 @@ const characters = {
   },
   "尽": {
     "pinyin": "jin3",
-    "radical": "尺",
+    "radical": "尸",
     "strokes": 6,
     "words": [
       "尽管",
@@ -15679,7 +15679,7 @@ const characters = {
   },
   "屮": {
     "pinyin": "chè",
-    "radical": "丨",
+    "radical": "屮",
     "strokes": 3,
     "words": []
   },
@@ -15698,7 +15698,7 @@ const characters = {
   },
   "山": {
     "pinyin": "Shan1",
-    "radical": "丨",
+    "radical": "山",
     "strokes": 3,
     "words": [
       "中山",
@@ -15788,7 +15788,7 @@ const characters = {
   },
   "岔": {
     "pinyin": "chà",
-    "radical": "分",
+    "radical": "八",
     "strokes": 7,
     "words": [
       "岔口",
@@ -15830,7 +15830,7 @@ const characters = {
   },
   "岙": {
     "pinyin": "aò",
-    "radical": "夭",
+    "radical": "㇒",
     "strokes": 7,
     "words": []
   },
@@ -15845,7 +15845,7 @@ const characters = {
   },
   "岛": {
     "pinyin": "daǒ",
-    "radical": "",
+    "radical": "㇆",
     "strokes": 7,
     "words": [
       "列岛",
@@ -15911,7 +15911,7 @@ const characters = {
   },
   "岱": {
     "pinyin": "Daì",
-    "radical": "代",
+    "radical": "亻",
     "strokes": 8,
     "words": [
       "岱山",
@@ -15922,7 +15922,7 @@ const characters = {
   },
   "岳": {
     "pinyin": "Yuè",
-    "radical": "丘",
+    "radical": "斤",
     "strokes": 8,
     "words": [
       "岳父",
@@ -16043,7 +16043,7 @@ const characters = {
   },
   "峦": {
     "pinyin": "luan2",
-    "radical": "亦",
+    "radical": "亠",
     "strokes": 9,
     "words": [
       "山峦",
@@ -16316,7 +16316,7 @@ const characters = {
   },
   "嵞": {
     "pinyin": "Tú",
-    "radical": "余",
+    "radical": "人",
     "strokes": 13,
     "words": []
   },
@@ -16421,13 +16421,13 @@ const characters = {
   },
   "巛": {
     "pinyin": "chuan1",
-    "radical": "㇛",
+    "radical": "巛",
     "strokes": 3,
     "words": []
   },
   "川": {
     "pinyin": "chuan1",
-    "radical": "丨",
+    "radical": "川",
     "strokes": 3,
     "words": [
       "四川",
@@ -16440,7 +16440,7 @@ const characters = {
   },
   "州": {
     "pinyin": "zhoū",
-    "radical": "",
+    "radical": "州",
     "strokes": 6,
     "words": [
       "广州",
@@ -16453,7 +16453,7 @@ const characters = {
   },
   "巠": {
     "pinyin": "jing1",
-    "radical": "",
+    "radical": "一",
     "strokes": 7,
     "words": []
   },
@@ -16485,7 +16485,7 @@ const characters = {
   },
   "工": {
     "pinyin": "gong1",
-    "radical": "一",
+    "radical": "工",
     "strokes": 3,
     "words": [
       "员工",
@@ -16498,7 +16498,7 @@ const characters = {
   },
   "左": {
     "pinyin": "Zuǒ",
-    "radical": "𠂇",
+    "radical": "工",
     "strokes": 5,
     "words": [
       "左右",
@@ -16576,7 +16576,7 @@ const characters = {
   },
   "己": {
     "pinyin": "jǐ",
-    "radical": "",
+    "radical": "己",
     "strokes": 3,
     "words": [
       "自己",
@@ -16589,7 +16589,7 @@ const characters = {
   },
   "已": {
     "pinyin": "yǐ",
-    "radical": "己",
+    "radical": "已",
     "strokes": 3,
     "words": [
       "已经",
@@ -16602,7 +16602,7 @@ const characters = {
   },
   "巳": {
     "pinyin": "sì",
-    "radical": "尸",
+    "radical": "巳",
     "strokes": 3,
     "words": [
       "丁巳",
@@ -16613,7 +16613,7 @@ const characters = {
   },
   "巴": {
     "pinyin": "Bā",
-    "radical": "𠃜",
+    "radical": "丨",
     "strokes": 4,
     "words": [
       "下巴",
@@ -16626,7 +16626,7 @@ const characters = {
   },
   "巷": {
     "pinyin": "xiang4",
-    "radical": "共",
+    "radical": "艹",
     "strokes": 9,
     "words": [
       "小巷",
@@ -16643,7 +16643,7 @@ const characters = {
   },
   "巾": {
     "pinyin": "jin1",
-    "radical": "冂",
+    "radical": "巾",
     "strokes": 3,
     "words": [
       "围巾",
@@ -16727,7 +16727,7 @@ const characters = {
   },
   "师": {
     "pinyin": "Shī",
-    "radical": "",
+    "radical": "巾",
     "strokes": 6,
     "words": [
       "师傅",
@@ -16740,7 +16740,7 @@ const characters = {
   },
   "希": {
     "pinyin": "xī",
-    "radical": "乂",
+    "radical": "巾",
     "strokes": 7,
     "words": [
       "希望",
@@ -16774,7 +16774,7 @@ const characters = {
   },
   "帑": {
     "pinyin": "tang3",
-    "radical": "奴",
+    "radical": "女",
     "strokes": 8,
     "words": []
   },
@@ -16856,7 +16856,7 @@ const characters = {
   },
   "帝": {
     "pinyin": "dì",
-    "radical": "",
+    "radical": "亠",
     "strokes": 9,
     "words": [
       "上帝",
@@ -16869,7 +16869,7 @@ const characters = {
   },
   "带": {
     "pinyin": "daì",
-    "radical": "卅",
+    "radical": "巾",
     "strokes": 9,
     "words": [
       "带来",
@@ -16888,7 +16888,7 @@ const characters = {
   },
   "席": {
     "pinyin": "Xí",
-    "radical": "",
+    "radical": "广",
     "strokes": 10,
     "words": [
       "主席",
@@ -16901,7 +16901,7 @@ const characters = {
   },
   "帮": {
     "pinyin": "bang1",
-    "radical": "邦",
+    "radical": "巾",
     "strokes": 9,
     "words": [
       "帮助",
@@ -16929,7 +16929,7 @@ const characters = {
   },
   "常": {
     "pinyin": "Chang2",
-    "radical": "龸",
+    "radical": "⺌",
     "strokes": 11,
     "words": [
       "正常",
@@ -17012,7 +17012,7 @@ const characters = {
   },
   "幕": {
     "pinyin": "mù",
-    "radical": "艹",
+    "radical": "巾",
     "strokes": 13,
     "words": [
       "字幕",
@@ -17053,7 +17053,7 @@ const characters = {
   },
   "干": {
     "pinyin": "Gan1",
-    "radical": "一",
+    "radical": "干",
     "strokes": 3,
     "words": [
       "干净",
@@ -17079,7 +17079,7 @@ const characters = {
   },
   "年": {
     "pinyin": "Nian2",
-    "radical": "𠂉",
+    "radical": "丿",
     "strokes": 6,
     "words": [
       "今年",
@@ -17105,7 +17105,7 @@ const characters = {
   },
   "幸": {
     "pinyin": "xing4",
-    "radical": "土",
+    "radical": "干",
     "strokes": 8,
     "words": [
       "幸福",
@@ -17118,7 +17118,7 @@ const characters = {
   },
   "幺": {
     "pinyin": "Yaō",
-    "radical": "",
+    "radical": "幺",
     "strokes": 3,
     "words": [
       "老幺"
@@ -17165,7 +17165,7 @@ const characters = {
   },
   "广": {
     "pinyin": "Guang3",
-    "radical": "厂",
+    "radical": "广",
     "strokes": 3,
     "words": [
       "广告",
@@ -17411,7 +17411,7 @@ const characters = {
   },
   "度": {
     "pinyin": "dù",
-    "radical": "",
+    "radical": "广",
     "strokes": 9,
     "words": [
       "速度",
@@ -17462,7 +17462,7 @@ const characters = {
   },
   "庶": {
     "pinyin": "shù",
-    "radical": "",
+    "radical": "广",
     "strokes": 11,
     "words": [
       "富庶",
@@ -17498,7 +17498,7 @@ const characters = {
   },
   "庹": {
     "pinyin": "tuǒ",
-    "radical": "",
+    "radical": "广",
     "strokes": 11,
     "words": []
   },
@@ -17538,13 +17538,13 @@ const characters = {
   },
   "廌": {
     "pinyin": "zhì",
-    "radical": "",
+    "radical": "广",
     "strokes": 13,
     "words": []
   },
   "廑": {
     "pinyin": "jin3",
-    "radical": "",
+    "radical": "广",
     "strokes": 14,
     "words": []
   },
@@ -17572,7 +17572,7 @@ const characters = {
   },
   "廛": {
     "pinyin": "chan2",
-    "radical": "㢆",
+    "radical": "广",
     "strokes": 15,
     "words": []
   },
@@ -17633,13 +17633,13 @@ const characters = {
   },
   "廾": {
     "pinyin": "gong3",
-    "radical": "艹",
+    "radical": "廾",
     "strokes": 3,
     "words": []
   },
   "廿": {
     "pinyin": "nian4",
-    "radical": "卄",
+    "radical": "廿",
     "strokes": 4,
     "words": []
   },
@@ -17677,7 +17677,7 @@ const characters = {
   },
   "弃": {
     "pinyin": "qì",
-    "radical": "",
+    "radical": "亠",
     "strokes": 7,
     "words": [
       "放弃",
@@ -17703,13 +17703,13 @@ const characters = {
   },
   "弇": {
     "pinyin": "yan3",
-    "radical": "合",
+    "radical": "人",
     "strokes": 9,
     "words": []
   },
   "弈": {
     "pinyin": "yì",
-    "radical": "亦",
+    "radical": "亠",
     "strokes": 9,
     "words": [
       "博弈",
@@ -17718,7 +17718,7 @@ const characters = {
   },
   "弊": {
     "pinyin": "bì",
-    "radical": "敝",
+    "radical": "巾",
     "strokes": 14,
     "words": [
       "作弊",
@@ -17731,7 +17731,7 @@ const characters = {
   },
   "弋": {
     "pinyin": "yì",
-    "radical": "㇂",
+    "radical": "弋",
     "strokes": 3,
     "words": [
       "游弋",
@@ -17753,7 +17753,7 @@ const characters = {
   },
   "弑": {
     "pinyin": "shì",
-    "radical": "杀",
+    "radical": "乂",
     "strokes": 12,
     "words": [
       "弑君",
@@ -17762,7 +17762,7 @@ const characters = {
   },
   "弓": {
     "pinyin": "Gong1",
-    "radical": "",
+    "radical": "弓",
     "strokes": 3,
     "words": [
       "弓形",
@@ -17818,7 +17818,7 @@ const characters = {
   },
   "弟": {
     "pinyin": "dì",
-    "radical": "丷",
+    "radical": "弓",
     "strokes": 7,
     "words": [
       "兄弟",
@@ -17883,7 +17883,7 @@ const characters = {
   },
   "弩": {
     "pinyin": "nǔ",
-    "radical": "奴",
+    "radical": "女",
     "strokes": 8,
     "words": [
       "弓弩"
@@ -17903,13 +17903,13 @@ const characters = {
   },
   "弮": {
     "pinyin": "juan4",
-    "radical": "龹",
+    "radical": "二",
     "strokes": 9,
     "words": []
   },
   "弯": {
     "pinyin": "wan1",
-    "radical": "亦",
+    "radical": "弓",
     "strokes": 9,
     "words": [
       "弯曲",
@@ -17922,7 +17922,7 @@ const characters = {
   },
   "弱": {
     "pinyin": "ruò",
-    "radical": "",
+    "radical": "弓",
     "strokes": 10,
     "words": [
       "脆弱",
@@ -17967,7 +17967,7 @@ const characters = {
   },
   "彀": {
     "pinyin": "goù",
-    "radical": "",
+    "radical": "士",
     "strokes": 13,
     "words": []
   },
@@ -18053,13 +18053,13 @@ const characters = {
   },
   "彟": {
     "pinyin": "huò",
-    "radical": "寻",
+    "radical": "彐",
     "strokes": 20,
     "words": []
   },
   "形": {
     "pinyin": "xing2",
-    "radical": "开",
+    "radical": "一",
     "strokes": 7,
     "words": [
       "形容",
@@ -18072,13 +18072,13 @@ const characters = {
   },
   "彤": {
     "pinyin": "Tong2",
-    "radical": "丹",
+    "radical": "冂",
     "strokes": 7,
     "words": []
   },
   "彦": {
     "pinyin": "yan4",
-    "radical": "产",
+    "radical": "立",
     "strokes": 9,
     "words": [
       "巴彦"
@@ -18094,7 +18094,7 @@ const characters = {
   },
   "彩": {
     "pinyin": "caǐ",
-    "radical": "采",
+    "radical": "彡",
     "strokes": 11,
     "words": [
       "彩色",
@@ -18107,7 +18107,7 @@ const characters = {
   },
   "彪": {
     "pinyin": "biaō",
-    "radical": "虎",
+    "radical": "虍",
     "strokes": 11,
     "words": [
       "彪悍",
@@ -18129,7 +18129,7 @@ const characters = {
   },
   "彭": {
     "pinyin": "Peng2",
-    "radical": "壴",
+    "radical": "十",
     "strokes": 12,
     "words": [
       "彭州",
@@ -18142,7 +18142,7 @@ const characters = {
   },
   "彰": {
     "pinyin": "zhang1",
-    "radical": "章",
+    "radical": "立",
     "strokes": 14,
     "words": [
       "彰显",
@@ -18153,7 +18153,7 @@ const characters = {
   },
   "影": {
     "pinyin": "ying3",
-    "radical": "景",
+    "radical": "彡",
     "strokes": 15,
     "words": [
       "影响",
@@ -18166,7 +18166,7 @@ const characters = {
   },
   "彳": {
     "pinyin": "chì",
-    "radical": "",
+    "radical": "彳",
     "strokes": 3,
     "words": []
   },
@@ -18497,7 +18497,7 @@ const characters = {
   },
   "心": {
     "pinyin": "xin1",
-    "radical": "𠁼",
+    "radical": "心",
     "strokes": 4,
     "words": [
       "内心",
@@ -18552,7 +18552,7 @@ const characters = {
   },
   "忍": {
     "pinyin": "ren3",
-    "radical": "刃",
+    "radical": "刀",
     "strokes": 7,
     "words": [
       "容忍",
@@ -18573,7 +18573,7 @@ const characters = {
   },
   "忐": {
     "pinyin": "tan3",
-    "radical": "上",
+    "radical": "⺊",
     "strokes": 7,
     "words": [
       "忐忑"
@@ -18581,7 +18581,7 @@ const characters = {
   },
   "忑": {
     "pinyin": "tè",
-    "radical": "下",
+    "radical": "一",
     "strokes": 7,
     "words": [
       "忐忑"
@@ -18619,7 +18619,7 @@ const characters = {
   },
   "忘": {
     "pinyin": "wang4",
-    "radical": "亡",
+    "radical": "心",
     "strokes": 7,
     "words": [
       "忘记",
@@ -18632,7 +18632,7 @@ const characters = {
   },
   "忙": {
     "pinyin": "mang2",
-    "radical": "忄",
+    "radical": "心",
     "strokes": 6,
     "words": [
       "帮忙",
@@ -18645,7 +18645,7 @@ const characters = {
   },
   "忝": {
     "pinyin": "tian3",
-    "radical": "天",
+    "radical": "一",
     "strokes": 8,
     "words": []
   },
@@ -18657,7 +18657,7 @@ const characters = {
   },
   "忠": {
     "pinyin": "zhong1",
-    "radical": "中",
+    "radical": "口",
     "strokes": 8,
     "words": [
       "忠告",
@@ -18707,7 +18707,7 @@ const characters = {
   },
   "快": {
     "pinyin": "kuaì",
-    "radical": "忄",
+    "radical": "心",
     "strokes": 7,
     "words": [
       "快乐",
@@ -18740,7 +18740,7 @@ const characters = {
   },
   "念": {
     "pinyin": "nian4",
-    "radical": "今",
+    "radical": "人",
     "strokes": 8,
     "words": [
       "思念",
@@ -18770,7 +18770,7 @@ const characters = {
   },
   "忽": {
     "pinyin": "Hū",
-    "radical": "勿",
+    "radical": "勹",
     "strokes": 8,
     "words": [
       "忽然",
@@ -18789,7 +18789,7 @@ const characters = {
   },
   "忿": {
     "pinyin": "fen4",
-    "radical": "分",
+    "radical": "八",
     "strokes": 8,
     "words": [
       "忿忿",
@@ -18800,7 +18800,7 @@ const characters = {
   },
   "怀": {
     "pinyin": "Huaí",
-    "radical": "忄",
+    "radical": "心",
     "strokes": 7,
     "words": [
       "怀孕",
@@ -18813,7 +18813,7 @@ const characters = {
   },
   "态": {
     "pinyin": "taì",
-    "radical": "太",
+    "radical": "心",
     "strokes": 8,
     "words": [
       "心态",
@@ -18874,7 +18874,7 @@ const characters = {
   },
   "怎": {
     "pinyin": "zen3",
-    "radical": "乍",
+    "radical": "丿",
     "strokes": 9,
     "words": [
       "怎么",
@@ -18891,7 +18891,7 @@ const characters = {
   },
   "怒": {
     "pinyin": "nù",
-    "radical": "奴",
+    "radical": "女",
     "strokes": 9,
     "words": [
       "怒火",
@@ -18915,7 +18915,7 @@ const characters = {
   },
   "怕": {
     "pinyin": "Pà",
-    "radical": "忄",
+    "radical": "心",
     "strokes": 8,
     "words": [
       "可怕",
@@ -18961,7 +18961,7 @@ const characters = {
   },
   "思": {
     "pinyin": "sī",
-    "radical": "田",
+    "radical": "心",
     "strokes": 9,
     "words": [
       "思念",
@@ -18974,7 +18974,7 @@ const characters = {
   },
   "怠": {
     "pinyin": "daì",
-    "radical": "台",
+    "radical": "厶",
     "strokes": 9,
     "words": [
       "倦怠",
@@ -18998,7 +18998,7 @@ const characters = {
   },
   "急": {
     "pinyin": "jí",
-    "radical": "刍",
+    "radical": "⺈",
     "strokes": 9,
     "words": [
       "着急",
@@ -19020,7 +19020,7 @@ const characters = {
   },
   "性": {
     "pinyin": "xing4",
-    "radical": "忄",
+    "radical": "心",
     "strokes": 8,
     "words": [
       "人性",
@@ -19033,7 +19033,7 @@ const characters = {
   },
   "怨": {
     "pinyin": "yuan4",
-    "radical": "夗",
+    "radical": "夕",
     "strokes": 9,
     "words": [
       "抱怨",
@@ -19086,7 +19086,7 @@ const characters = {
   },
   "怱": {
     "pinyin": "cong1",
-    "radical": "匆",
+    "radical": "勹",
     "strokes": 9,
     "words": []
   },
@@ -19100,7 +19100,7 @@ const characters = {
   },
   "总": {
     "pinyin": "zong3",
-    "radical": "𠮦",
+    "radical": "心",
     "strokes": 9,
     "words": [
       "总是",
@@ -19113,7 +19113,7 @@ const characters = {
   },
   "怼": {
     "pinyin": "duì",
-    "radical": "对",
+    "radical": "又",
     "strokes": 9,
     "words": [
       "怨怼"
@@ -19127,7 +19127,7 @@ const characters = {
   },
   "恁": {
     "pinyin": "nin2",
-    "radical": "任",
+    "radical": "亻",
     "strokes": 10,
     "words": [
       "恁么",
@@ -19151,7 +19151,7 @@ const characters = {
   },
   "恋": {
     "pinyin": "lian4",
-    "radical": "亦",
+    "radical": "亠",
     "strokes": 10,
     "words": [
       "恋人",
@@ -19177,7 +19177,7 @@ const characters = {
   },
   "恐": {
     "pinyin": "kong3",
-    "radical": "巩",
+    "radical": "工",
     "strokes": 10,
     "words": [
       "恐怖",
@@ -19209,7 +19209,7 @@ const characters = {
   },
   "恕": {
     "pinyin": "shù",
-    "radical": "如",
+    "radical": "女",
     "strokes": 10,
     "words": [
       "宽恕",
@@ -19233,7 +19233,7 @@ const characters = {
   },
   "恝": {
     "pinyin": "jiá",
-    "radical": "㓞",
+    "radical": "一",
     "strokes": 10,
     "words": []
   },
@@ -19250,7 +19250,7 @@ const characters = {
   },
   "恣": {
     "pinyin": "zì",
-    "radical": "次",
+    "radical": "冫",
     "strokes": 10,
     "words": [
       "恣意",
@@ -19287,7 +19287,7 @@ const characters = {
   },
   "恩": {
     "pinyin": "en1",
-    "radical": "因",
+    "radical": "心",
     "strokes": 10,
     "words": [
       "感恩",
@@ -19329,7 +19329,7 @@ const characters = {
   },
   "恭": {
     "pinyin": "gong1",
-    "radical": "共",
+    "radical": "艹",
     "strokes": 10,
     "words": [
       "恭喜",
@@ -19380,7 +19380,7 @@ const characters = {
   },
   "恶": {
     "pinyin": "ě",
-    "radical": "亚",
+    "radical": "一",
     "strokes": 10,
     "words": [
       "厌恶",
@@ -19566,7 +19566,7 @@ const characters = {
   },
   "悠": {
     "pinyin": "yoū",
-    "radical": "攸",
+    "radical": "亻",
     "strokes": 11,
     "words": [
       "忽悠",
@@ -19592,7 +19592,7 @@ const characters = {
   },
   "悤": {
     "pinyin": "cong1",
-    "radical": "囱",
+    "radical": "囗",
     "strokes": 11,
     "words": []
   },
@@ -19611,13 +19611,13 @@ const characters = {
   },
   "悧": {
     "pinyin": "lì",
-    "radical": "",
+    "radical": "忄",
     "strokes": 10,
     "words": []
   },
   "您": {
     "pinyin": "nin2",
-    "radical": "你",
+    "radical": "亻",
     "strokes": 11,
     "words": [
       "您好"
@@ -19631,7 +19631,7 @@ const characters = {
   },
   "悬": {
     "pinyin": "xuan2",
-    "radical": "且",
+    "radical": "月",
     "strokes": 11,
     "words": [
       "悬崖",
@@ -19716,7 +19716,7 @@ const characters = {
   },
   "情": {
     "pinyin": "qing2",
-    "radical": "忄",
+    "radical": "心",
     "strokes": 11,
     "words": [
       "事情",
@@ -19758,7 +19758,7 @@ const characters = {
   },
   "惑": {
     "pinyin": "huò",
-    "radical": "或",
+    "radical": "戈",
     "strokes": 12,
     "words": [
       "诱惑",
@@ -19846,7 +19846,7 @@ const characters = {
   },
   "惠": {
     "pinyin": "Huì",
-    "radical": "",
+    "radical": "十",
     "strokes": 12,
     "words": [
       "优惠",
@@ -19892,7 +19892,7 @@ const characters = {
   },
   "惩": {
     "pinyin": "cheng2",
-    "radical": "征",
+    "radical": "彳",
     "strokes": 12,
     "words": [
       "惩罚",
@@ -19961,7 +19961,7 @@ const characters = {
   },
   "想": {
     "pinyin": "xiang3",
-    "radical": "相",
+    "radical": "心",
     "strokes": 13,
     "words": [
       "梦想",
@@ -19993,7 +19993,7 @@ const characters = {
   },
   "惹": {
     "pinyin": "rě",
-    "radical": "若",
+    "radical": "艹",
     "strokes": 12,
     "words": [
       "惹事",
@@ -20021,7 +20021,7 @@ const characters = {
   },
   "愁": {
     "pinyin": "choú",
-    "radical": "秋",
+    "radical": "禾",
     "strokes": 13,
     "words": [
       "哀愁",
@@ -20034,13 +20034,13 @@ const characters = {
   },
   "愆": {
     "pinyin": "qian1",
-    "radical": "衍",
+    "radical": "行",
     "strokes": 13,
     "words": []
   },
   "愈": {
     "pinyin": "yù",
-    "radical": "俞",
+    "radical": "人",
     "strokes": 13,
     "words": [
       "治愈",
@@ -20063,7 +20063,7 @@ const characters = {
   },
   "愍": {
     "pinyin": "min3",
-    "radical": "敃",
+    "radical": "巳",
     "strokes": 13,
     "words": []
   },
@@ -20077,7 +20077,7 @@ const characters = {
   },
   "意": {
     "pinyin": "Yì",
-    "radical": "音",
+    "radical": "心",
     "strokes": 13,
     "words": [
       "任意",
@@ -20100,7 +20100,7 @@ const characters = {
   },
   "愚": {
     "pinyin": "yú",
-    "radical": "禺",
+    "radical": "冂",
     "strokes": 13,
     "words": [
       "愚蠢",
@@ -20113,7 +20113,7 @@ const characters = {
   },
   "感": {
     "pinyin": "gan3",
-    "radical": "咸",
+    "radical": "心",
     "strokes": 13,
     "words": [
       "感冒",
@@ -20181,7 +20181,7 @@ const characters = {
   },
   "愿": {
     "pinyin": "yuan4",
-    "radical": "原",
+    "radical": "厂",
     "strokes": 14,
     "words": [
       "心愿",
@@ -20194,7 +20194,7 @@ const characters = {
   },
   "慈": {
     "pinyin": "cí",
-    "radical": "兹",
+    "radical": "丷",
     "strokes": 13,
     "words": [
       "慈善",
@@ -20248,7 +20248,7 @@ const characters = {
   },
   "慕": {
     "pinyin": "mù",
-    "radical": "莫",
+    "radical": "艹",
     "strokes": 14,
     "words": [
       "羡慕",
@@ -20261,13 +20261,13 @@ const characters = {
   },
   "慝": {
     "pinyin": "tè",
-    "radical": "匿",
+    "radical": "匚",
     "strokes": 14,
     "words": []
   },
   "慢": {
     "pinyin": "man4",
-    "radical": "忄",
+    "radical": "心",
     "strokes": 14,
     "words": [
       "慢慢",
@@ -20280,7 +20280,7 @@ const characters = {
   },
   "慧": {
     "pinyin": "huì",
-    "radical": "彗",
+    "radical": "",
     "strokes": 15,
     "words": [
       "智慧",
@@ -20302,7 +20302,7 @@ const characters = {
   },
   "慰": {
     "pinyin": "weì",
-    "radical": "尉",
+    "radical": "尸",
     "strokes": 15,
     "words": [
       "安慰",
@@ -20337,13 +20337,13 @@ const characters = {
   },
   "慼": {
     "pinyin": "qī",
-    "radical": "戚",
+    "radical": "厂",
     "strokes": 15,
     "words": []
   },
   "憋": {
     "pinyin": "biē",
-    "radical": "敝",
+    "radical": "巾",
     "strokes": 15,
     "words": [
       "憋闷",
@@ -20371,7 +20371,7 @@ const characters = {
   },
   "憝": {
     "pinyin": "duì",
-    "radical": "敦",
+    "radical": "亠",
     "strokes": 16,
     "words": []
   },
@@ -20385,7 +20385,7 @@ const characters = {
   },
   "憨": {
     "pinyin": "han1",
-    "radical": "敢",
+    "radical": "",
     "strokes": 15,
     "words": [
       "憨厚",
@@ -20396,7 +20396,7 @@ const characters = {
   },
   "憩": {
     "pinyin": "qì",
-    "radical": "",
+    "radical": "舌",
     "strokes": 16,
     "words": [
       "休憩",
@@ -20468,13 +20468,13 @@ const characters = {
   },
   "懋": {
     "pinyin": "maò",
-    "radical": "楙",
+    "radical": "林",
     "strokes": 17,
     "words": []
   },
   "懑": {
     "pinyin": "men4",
-    "radical": "满",
+    "radical": "氵",
     "strokes": 17,
     "words": [
       "愤懑"
@@ -20531,7 +20531,7 @@ const characters = {
   },
   "懿": {
     "pinyin": "yì",
-    "radical": "壹",
+    "radical": "士",
     "strokes": 22,
     "words": [
       "懿旨"
@@ -20539,13 +20539,13 @@ const characters = {
   },
   "戆": {
     "pinyin": "gang4",
-    "radical": "",
+    "radical": "立",
     "strokes": 25,
     "words": []
   },
   "戈": {
     "pinyin": "Gē",
-    "radical": "㇂",
+    "radical": "戈",
     "strokes": 4,
     "words": [
       "戈壁",
@@ -20575,13 +20575,13 @@ const characters = {
   },
   "戋": {
     "pinyin": "jian1",
-    "radical": "㇂",
+    "radical": "戋",
     "strokes": 5,
     "words": []
   },
   "戌": {
     "pinyin": "xū",
-    "radical": "戊",
+    "radical": "厂",
     "strokes": 6,
     "words": [
       "丙戌",
@@ -20594,7 +20594,7 @@ const characters = {
   },
   "戍": {
     "pinyin": "shù",
-    "radical": "戊",
+    "radical": "厂",
     "strokes": 6,
     "words": [
       "戍边",
@@ -20629,7 +20629,7 @@ const characters = {
   },
   "成": {
     "pinyin": "Cheng2",
-    "radical": "万",
+    "radical": "一",
     "strokes": 6,
     "words": [
       "完成",
@@ -20676,7 +20676,7 @@ const characters = {
   },
   "或": {
     "pinyin": "huò",
-    "radical": "戓",
+    "radical": "戈",
     "strokes": 8,
     "words": [
       "或是",
@@ -20689,7 +20689,7 @@ const characters = {
   },
   "戗": {
     "pinyin": "qiang1",
-    "radical": "仓",
+    "radical": "人",
     "strokes": 8,
     "words": [
       "够戗"
@@ -20697,7 +20697,7 @@ const characters = {
   },
   "战": {
     "pinyin": "zhan4",
-    "radical": "占",
+    "radical": "⺊",
     "strokes": 9,
     "words": [
       "作战",
@@ -20710,7 +20710,7 @@ const characters = {
   },
   "戚": {
     "pinyin": "Qī",
-    "radical": "戊",
+    "radical": "厂",
     "strokes": 11,
     "words": [
       "亲戚",
@@ -20722,7 +20722,7 @@ const characters = {
   },
   "戛": {
     "pinyin": "jiá",
-    "radical": "𦣻",
+    "radical": "一",
     "strokes": 11,
     "words": [
       "戛纳",
@@ -20732,7 +20732,7 @@ const characters = {
   },
   "戟": {
     "pinyin": "jǐ",
-    "radical": "龺",
+    "radical": "十",
     "strokes": 12,
     "words": [
       "巴戟"
@@ -20746,31 +20746,31 @@ const characters = {
   },
   "戡": {
     "pinyin": "kan1",
-    "radical": "甚",
+    "radical": "甘",
     "strokes": 13,
     "words": []
   },
   "戢": {
     "pinyin": "Jí",
-    "radical": "咠",
+    "radical": "口",
     "strokes": 12,
     "words": []
   },
   "戤": {
     "pinyin": "gaì",
-    "radical": "盈",
+    "radical": "㇎",
     "strokes": 13,
     "words": []
   },
   "戥": {
     "pinyin": "deng3",
-    "radical": "星",
+    "radical": "日",
     "strokes": 13,
     "words": []
   },
   "截": {
     "pinyin": "jié",
-    "radical": "𢦏",
+    "radical": "土",
     "strokes": 14,
     "words": [
       "截图",
@@ -20783,13 +20783,13 @@ const characters = {
   },
   "戬": {
     "pinyin": "jian3",
-    "radical": "晋",
+    "radical": "一",
     "strokes": 14,
     "words": []
   },
   "戮": {
     "pinyin": "lù",
-    "radical": "翏",
+    "radical": "羽",
     "strokes": 15,
     "words": [
       "杀戮",
@@ -20798,7 +20798,7 @@ const characters = {
   },
   "戳": {
     "pinyin": "chuō",
-    "radical": "翟",
+    "radical": "羽",
     "strokes": 18,
     "words": [
       "戳破",
@@ -20811,7 +20811,7 @@ const characters = {
   },
   "戴": {
     "pinyin": "Daì",
-    "radical": "𢦏",
+    "radical": "土",
     "strokes": 17,
     "words": [
       "佩戴",
@@ -20824,7 +20824,7 @@ const characters = {
   },
   "户": {
     "pinyin": "hù",
-    "radical": "尸",
+    "radical": "户",
     "strokes": 4,
     "words": [
       "客户",
@@ -20938,7 +20938,7 @@ const characters = {
   },
   "手": {
     "pinyin": "shoǔ",
-    "radical": "㇒",
+    "radical": "手",
     "strokes": 4,
     "words": [
       "分手",
@@ -21252,7 +21252,7 @@ const characters = {
   },
   "承": {
     "pinyin": "Cheng2",
-    "radical": "氶",
+    "radical": "㇖",
     "strokes": 8,
     "words": [
       "承受",
@@ -22010,7 +22010,7 @@ const characters = {
   },
   "拳": {
     "pinyin": "quan2",
-    "radical": "龹",
+    "radical": "二",
     "strokes": 10,
     "words": [
       "划拳",
@@ -22079,7 +22079,7 @@ const characters = {
   },
   "拿": {
     "pinyin": "ná",
-    "radical": "合",
+    "radical": "人",
     "strokes": 10,
     "words": [
       "拿下",
@@ -22131,7 +22131,7 @@ const characters = {
   },
   "挈": {
     "pinyin": "qiè",
-    "radical": "㓞",
+    "radical": "一",
     "strokes": 10,
     "words": []
   },
@@ -22184,7 +22184,7 @@ const characters = {
   },
   "挚": {
     "pinyin": "Zhì",
-    "radical": "执",
+    "radical": "扌",
     "strokes": 10,
     "words": [
       "挚爱",
@@ -22197,7 +22197,7 @@ const characters = {
   },
   "挛": {
     "pinyin": "luan2",
-    "radical": "亦",
+    "radical": "亠",
     "strokes": 10,
     "words": [
       "痉挛",
@@ -22349,7 +22349,7 @@ const characters = {
   },
   "挲": {
     "pinyin": "suō",
-    "radical": "沙",
+    "radical": "氵",
     "strokes": 11,
     "words": [
       "摩挲"
@@ -22697,7 +22697,7 @@ const characters = {
   },
   "掌": {
     "pinyin": "zhang3",
-    "radical": "",
+    "radical": "⺌",
     "strokes": 12,
     "words": [
       "掌控",
@@ -22794,7 +22794,7 @@ const characters = {
   },
   "掣": {
     "pinyin": "chè",
-    "radical": "制",
+    "radical": "牛",
     "strokes": 12,
     "words": []
   },
@@ -22887,7 +22887,7 @@ const characters = {
   },
   "掱": {
     "pinyin": "shoǔ",
-    "radical": "手",
+    "radical": "掱",
     "strokes": 12,
     "words": []
   },
@@ -23344,7 +23344,7 @@ const characters = {
   },
   "搴": {
     "pinyin": "qian1",
-    "radical": "",
+    "radical": "宀",
     "strokes": 14,
     "words": []
   },
@@ -23534,7 +23534,7 @@ const characters = {
   },
   "摹": {
     "pinyin": "mó",
-    "radical": "莫",
+    "radical": "艹",
     "strokes": 14,
     "words": [
       "临摹",
@@ -23792,7 +23792,7 @@ const characters = {
   },
   "擎": {
     "pinyin": "qing2",
-    "radical": "敬",
+    "radical": "艹",
     "strokes": 16,
     "words": [
       "引擎"
@@ -23821,7 +23821,7 @@ const characters = {
   },
   "擘": {
     "pinyin": "bò",
-    "radical": "辟",
+    "radical": "尸",
     "strokes": 17,
     "words": [
       "巨擘"
@@ -23876,7 +23876,7 @@ const characters = {
   },
   "攀": {
     "pinyin": "pan1",
-    "radical": "棥",
+    "radical": "林",
     "strokes": 19,
     "words": [
       "攀比",
@@ -23935,7 +23935,7 @@ const characters = {
   },
   "支": {
     "pinyin": "Zhī",
-    "radical": "十",
+    "radical": "支",
     "strokes": 4,
     "words": [
       "支持",
@@ -23948,13 +23948,13 @@ const characters = {
   },
   "攴": {
     "pinyin": "pū",
-    "radical": "⺊",
+    "radical": "攴",
     "strokes": 4,
     "words": []
   },
   "收": {
     "pinyin": "shoū",
-    "radical": "丩",
+    "radical": "丨",
     "strokes": 6,
     "words": [
       "收到",
@@ -23967,7 +23967,7 @@ const characters = {
   },
   "攸": {
     "pinyin": "yoū",
-    "radical": "",
+    "radical": "亻",
     "strokes": 7,
     "words": [
       "攸县",
@@ -24002,7 +24002,7 @@ const characters = {
   },
   "放": {
     "pinyin": "fang4",
-    "radical": "方",
+    "radical": "攴",
     "strokes": 8,
     "words": [
       "放假",
@@ -24015,7 +24015,7 @@ const characters = {
   },
   "政": {
     "pinyin": "zheng4",
-    "radical": "正",
+    "radical": "一",
     "strokes": 9,
     "words": [
       "政府",
@@ -24028,13 +24028,13 @@ const characters = {
   },
   "敃": {
     "pinyin": "min3",
-    "radical": "民",
+    "radical": "巳",
     "strokes": 9,
     "words": []
   },
   "故": {
     "pinyin": "gù",
-    "radical": "古",
+    "radical": "十",
     "strokes": 9,
     "words": [
       "故事",
@@ -24047,7 +24047,7 @@ const characters = {
   },
   "效": {
     "pinyin": "xiaò",
-    "radical": "交",
+    "radical": "亠",
     "strokes": 10,
     "words": [
       "效果",
@@ -24079,7 +24079,7 @@ const characters = {
   },
   "敏": {
     "pinyin": "min3",
-    "radical": "每",
+    "radical": "丿",
     "strokes": 11,
     "words": [
       "敏感",
@@ -24092,7 +24092,7 @@ const characters = {
   },
   "救": {
     "pinyin": "jiù",
-    "radical": "求",
+    "radical": "攴",
     "strokes": 11,
     "words": [
       "拯救",
@@ -24105,19 +24105,19 @@ const characters = {
   },
   "敕": {
     "pinyin": "chì",
-    "radical": "束",
+    "radical": "木",
     "strokes": 11,
     "words": []
   },
   "敖": {
     "pinyin": "Aó",
-    "radical": "",
+    "radical": "龶",
     "strokes": 10,
     "words": []
   },
   "教": {
     "pinyin": "Jiaò",
-    "radical": "孝",
+    "radical": "攴",
     "strokes": 11,
     "words": [
       "教室",
@@ -24130,7 +24130,7 @@ const characters = {
   },
   "敛": {
     "pinyin": "lian3",
-    "radical": "佥",
+    "radical": "人",
     "strokes": 11,
     "words": [
       "收敛",
@@ -24142,7 +24142,7 @@ const characters = {
   },
   "敝": {
     "pinyin": "bì",
-    "radical": "㡀",
+    "radical": "巾",
     "strokes": 11,
     "words": [
       "凋敝"
@@ -24150,7 +24150,7 @@ const characters = {
   },
   "敞": {
     "pinyin": "chang3",
-    "radical": "尚",
+    "radical": "⺌",
     "strokes": 12,
     "words": [
       "宽敞",
@@ -24175,7 +24175,7 @@ const characters = {
   },
   "散": {
     "pinyin": "san3",
-    "radical": "",
+    "radical": "艹",
     "strokes": 12,
     "words": [
       "散步",
@@ -24188,7 +24188,7 @@ const characters = {
   },
   "敦": {
     "pinyin": "dun1",
-    "radical": "享",
+    "radical": "亠",
     "strokes": 12,
     "words": [
       "伦敦",
@@ -24206,7 +24206,7 @@ const characters = {
   },
   "敬": {
     "pinyin": "jing4",
-    "radical": "苟",
+    "radical": "艹",
     "strokes": 12,
     "words": [
       "尊敬",
@@ -24219,7 +24219,7 @@ const characters = {
   },
   "数": {
     "pinyin": "shǔ",
-    "radical": "娄",
+    "radical": "攴",
     "strokes": 13,
     "words": [
       "人数",
@@ -24245,7 +24245,7 @@ const characters = {
   },
   "整": {
     "pinyin": "zheng3",
-    "radical": "敕",
+    "radical": "木",
     "strokes": 16,
     "words": [
       "整个",
@@ -24258,7 +24258,7 @@ const characters = {
   },
   "敷": {
     "pinyin": "fū",
-    "radical": "旉",
+    "radical": "十",
     "strokes": 15,
     "words": [
       "敷衍",
@@ -24271,13 +24271,13 @@ const characters = {
   },
   "敻": {
     "pinyin": "Xiong4",
-    "radical": "",
+    "radical": "⺈",
     "strokes": 15,
     "words": []
   },
   "文": {
     "pinyin": "Wen2",
-    "radical": "亠",
+    "radical": "文",
     "strokes": 4,
     "words": [
       "中文",
@@ -24341,7 +24341,7 @@ const characters = {
   },
   "斗": {
     "pinyin": "Doǔ",
-    "radical": "十",
+    "radical": "斗",
     "strokes": 4,
     "words": [
       "奋斗",
@@ -24373,7 +24373,7 @@ const characters = {
   },
   "斜": {
     "pinyin": "xié",
-    "radical": "余",
+    "radical": "人",
     "strokes": 11,
     "words": [
       "倾斜",
@@ -24386,7 +24386,7 @@ const characters = {
   },
   "斟": {
     "pinyin": "zhen1",
-    "radical": "甚",
+    "radical": "甘",
     "strokes": 13,
     "words": [
       "斟酌",
@@ -24395,7 +24395,7 @@ const characters = {
   },
   "斡": {
     "pinyin": "wò",
-    "radical": "龺",
+    "radical": "十",
     "strokes": 14,
     "words": [
       "斡旋"
@@ -24403,7 +24403,7 @@ const characters = {
   },
   "斤": {
     "pinyin": "jin1",
-    "radical": "⺁",
+    "radical": "斤",
     "strokes": 4,
     "words": [
       "公斤",
@@ -24451,7 +24451,7 @@ const characters = {
   },
   "断": {
     "pinyin": "duan4",
-    "radical": "",
+    "radical": "㇗",
     "strokes": 11,
     "words": [
       "不断",
@@ -24464,7 +24464,7 @@ const characters = {
   },
   "斯": {
     "pinyin": "Sī",
-    "radical": "其",
+    "radical": "甘",
     "strokes": 12,
     "words": [
       "宙斯",
@@ -24477,7 +24477,7 @@ const characters = {
   },
   "新": {
     "pinyin": "Xin1",
-    "radical": "亲",
+    "radical": "立",
     "strokes": 13,
     "words": [
       "新年",
@@ -24490,13 +24490,13 @@ const characters = {
   },
   "斲": {
     "pinyin": "zhuó",
-    "radical": "𠁁",
+    "radical": "",
     "strokes": 14,
     "words": []
   },
   "方": {
     "pinyin": "Fang1",
-    "radical": "亠",
+    "radical": "方",
     "strokes": 4,
     "words": [
       "地方",
@@ -24534,7 +24534,7 @@ const characters = {
   },
   "旁": {
     "pinyin": "pang2",
-    "radical": "",
+    "radical": "亠",
     "strokes": 10,
     "words": [
       "旁边",
@@ -24648,7 +24648,7 @@ const characters = {
   },
   "无": {
     "pinyin": "wú",
-    "radical": "一",
+    "radical": "无",
     "strokes": 4,
     "words": [
       "无奈",
@@ -24661,13 +24661,13 @@ const characters = {
   },
   "旡": {
     "pinyin": "jì",
-    "radical": "𡕒",
+    "radical": "旡",
     "strokes": 4,
     "words": []
   },
   "既": {
     "pinyin": "jì",
-    "radical": "",
+    "radical": "丨",
     "strokes": 9,
     "words": [
       "既然",
@@ -24677,7 +24677,7 @@ const characters = {
   },
   "日": {
     "pinyin": "rì",
-    "radical": "口",
+    "radical": "日",
     "strokes": 4,
     "words": [
       "今日",
@@ -24755,7 +24755,7 @@ const characters = {
   },
   "旭": {
     "pinyin": "xù",
-    "radical": "九",
+    "radical": "丿",
     "strokes": 6,
     "words": [
       "旭日",
@@ -24765,7 +24765,7 @@ const characters = {
   },
   "旮": {
     "pinyin": "gā",
-    "radical": "九",
+    "radical": "丿",
     "strokes": 6,
     "words": [
       "旮旯"
@@ -24890,7 +24890,7 @@ const characters = {
   },
   "昌": {
     "pinyin": "Chang1",
-    "radical": "日",
+    "radical": "昌",
     "strokes": 8,
     "words": [
       "南昌",
@@ -24916,7 +24916,7 @@ const characters = {
   },
   "昏": {
     "pinyin": "hun1",
-    "radical": "氏",
+    "radical": "日",
     "strokes": 8,
     "words": [
       "黄昏",
@@ -24942,7 +24942,7 @@ const characters = {
   },
   "昔": {
     "pinyin": "Xī",
-    "radical": "龷",
+    "radical": "日",
     "strokes": 8,
     "words": [
       "昔日",
@@ -24975,7 +24975,7 @@ const characters = {
   },
   "昝": {
     "pinyin": "Zan3",
-    "radical": "处",
+    "radical": "夂",
     "strokes": 9,
     "words": []
   },
@@ -25007,7 +25007,7 @@ const characters = {
   },
   "春": {
     "pinyin": "Chun1",
-    "radical": "𡗗",
+    "radical": "日",
     "strokes": 9,
     "words": [
       "新春",
@@ -25100,13 +25100,13 @@ const characters = {
   },
   "昶": {
     "pinyin": "chang3",
-    "radical": "永",
+    "radical": "㇆",
     "strokes": 9,
     "words": []
   },
   "昼": {
     "pinyin": "zhoù",
-    "radical": "尺",
+    "radical": "尸",
     "strokes": 9,
     "words": [
       "昼夜",
@@ -25146,7 +25146,7 @@ const characters = {
   },
   "晋": {
     "pinyin": "Jin4",
-    "radical": "亚",
+    "radical": "一",
     "strokes": 10,
     "words": [
       "晋升",
@@ -25298,7 +25298,7 @@ const characters = {
   },
   "普": {
     "pinyin": "pǔ",
-    "radical": "並",
+    "radical": "日",
     "strokes": 12,
     "words": [
       "普通",
@@ -25345,7 +25345,7 @@ const characters = {
   },
   "晶": {
     "pinyin": "jing1",
-    "radical": "日",
+    "radical": "晶",
     "strokes": 12,
     "words": [
       "水晶",
@@ -25366,7 +25366,7 @@ const characters = {
   },
   "智": {
     "pinyin": "zhì",
-    "radical": "知",
+    "radical": "矢",
     "strokes": 12,
     "words": [
       "智商",
@@ -25387,7 +25387,7 @@ const characters = {
   },
   "暂": {
     "pinyin": "zan4",
-    "radical": "斩",
+    "radical": "车",
     "strokes": 12,
     "words": [
       "暂时",
@@ -25425,7 +25425,7 @@ const characters = {
   },
   "暋": {
     "pinyin": "min2",
-    "radical": "敃",
+    "radical": "巳",
     "strokes": 13,
     "words": []
   },
@@ -25502,7 +25502,7 @@ const characters = {
   },
   "暨": {
     "pinyin": "jì",
-    "radical": "既",
+    "radical": "丨",
     "strokes": 14,
     "words": [
       "诸暨"
@@ -25510,7 +25510,7 @@ const characters = {
   },
   "暮": {
     "pinyin": "mù",
-    "radical": "艹",
+    "radical": "日",
     "strokes": 14,
     "words": [
       "日暮",
@@ -25536,7 +25536,7 @@ const characters = {
   },
   "暹": {
     "pinyin": "xian1",
-    "radical": "進",
+    "radical": "辶",
     "strokes": 15,
     "words": [
       "暹罗"
@@ -25601,7 +25601,7 @@ const characters = {
   },
   "曰": {
     "pinyin": "yuē",
-    "radical": "口",
+    "radical": "曰",
     "strokes": 4,
     "words": [
       "子曰"
@@ -25609,7 +25609,7 @@ const characters = {
   },
   "曲": {
     "pinyin": "Qū",
-    "radical": "井",
+    "radical": "",
     "strokes": 6,
     "words": [
       "单曲",
@@ -25622,7 +25622,7 @@ const characters = {
   },
   "曳": {
     "pinyin": "yè",
-    "radical": "㇂",
+    "radical": "曳",
     "strokes": 6,
     "words": [
       "摇曳",
@@ -25650,7 +25650,7 @@ const characters = {
   },
   "曹": {
     "pinyin": "Caó",
-    "radical": "",
+    "radical": "艹",
     "strokes": 11,
     "words": [
       "曹植",
@@ -25676,7 +25676,7 @@ const characters = {
   },
   "曾": {
     "pinyin": "Zeng1",
-    "radical": "",
+    "radical": "丷",
     "strokes": 12,
     "words": [
       "曾经",
@@ -25720,7 +25720,7 @@ const characters = {
   },
   "月": {
     "pinyin": "yuè",
-    "radical": "冂",
+    "radical": "月",
     "strokes": 4,
     "words": [
       "一月",
@@ -25733,7 +25733,7 @@ const characters = {
   },
   "有": {
     "pinyin": "yoǔ",
-    "radical": "𠂇",
+    "radical": "月",
     "strokes": 6,
     "words": [
       "没有",
@@ -25784,7 +25784,7 @@ const characters = {
   },
   "朔": {
     "pinyin": "shuò",
-    "radical": "屰",
+    "radical": "丷",
     "strokes": 10,
     "words": [
       "阳朔",
@@ -25803,7 +25803,7 @@ const characters = {
   },
   "朗": {
     "pinyin": "lang3",
-    "radical": "",
+    "radical": "丨",
     "strokes": 10,
     "words": [
       "伊朗",
@@ -25816,7 +25816,7 @@ const characters = {
   },
   "望": {
     "pinyin": "wang4",
-    "radical": "肓",
+    "radical": "匸",
     "strokes": 11,
     "words": [
       "希望",
@@ -25829,7 +25829,7 @@ const characters = {
   },
   "朝": {
     "pinyin": "Chaó",
-    "radical": "龺",
+    "radical": "月",
     "strokes": 12,
     "words": [
       "今朝",
@@ -25842,7 +25842,7 @@ const characters = {
   },
   "期": {
     "pinyin": "qī",
-    "radical": "其",
+    "radical": "甘",
     "strokes": 12,
     "words": [
       "假期",
@@ -25863,7 +25863,7 @@ const characters = {
   },
   "木": {
     "pinyin": "Mù",
-    "radical": "十",
+    "radical": "木",
     "strokes": 4,
     "words": [
       "木星",
@@ -25925,7 +25925,7 @@ const characters = {
   },
   "朮": {
     "pinyin": "shù",
-    "radical": "𣎳",
+    "radical": "十",
     "strokes": 5,
     "words": []
   },
@@ -25944,7 +25944,7 @@ const characters = {
   },
   "朱": {
     "pinyin": "Zhū",
-    "radical": "未",
+    "radical": "木",
     "strokes": 6,
     "words": [
       "朱熹",
@@ -25970,7 +25970,7 @@ const characters = {
   },
   "朵": {
     "pinyin": "duǒ",
-    "radical": "几",
+    "radical": "木",
     "strokes": 6,
     "words": [
       "耳朵",
@@ -26026,7 +26026,7 @@ const characters = {
   },
   "杂": {
     "pinyin": "zá",
-    "radical": "九",
+    "radical": "丿",
     "strokes": 6,
     "words": [
       "复杂",
@@ -26217,7 +26217,7 @@ const characters = {
   },
   "来": {
     "pinyin": "laí",
-    "radical": "未",
+    "radical": "木",
     "strokes": 7,
     "words": [
       "来自",
@@ -26469,7 +26469,7 @@ const characters = {
   },
   "果": {
     "pinyin": "guǒ",
-    "radical": "田",
+    "radical": "木",
     "strokes": 8,
     "words": [
       "如果",
@@ -26515,7 +26515,7 @@ const characters = {
   },
   "枣": {
     "pinyin": "zaǒ",
-    "radical": "朿",
+    "radical": "木",
     "strokes": 8,
     "words": [
       "红枣",
@@ -26569,7 +26569,7 @@ const characters = {
   },
   "枭": {
     "pinyin": "xiaō",
-    "radical": "",
+    "radical": "㇆",
     "strokes": 8,
     "words": [
       "枭雄",
@@ -26609,7 +26609,7 @@ const characters = {
   },
   "架": {
     "pinyin": "jià",
-    "radical": "加",
+    "radical": "木",
     "strokes": 9,
     "words": [
       "吵架",
@@ -26705,13 +26705,13 @@ const characters = {
   },
   "柒": {
     "pinyin": "qī",
-    "radical": "",
+    "radical": "氵",
     "strokes": 9,
     "words": []
   },
   "染": {
     "pinyin": "ran3",
-    "radical": "氿",
+    "radical": "氵",
     "strokes": 9,
     "words": [
       "感染",
@@ -26872,7 +26872,7 @@ const characters = {
   },
   "柴": {
     "pinyin": "Chaí",
-    "radical": "此",
+    "radical": "止",
     "strokes": 10,
     "words": [
       "火柴",
@@ -27153,7 +27153,7 @@ const characters = {
   },
   "栽": {
     "pinyin": "zaī",
-    "radical": "𢦏",
+    "radical": "土",
     "strokes": 10,
     "words": [
       "盆栽",
@@ -27164,7 +27164,7 @@ const characters = {
   },
   "栾": {
     "pinyin": "Luan2",
-    "radical": "亦",
+    "radical": "亠",
     "strokes": 10,
     "words": [
       "栾城",
@@ -27240,7 +27240,7 @@ const characters = {
   },
   "案": {
     "pinyin": "an4",
-    "radical": "安",
+    "radical": "宀",
     "strokes": 10,
     "words": [
       "图案",
@@ -27261,7 +27261,7 @@ const characters = {
   },
   "桌": {
     "pinyin": "zhuō",
-    "radical": "",
+    "radical": "木",
     "strokes": 10,
     "words": [
       "桌面",
@@ -27409,7 +27409,7 @@ const characters = {
   },
   "桨": {
     "pinyin": "jiang3",
-    "radical": "",
+    "radical": "丬",
     "strokes": 10,
     "words": [
       "划桨"
@@ -27466,7 +27466,7 @@ const characters = {
   },
   "梁": {
     "pinyin": "Liang2",
-    "radical": "",
+    "radical": "氵",
     "strokes": 11,
     "words": [
       "桥梁",
@@ -27580,7 +27580,7 @@ const characters = {
   },
   "梨": {
     "pinyin": "lí",
-    "radical": "利",
+    "radical": "禾",
     "strokes": 11,
     "words": [
       "鸭梨",
@@ -27753,7 +27753,7 @@ const characters = {
   },
   "棘": {
     "pinyin": "jí",
-    "radical": "朿",
+    "radical": "棘",
     "strokes": 12,
     "words": [
       "荆棘",
@@ -27775,7 +27775,7 @@ const characters = {
   },
   "棠": {
     "pinyin": "tang2",
-    "radical": "龸",
+    "radical": "⺌",
     "strokes": 12,
     "words": []
   },
@@ -27939,7 +27939,7 @@ const characters = {
   },
   "椠": {
     "pinyin": "qian4",
-    "radical": "斩",
+    "radical": "车",
     "strokes": 12,
     "words": []
   },
@@ -28223,7 +28223,7 @@ const characters = {
   },
   "榘": {
     "pinyin": "jǔ",
-    "radical": "矩",
+    "radical": "矢",
     "strokes": 13,
     "words": []
   },
@@ -28323,7 +28323,7 @@ const characters = {
   },
   "槃": {
     "pinyin": "pan2",
-    "radical": "般",
+    "radical": "舟",
     "strokes": 14,
     "words": [
       "涅槃"
@@ -28331,7 +28331,7 @@ const characters = {
   },
   "槊": {
     "pinyin": "shuò",
-    "radical": "朔",
+    "radical": "丷",
     "strokes": 14,
     "words": []
   },
@@ -28442,7 +28442,7 @@ const characters = {
   },
   "樊": {
     "pinyin": "Fan2",
-    "radical": "棥",
+    "radical": "林",
     "strokes": 15,
     "words": [
       "襄樊",
@@ -28570,7 +28570,7 @@ const characters = {
   },
   "橐": {
     "pinyin": "tuó",
-    "radical": "",
+    "radical": "十",
     "strokes": 16,
     "words": []
   },
@@ -28619,7 +28619,7 @@ const characters = {
   },
   "橥": {
     "pinyin": "zhū",
-    "radical": "猪",
+    "radical": "犭",
     "strokes": 15,
     "words": []
   },
@@ -28669,7 +28669,7 @@ const characters = {
   },
   "檃": {
     "pinyin": "yin3",
-    "radical": "",
+    "radical": "阝",
     "strokes": 16,
     "words": []
   },
@@ -28702,13 +28702,13 @@ const characters = {
   },
   "檗": {
     "pinyin": "bò",
-    "radical": "辟",
+    "radical": "尸",
     "strokes": 17,
     "words": []
   },
   "檠": {
     "pinyin": "qing2",
-    "radical": "敬",
+    "radical": "艹",
     "strokes": 16,
     "words": []
   },
@@ -28740,7 +28740,7 @@ const characters = {
   },
   "欠": {
     "pinyin": "qian4",
-    "radical": "⺈",
+    "radical": "欠",
     "strokes": 4,
     "words": [
       "哈欠",
@@ -28790,13 +28790,13 @@ const characters = {
   },
   "欤": {
     "pinyin": "yú",
-    "radical": "与",
+    "radical": "",
     "strokes": 7,
     "words": []
   },
   "欧": {
     "pinyin": "Oū",
-    "radical": "区",
+    "radical": "匚",
     "strokes": 8,
     "words": [
       "欧元",
@@ -28822,13 +28822,13 @@ const characters = {
   },
   "欶": {
     "pinyin": "shuò",
-    "radical": "束",
+    "radical": "木",
     "strokes": 11,
     "words": []
   },
   "欷": {
     "pinyin": "xī",
-    "radical": "希",
+    "radical": "乂",
     "strokes": 11,
     "words": [
       "欷歔"
@@ -28836,19 +28836,19 @@ const characters = {
   },
   "欸": {
     "pinyin": "aǐ",
-    "radical": "矣",
+    "radical": "厶",
     "strokes": 11,
     "words": []
   },
   "欹": {
     "pinyin": "yī",
-    "radical": "奇",
+    "radical": "大",
     "strokes": 12,
     "words": []
   },
   "欺": {
     "pinyin": "qī",
-    "radical": "其",
+    "radical": "甘",
     "strokes": 12,
     "words": [
       "欺负",
@@ -28867,7 +28867,7 @@ const characters = {
   },
   "款": {
     "pinyin": "kuan3",
-    "radical": "",
+    "radical": "士",
     "strokes": 12,
     "words": [
       "新款",
@@ -28880,13 +28880,13 @@ const characters = {
   },
   "欿": {
     "pinyin": "kan3",
-    "radical": "臽",
+    "radical": "⺈",
     "strokes": 12,
     "words": []
   },
   "歃": {
     "pinyin": "shà",
-    "radical": "臿",
+    "radical": "㇒",
     "strokes": 13,
     "words": [
       "歃血"
@@ -28900,7 +28900,7 @@ const characters = {
   },
   "歇": {
     "pinyin": "xiē",
-    "radical": "曷",
+    "radical": "曰",
     "strokes": 13,
     "words": [
       "停歇",
@@ -28913,7 +28913,7 @@ const characters = {
   },
   "歉": {
     "pinyin": "qian4",
-    "radical": "兼",
+    "radical": "丷",
     "strokes": 14,
     "words": [
       "抱歉",
@@ -28938,7 +28938,7 @@ const characters = {
   },
   "歔": {
     "pinyin": "xū",
-    "radical": "虚",
+    "radical": "虍",
     "strokes": 16,
     "words": [
       "欷歔"
@@ -28946,7 +28946,7 @@ const characters = {
   },
   "歙": {
     "pinyin": "shè",
-    "radical": "翕",
+    "radical": "人",
     "strokes": 16,
     "words": [
       "歙县"
@@ -28954,13 +28954,13 @@ const characters = {
   },
   "歛": {
     "pinyin": "han1",
-    "radical": "僉",
+    "radical": "人",
     "strokes": 17,
     "words": []
   },
   "止": {
     "pinyin": "zhǐ",
-    "radical": "⺊",
+    "radical": "止",
     "strokes": 4,
     "words": [
       "停止",
@@ -29012,7 +29012,7 @@ const characters = {
   },
   "武": {
     "pinyin": "Wǔ",
-    "radical": "",
+    "radical": "一",
     "strokes": 8,
     "words": [
       "威武",
@@ -29038,7 +29038,7 @@ const characters = {
   },
   "歪": {
     "pinyin": "waī",
-    "radical": "不",
+    "radical": "一",
     "strokes": 9,
     "words": [
       "歪曲",
@@ -29050,13 +29050,13 @@ const characters = {
   },
   "歰": {
     "pinyin": "sè",
-    "radical": "",
+    "radical": "歰",
     "strokes": 14,
     "words": []
   },
   "歹": {
     "pinyin": "daǐ",
-    "radical": "一",
+    "radical": "歹",
     "strokes": 4,
     "words": [
       "好歹",
@@ -29067,7 +29067,7 @@ const characters = {
   },
   "歺": {
     "pinyin": "daǐ",
-    "radical": "⺊",
+    "radical": "歺",
     "strokes": 5,
     "words": []
   },
@@ -29245,13 +29245,13 @@ const characters = {
   },
   "殳": {
     "pinyin": "Shū",
-    "radical": "几",
+    "radical": "殳",
     "strokes": 4,
     "words": []
   },
   "殴": {
     "pinyin": "Oū",
-    "radical": "区",
+    "radical": "匚",
     "strokes": 8,
     "words": [
       "殴打",
@@ -29261,7 +29261,7 @@ const characters = {
   },
   "段": {
     "pinyin": "Duan4",
-    "radical": "",
+    "radical": "丨",
     "strokes": 9,
     "words": [
       "手段",
@@ -29274,7 +29274,7 @@ const characters = {
   },
   "殷": {
     "pinyin": "Yin1",
-    "radical": "㐆",
+    "radical": "丨",
     "strokes": 10,
     "words": [
       "殷勤",
@@ -29287,13 +29287,13 @@ const characters = {
   },
   "殸": {
     "pinyin": "qing4",
-    "radical": "",
+    "radical": "士",
     "strokes": 11,
     "words": []
   },
   "殿": {
     "pinyin": "dian4",
-    "radical": "𡱒",
+    "radical": "尸",
     "strokes": 13,
     "words": [
       "殿堂",
@@ -29306,7 +29306,7 @@ const characters = {
   },
   "毁": {
     "pinyin": "huǐ",
-    "radical": "",
+    "radical": "臼",
     "strokes": 13,
     "words": [
       "毁灭",
@@ -29319,7 +29319,7 @@ const characters = {
   },
   "毂": {
     "pinyin": "gū",
-    "radical": "",
+    "radical": "士",
     "strokes": 13,
     "words": [
       "轮毂"
@@ -29327,7 +29327,7 @@ const characters = {
   },
   "毅": {
     "pinyin": "yì",
-    "radical": "豙",
+    "radical": "立",
     "strokes": 15,
     "words": [
       "毅力",
@@ -29340,7 +29340,7 @@ const characters = {
   },
   "毋": {
     "pinyin": "Wú",
-    "radical": "",
+    "radical": "毋",
     "strokes": 4,
     "words": [
       "毋庸",
@@ -29349,7 +29349,7 @@ const characters = {
   },
   "母": {
     "pinyin": "mǔ",
-    "radical": "",
+    "radical": "母",
     "strokes": 5,
     "words": [
       "母亲",
@@ -29362,7 +29362,7 @@ const characters = {
   },
   "每": {
     "pinyin": "meǐ",
-    "radical": "𠂉",
+    "radical": "丿",
     "strokes": 7,
     "words": [
       "每日",
@@ -29384,7 +29384,7 @@ const characters = {
   },
   "毓": {
     "pinyin": "yù",
-    "radical": "每",
+    "radical": "丿",
     "strokes": 14,
     "words": [
       "毓婷"
@@ -29392,7 +29392,7 @@ const characters = {
   },
   "比": {
     "pinyin": "Bǐ",
-    "radical": "匕",
+    "radical": "比",
     "strokes": 4,
     "words": [
       "好比",
@@ -29445,13 +29445,13 @@ const characters = {
   },
   "毚": {
     "pinyin": "chan2",
-    "radical": "",
+    "radical": "⺈",
     "strokes": 17,
     "words": []
   },
   "毛": {
     "pinyin": "Maó",
-    "radical": "㇒",
+    "radical": "毛",
     "strokes": 4,
     "words": [
       "毛衣",
@@ -29473,7 +29473,7 @@ const characters = {
   },
   "毫": {
     "pinyin": "haó",
-    "radical": "",
+    "radical": "亠",
     "strokes": 11,
     "words": [
       "毫不",
@@ -29498,19 +29498,19 @@ const characters = {
   },
   "毳": {
     "pinyin": "cuì",
-    "radical": "毛",
+    "radical": "毳",
     "strokes": 12,
     "words": []
   },
   "毵": {
     "pinyin": "san1",
-    "radical": "参",
+    "radical": "厶",
     "strokes": 12,
     "words": []
   },
   "毹": {
     "pinyin": "shū",
-    "radical": "俞",
+    "radical": "人",
     "strokes": 13,
     "words": []
   },
@@ -29524,7 +29524,7 @@ const characters = {
   },
   "氅": {
     "pinyin": "chang3",
-    "radical": "敞",
+    "radical": "⺌",
     "strokes": 16,
     "words": [
       "大氅"
@@ -29544,13 +29544,13 @@ const characters = {
   },
   "氍": {
     "pinyin": "qú",
-    "radical": "瞿",
+    "radical": "䀠",
     "strokes": 22,
     "words": []
   },
   "氏": {
     "pinyin": "shì",
-    "radical": "",
+    "radical": "氏",
     "strokes": 4,
     "words": [
       "人氏",
@@ -29582,7 +29582,7 @@ const characters = {
   },
   "氓": {
     "pinyin": "mang2",
-    "radical": "亡",
+    "radical": "匸",
     "strokes": 8,
     "words": [
       "流氓"
@@ -29590,7 +29590,7 @@ const characters = {
   },
   "气": {
     "pinyin": "qì",
-    "radical": "",
+    "radical": "气",
     "strokes": 4,
     "words": [
       "人气",
@@ -29757,7 +29757,7 @@ const characters = {
   },
   "水": {
     "pinyin": "Shuǐ",
-    "radical": "亅",
+    "radical": "水",
     "strokes": 4,
     "words": [
       "水平",
@@ -29770,13 +29770,13 @@ const characters = {
   },
   "氵": {
     "pinyin": "shuǐ",
-    "radical": "⺀",
+    "radical": "氵",
     "strokes": 3,
     "words": []
   },
   "永": {
     "pinyin": "yong3",
-    "radical": "",
+    "radical": "㇆",
     "strokes": 5,
     "words": [
       "永恒",
@@ -29797,7 +29797,7 @@ const characters = {
   },
   "氺": {
     "pinyin": "shuǐ",
-    "radical": "亅",
+    "radical": "氺",
     "strokes": 5,
     "words": []
   },
@@ -29846,7 +29846,7 @@ const characters = {
   },
   "求": {
     "pinyin": "qiú",
-    "radical": "",
+    "radical": "𠂇",
     "strokes": 7,
     "words": [
       "奢求",
@@ -30729,7 +30729,7 @@ const characters = {
   },
   "泰": {
     "pinyin": "taì",
-    "radical": "𡗗",
+    "radical": "一",
     "strokes": 10,
     "words": [
       "泰国",
@@ -31150,7 +31150,7 @@ const characters = {
   },
   "浆": {
     "pinyin": "jiang1",
-    "radical": "",
+    "radical": "丬",
     "strokes": 10,
     "words": [
       "豆浆",
@@ -32009,7 +32009,7 @@ const characters = {
   },
   "淼": {
     "pinyin": "miaǒ",
-    "radical": "水",
+    "radical": "淼",
     "strokes": 12,
     "words": [
       "浩淼"
@@ -32140,7 +32140,7 @@ const characters = {
   },
   "渠": {
     "pinyin": "Qú",
-    "radical": "洰",
+    "radical": "氵",
     "strokes": 11,
     "words": [
       "渠道",
@@ -32194,7 +32194,7 @@ const characters = {
   },
   "温": {
     "pinyin": "Wen1",
-    "radical": "氵",
+    "radical": "日",
     "strokes": 12,
     "words": [
       "气温",
@@ -33008,7 +33008,7 @@ const characters = {
   },
   "漱": {
     "pinyin": "shù",
-    "radical": "涑",
+    "radical": "氵",
     "strokes": 14,
     "words": [
       "洗漱",
@@ -33481,7 +33481,7 @@ const characters = {
   },
   "火": {
     "pinyin": "Huǒ",
-    "radical": "",
+    "radical": "火",
     "strokes": 4,
     "words": [
       "火星",
@@ -33533,7 +33533,7 @@ const characters = {
   },
   "灵": {
     "pinyin": "ling2",
-    "radical": "彐",
+    "radical": "火",
     "strokes": 7,
     "words": [
       "幽灵",
@@ -33559,7 +33559,7 @@ const characters = {
   },
   "灸": {
     "pinyin": "jiǔ",
-    "radical": "久",
+    "radical": "勹",
     "strokes": 7,
     "words": [
       "针灸",
@@ -33769,7 +33769,7 @@ const characters = {
   },
   "炱": {
     "pinyin": "taí",
-    "radical": "台",
+    "radical": "厶",
     "strokes": 9,
     "words": []
   },
@@ -33804,7 +33804,7 @@ const characters = {
   },
   "点": {
     "pinyin": "dian3",
-    "radical": "占",
+    "radical": "⺊",
     "strokes": 9,
     "words": [
       "一点",
@@ -33877,7 +33877,7 @@ const characters = {
   },
   "烈": {
     "pinyin": "liè",
-    "radical": "列",
+    "radical": "歹",
     "strokes": 10,
     "words": [
       "强烈",
@@ -33939,7 +33939,7 @@ const characters = {
   },
   "烝": {
     "pinyin": "zheng1",
-    "radical": "丞",
+    "radical": "㇖",
     "strokes": 10,
     "words": []
   },
@@ -34013,7 +34013,7 @@ const characters = {
   },
   "烫": {
     "pinyin": "tang4",
-    "radical": "汤",
+    "radical": "氵",
     "strokes": 10,
     "words": [
       "滚烫",
@@ -34035,7 +34035,7 @@ const characters = {
   },
   "热": {
     "pinyin": "rè",
-    "radical": "执",
+    "radical": "火",
     "strokes": 10,
     "words": [
       "热情",
@@ -34068,7 +34068,7 @@ const characters = {
   },
   "烹": {
     "pinyin": "peng1",
-    "radical": "",
+    "radical": "火",
     "strokes": 11,
     "words": [
       "烹饪",
@@ -34089,7 +34089,7 @@ const characters = {
   },
   "焉": {
     "pinyin": "yan1",
-    "radical": "正",
+    "radical": "一",
     "strokes": 11,
     "words": [
       "焉耆"
@@ -34149,7 +34149,7 @@ const characters = {
   },
   "焘": {
     "pinyin": "daò",
-    "radical": "寿",
+    "radical": "一",
     "strokes": 11,
     "words": []
   },
@@ -34186,7 +34186,7 @@ const characters = {
   },
   "焦": {
     "pinyin": "Jiaō",
-    "radical": "隹",
+    "radical": "火",
     "strokes": 12,
     "words": [
       "焦虑",
@@ -34215,13 +34215,13 @@ const characters = {
   },
   "焱": {
     "pinyin": "yan4",
-    "radical": "火",
+    "radical": "焱",
     "strokes": 12,
     "words": []
   },
   "然": {
     "pinyin": "ran2",
-    "radical": "肰",
+    "radical": "火",
     "strokes": 12,
     "words": [
       "依然",
@@ -34263,7 +34263,7 @@ const characters = {
   },
   "煎": {
     "pinyin": "jian1",
-    "radical": "前",
+    "radical": "丷",
     "strokes": 13,
     "words": [
       "煎熬",
@@ -34285,7 +34285,7 @@ const characters = {
   },
   "煞": {
     "pinyin": "shā",
-    "radical": "",
+    "radical": "⺈",
     "strokes": 13,
     "words": [
       "煞笔",
@@ -34311,7 +34311,7 @@ const characters = {
   },
   "煦": {
     "pinyin": "xù",
-    "radical": "昫",
+    "radical": "日",
     "strokes": 13,
     "words": [
       "和煦",
@@ -34322,7 +34322,7 @@ const characters = {
   },
   "照": {
     "pinyin": "zhaò",
-    "radical": "昭",
+    "radical": "日",
     "strokes": 13,
     "words": [
       "照片",
@@ -34341,7 +34341,7 @@ const characters = {
   },
   "煮": {
     "pinyin": "zhǔ",
-    "radical": "者",
+    "radical": "火",
     "strokes": 12,
     "words": [
       "煮沸",
@@ -34354,7 +34354,7 @@ const characters = {
   },
   "煲": {
     "pinyin": "baō",
-    "radical": "保",
+    "radical": "亻",
     "strokes": 13,
     "words": []
   },
@@ -34398,7 +34398,7 @@ const characters = {
   },
   "熊": {
     "pinyin": "Xiong2",
-    "radical": "能",
+    "radical": "厶",
     "strokes": 14,
     "words": [
       "熊猫",
@@ -34411,7 +34411,7 @@ const characters = {
   },
   "熏": {
     "pinyin": "xun1",
-    "radical": "",
+    "radical": "㇒",
     "strokes": 14,
     "words": [
       "烟熏",
@@ -34443,7 +34443,7 @@ const characters = {
   },
   "熙": {
     "pinyin": "xī",
-    "radical": "巸",
+    "radical": "匚",
     "strokes": 14,
     "words": [
       "康熙",
@@ -34458,7 +34458,7 @@ const characters = {
   },
   "熟": {
     "pinyin": "shoú",
-    "radical": "孰",
+    "radical": "火",
     "strokes": 15,
     "words": [
       "成熟",
@@ -34479,7 +34479,7 @@ const characters = {
   },
   "熨": {
     "pinyin": "yù",
-    "radical": "尉",
+    "radical": "尸",
     "strokes": 15,
     "words": [
       "熨斗",
@@ -34488,7 +34488,7 @@ const characters = {
   },
   "熬": {
     "pinyin": "aō",
-    "radical": "敖",
+    "radical": "龶",
     "strokes": 14,
     "words": [
       "煎熬",
@@ -34519,7 +34519,7 @@ const characters = {
   },
   "熹": {
     "pinyin": "xī",
-    "radical": "喜",
+    "radical": "士",
     "strokes": 16,
     "words": [
       "朱熹"
@@ -34555,7 +34555,7 @@ const characters = {
   },
   "燕": {
     "pinyin": "Yan1",
-    "radical": "",
+    "radical": "廿",
     "strokes": 16,
     "words": [
       "燕子",
@@ -34593,7 +34593,7 @@ const characters = {
   },
   "燮": {
     "pinyin": "Xiè",
-    "radical": "",
+    "radical": "炏",
     "strokes": 17,
     "words": []
   },
@@ -34636,13 +34636,13 @@ const characters = {
   },
   "爨": {
     "pinyin": "Cuan4",
-    "radical": "",
+    "radical": "臼",
     "strokes": 30,
     "words": []
   },
   "爪": {
     "pinyin": "zhuǎ",
-    "radical": "",
+    "radical": "爪",
     "strokes": 4,
     "words": [
       "爪子",
@@ -34680,7 +34680,7 @@ const characters = {
   },
   "爱": {
     "pinyin": "aì",
-    "radical": "",
+    "radical": "爪",
     "strokes": 10,
     "words": [
       "可爱",
@@ -34706,7 +34706,7 @@ const characters = {
   },
   "父": {
     "pinyin": "fù",
-    "radical": "八",
+    "radical": "父",
     "strokes": 4,
     "words": [
       "父母",
@@ -34756,7 +34756,7 @@ const characters = {
   },
   "爻": {
     "pinyin": "yaó",
-    "radical": "乂",
+    "radical": "爻",
     "strokes": 4,
     "words": []
   },
@@ -34775,13 +34775,13 @@ const characters = {
   },
   "爿": {
     "pinyin": "pan2",
-    "radical": "片",
+    "radical": "爿",
     "strokes": 4,
     "words": []
   },
   "片": {
     "pinyin": "pian1",
-    "radical": "",
+    "radical": "片",
     "strokes": 4,
     "words": [
       "图片",
@@ -34841,7 +34841,7 @@ const characters = {
   },
   "牙": {
     "pinyin": "yá",
-    "radical": "",
+    "radical": "牙",
     "strokes": 4,
     "words": [
       "刷牙",
@@ -34854,7 +34854,7 @@ const characters = {
   },
   "牛": {
     "pinyin": "Niú",
-    "radical": "",
+    "radical": "牛",
     "strokes": 4,
     "words": [
       "牛奶",
@@ -34947,7 +34947,7 @@ const characters = {
   },
   "牮": {
     "pinyin": "jian4",
-    "radical": "代",
+    "radical": "亻",
     "strokes": 9,
     "words": []
   },
@@ -35028,7 +35028,7 @@ const characters = {
   },
   "犀": {
     "pinyin": "xī",
-    "radical": "",
+    "radical": "尸",
     "strokes": 12,
     "words": [
       "犀利",
@@ -35039,7 +35039,7 @@ const characters = {
   },
   "犁": {
     "pinyin": "lí",
-    "radical": "利",
+    "radical": "禾",
     "strokes": 11,
     "words": [
       "伊犁",
@@ -35049,7 +35049,7 @@ const characters = {
   },
   "犂": {
     "pinyin": "lí",
-    "radical": "",
+    "radical": "禾",
     "strokes": 13,
     "words": []
   },
@@ -35077,7 +35077,7 @@ const characters = {
   },
   "犎": {
     "pinyin": "feng1",
-    "radical": "封",
+    "radical": "圭",
     "strokes": 13,
     "words": []
   },
@@ -35092,7 +35092,7 @@ const characters = {
   },
   "犟": {
     "pinyin": "jiang4",
-    "radical": "强",
+    "radical": "弓",
     "strokes": 16,
     "words": [
       "犟劲"
@@ -35106,7 +35106,7 @@ const characters = {
   },
   "犬": {
     "pinyin": "quan3",
-    "radical": "大",
+    "radical": "犬",
     "strokes": 4,
     "words": [
       "爱犬",
@@ -35119,7 +35119,7 @@ const characters = {
   },
   "犮": {
     "pinyin": "bá",
-    "radical": "",
+    "radical": "𠂇",
     "strokes": 5,
     "words": []
   },
@@ -35493,7 +35493,7 @@ const characters = {
   },
   "猋": {
     "pinyin": "biaō",
-    "radical": "犬",
+    "radical": "猋",
     "strokes": 12,
     "words": []
   },
@@ -35652,7 +35652,7 @@ const characters = {
   },
   "献": {
     "pinyin": "xian4",
-    "radical": "南",
+    "radical": "十",
     "strokes": 13,
     "words": [
       "奉献",
@@ -35696,7 +35696,7 @@ const characters = {
   },
   "猷": {
     "pinyin": "yoú",
-    "radical": "酋",
+    "radical": "丷",
     "strokes": 13,
     "words": []
   },
@@ -35745,7 +35745,7 @@ const characters = {
   },
   "獒": {
     "pinyin": "aó",
-    "radical": "敖",
+    "radical": "龶",
     "strokes": 14,
     "words": [
       "藏獒"
@@ -35802,7 +35802,7 @@ const characters = {
   },
   "玄": {
     "pinyin": "xuan2",
-    "radical": "亠",
+    "radical": "玄",
     "strokes": 5,
     "words": [
       "玄机",
@@ -35828,7 +35828,7 @@ const characters = {
   },
   "玉": {
     "pinyin": "yù",
-    "radical": "王",
+    "radical": "玉",
     "strokes": 5,
     "words": [
       "玉米",
@@ -35841,7 +35841,7 @@ const characters = {
   },
   "王": {
     "pinyin": "Wang2",
-    "radical": "一",
+    "radical": "王",
     "strokes": 4,
     "words": [
       "女王",
@@ -35999,7 +35999,7 @@ const characters = {
   },
   "玺": {
     "pinyin": "xǐ",
-    "radical": "尔",
+    "radical": "⺈",
     "strokes": 10,
     "words": [
       "国玺",
@@ -36549,7 +36549,7 @@ const characters = {
   },
   "璧": {
     "pinyin": "bì",
-    "radical": "辟",
+    "radical": "尸",
     "strokes": 18,
     "words": [
       "合璧",
@@ -36574,7 +36574,7 @@ const characters = {
   },
   "璺": {
     "pinyin": "wen4",
-    "radical": "",
+    "radical": "臼",
     "strokes": 20,
     "words": []
   },
@@ -36592,7 +36592,7 @@ const characters = {
   },
   "瓜": {
     "pinyin": "guā",
-    "radical": "",
+    "radical": "瓜",
     "strokes": 5,
     "words": [
       "傻瓜",
@@ -36611,13 +36611,13 @@ const characters = {
   },
   "瓠": {
     "pinyin": "hù",
-    "radical": "夸",
+    "radical": "大",
     "strokes": 11,
     "words": []
   },
   "瓢": {
     "pinyin": "piaó",
-    "radical": "票",
+    "radical": "覀",
     "strokes": 16,
     "words": [
       "瓢泼",
@@ -36638,7 +36638,7 @@ const characters = {
   },
   "瓤": {
     "pinyin": "rang2",
-    "radical": "襄",
+    "radical": "衣",
     "strokes": 22,
     "words": [
       "瓤儿"
@@ -36646,7 +36646,7 @@ const characters = {
   },
   "瓦": {
     "pinyin": "wǎ",
-    "radical": "",
+    "radical": "瓦",
     "strokes": 4,
     "words": [
       "瓦解",
@@ -36659,7 +36659,7 @@ const characters = {
   },
   "瓮": {
     "pinyin": "weng4",
-    "radical": "公",
+    "radical": "八",
     "strokes": 8,
     "words": [
       "瓮城",
@@ -36668,7 +36668,7 @@ const characters = {
   },
   "瓯": {
     "pinyin": "Oū",
-    "radical": "区",
+    "radical": "匚",
     "strokes": 8,
     "words": [
       "建瓯",
@@ -36678,13 +36678,13 @@ const characters = {
   },
   "瓴": {
     "pinyin": "ling2",
-    "radical": "令",
+    "radical": "人",
     "strokes": 9,
     "words": []
   },
   "瓶": {
     "pinyin": "ping2",
-    "radical": "并",
+    "radical": "丷",
     "strokes": 10,
     "words": [
       "奶瓶",
@@ -36697,7 +36697,7 @@ const characters = {
   },
   "瓷": {
     "pinyin": "cí",
-    "radical": "次",
+    "radical": "冫",
     "strokes": 10,
     "words": [
       "陶瓷",
@@ -36710,13 +36710,13 @@ const characters = {
   },
   "瓿": {
     "pinyin": "bù",
-    "radical": "咅",
+    "radical": "立",
     "strokes": 12,
     "words": []
   },
   "甄": {
     "pinyin": "Zhen1",
-    "radical": "垔",
+    "radical": "西",
     "strokes": 13,
     "words": [
       "甄选",
@@ -36731,25 +36731,25 @@ const characters = {
   },
   "甏": {
     "pinyin": "bang4",
-    "radical": "彭",
+    "radical": "十",
     "strokes": 16,
     "words": []
   },
   "甑": {
     "pinyin": "zeng4",
-    "radical": "曾",
+    "radical": "丷",
     "strokes": 16,
     "words": []
   },
   "甓": {
     "pinyin": "pì",
-    "radical": "辟",
+    "radical": "尸",
     "strokes": 17,
     "words": []
   },
   "甘": {
     "pinyin": "Gan1",
-    "radical": "艹",
+    "radical": "甘",
     "strokes": 5,
     "words": [
       "甘心",
@@ -36794,7 +36794,7 @@ const characters = {
   },
   "生": {
     "pinyin": "sheng1",
-    "radical": "龶",
+    "radical": "生",
     "strokes": 5,
     "words": [
       "人生",
@@ -36807,7 +36807,7 @@ const characters = {
   },
   "産": {
     "pinyin": "chan3",
-    "radical": "产",
+    "radical": "立",
     "strokes": 11,
     "words": []
   },
@@ -36822,7 +36822,7 @@ const characters = {
   },
   "用": {
     "pinyin": "yong4",
-    "radical": "冂",
+    "radical": "用",
     "strokes": 5,
     "words": [
       "使用",
@@ -36835,7 +36835,7 @@ const characters = {
   },
   "甩": {
     "pinyin": "shuaǐ",
-    "radical": "用",
+    "radical": "甩",
     "strokes": 5,
     "words": [
       "甩掉",
@@ -36854,7 +36854,7 @@ const characters = {
   },
   "甫": {
     "pinyin": "fǔ",
-    "radical": "",
+    "radical": "十",
     "strokes": 7,
     "words": [
       "杜甫",
@@ -36874,13 +36874,13 @@ const characters = {
   },
   "甭": {
     "pinyin": "beng2",
-    "radical": "不",
+    "radical": "一",
     "strokes": 9,
     "words": []
   },
   "田": {
     "pinyin": "Tian2",
-    "radical": "冂",
+    "radical": "田",
     "strokes": 5,
     "words": [
       "丹田",
@@ -36893,7 +36893,7 @@ const characters = {
   },
   "由": {
     "pinyin": "yoú",
-    "radical": "",
+    "radical": "二",
     "strokes": 5,
     "words": [
       "理由",
@@ -36932,7 +36932,7 @@ const characters = {
   },
   "电": {
     "pinyin": "dian4",
-    "radical": "申",
+    "radical": "日",
     "strokes": 5,
     "words": [
       "电信",
@@ -36971,7 +36971,7 @@ const characters = {
   },
   "甹": {
     "pinyin": "ping1",
-    "radical": "由",
+    "radical": "二",
     "strokes": 7,
     "words": []
   },
@@ -37010,7 +37010,7 @@ const characters = {
   },
   "畅": {
     "pinyin": "chang4",
-    "radical": "申",
+    "radical": "日",
     "strokes": 8,
     "words": [
       "畅通",
@@ -37095,7 +37095,7 @@ const characters = {
   },
   "畚": {
     "pinyin": "ben3",
-    "radical": "",
+    "radical": "厶",
     "strokes": 10,
     "words": [
       "畚箕"
@@ -37122,7 +37122,7 @@ const characters = {
   },
   "畟": {
     "pinyin": "cè",
-    "radical": "",
+    "radical": "田",
     "strokes": 10,
     "words": []
   },
@@ -37168,7 +37168,7 @@ const characters = {
   },
   "畲": {
     "pinyin": "Shē",
-    "radical": "佘",
+    "radical": "人",
     "strokes": 12,
     "words": [
       "畲族",
@@ -37205,13 +37205,13 @@ const characters = {
   },
   "畾": {
     "pinyin": "leí",
-    "radical": "田",
+    "radical": "畾",
     "strokes": 15,
     "words": []
   },
   "畿": {
     "pinyin": "jī",
-    "radical": "",
+    "radical": "𢆶",
     "strokes": 15,
     "words": [
       "京畿"
@@ -37225,7 +37225,7 @@ const characters = {
   },
   "疆": {
     "pinyin": "jiang1",
-    "radical": "",
+    "radical": "弓",
     "strokes": 19,
     "words": [
       "新疆",
@@ -37238,7 +37238,7 @@ const characters = {
   },
   "疋": {
     "pinyin": "pǐ",
-    "radical": "㇖",
+    "radical": "疋",
     "strokes": 5,
     "words": []
   },
@@ -37257,13 +37257,13 @@ const characters = {
   },
   "疐": {
     "pinyin": "zhì",
-    "radical": "",
+    "radical": "十",
     "strokes": 14,
     "words": []
   },
   "疑": {
     "pinyin": "yí",
-    "radical": "𠤕",
+    "radical": "匕",
     "strokes": 14,
     "words": [
       "怀疑",
@@ -37276,7 +37276,7 @@ const characters = {
   },
   "疒": {
     "pinyin": "nè",
-    "radical": "亠",
+    "radical": "疒",
     "strokes": 5,
     "words": []
   },
@@ -37942,7 +37942,7 @@ const characters = {
   },
   "瘪": {
     "pinyin": "biě",
-    "radical": "",
+    "radical": "疒",
     "strokes": 15,
     "words": [
       "干瘪",
@@ -38130,7 +38130,7 @@ const characters = {
   },
   "白": {
     "pinyin": "Baí",
-    "radical": "日",
+    "radical": "白",
     "strokes": 5,
     "words": [
       "明白",
@@ -38259,7 +38259,7 @@ const characters = {
   },
   "皕": {
     "pinyin": "bì",
-    "radical": "百",
+    "radical": "皕",
     "strokes": 12,
     "words": []
   },
@@ -38271,7 +38271,7 @@ const characters = {
   },
   "皙": {
     "pinyin": "xī",
-    "radical": "析",
+    "radical": "木",
     "strokes": 13,
     "words": [
       "白皙"
@@ -38291,7 +38291,7 @@ const characters = {
   },
   "皮": {
     "pinyin": "Pí",
-    "radical": "",
+    "radical": "皮",
     "strokes": 5,
     "words": [
       "皮肤",
@@ -38304,7 +38304,7 @@ const characters = {
   },
   "皱": {
     "pinyin": "zhoù",
-    "radical": "刍",
+    "radical": "⺈",
     "strokes": 10,
     "words": [
       "皱纹",
@@ -38317,13 +38317,13 @@ const characters = {
   },
   "皲": {
     "pinyin": "jun1",
-    "radical": "军",
+    "radical": "冖",
     "strokes": 11,
     "words": []
   },
   "皴": {
     "pinyin": "cun1",
-    "radical": "夋",
+    "radical": "厶",
     "strokes": 12,
     "words": [
       "皴裂"
@@ -38331,13 +38331,13 @@ const characters = {
   },
   "皻": {
     "pinyin": "cǔ",
-    "radical": "虘",
+    "radical": "虍",
     "strokes": 16,
     "words": []
   },
   "皿": {
     "pinyin": "min3",
-    "radical": "𦉫",
+    "radical": "皿",
     "strokes": 5,
     "words": [
       "器皿"
@@ -38345,7 +38345,7 @@ const characters = {
   },
   "盂": {
     "pinyin": "yú",
-    "radical": "于",
+    "radical": "干",
     "strokes": 8,
     "words": [
       "痰盂",
@@ -38356,13 +38356,13 @@ const characters = {
   },
   "盃": {
     "pinyin": "beī",
-    "radical": "不",
+    "radical": "一",
     "strokes": 9,
     "words": []
   },
   "盅": {
     "pinyin": "zhong1",
-    "radical": "中",
+    "radical": "口",
     "strokes": 9,
     "words": [
       "色盅",
@@ -38372,7 +38372,7 @@ const characters = {
   },
   "盆": {
     "pinyin": "pen2",
-    "radical": "分",
+    "radical": "八",
     "strokes": 9,
     "words": [
       "倾盆",
@@ -38385,7 +38385,7 @@ const characters = {
   },
   "盈": {
     "pinyin": "ying2",
-    "radical": "夃",
+    "radical": "㇎",
     "strokes": 9,
     "words": [
       "盈利",
@@ -38398,7 +38398,7 @@ const characters = {
   },
   "益": {
     "pinyin": "Yì",
-    "radical": "",
+    "radical": "丷",
     "strokes": 10,
     "words": [
       "公益",
@@ -38411,13 +38411,13 @@ const characters = {
   },
   "盍": {
     "pinyin": "hé",
-    "radical": "去",
+    "radical": "土",
     "strokes": 10,
     "words": []
   },
   "盎": {
     "pinyin": "ang4",
-    "radical": "央",
+    "radical": "大",
     "strokes": 10,
     "words": [
       "盎司",
@@ -38434,7 +38434,7 @@ const characters = {
   },
   "盐": {
     "pinyin": "yan2",
-    "radical": "圤",
+    "radical": "土",
     "strokes": 10,
     "words": [
       "海盐",
@@ -38447,7 +38447,7 @@ const characters = {
   },
   "监": {
     "pinyin": "jian1",
-    "radical": "",
+    "radical": "丨",
     "strokes": 10,
     "words": [
       "太监",
@@ -38460,7 +38460,7 @@ const characters = {
   },
   "盒": {
     "pinyin": "hé",
-    "radical": "合",
+    "radical": "人",
     "strokes": 11,
     "words": [
       "盒子",
@@ -38472,7 +38472,7 @@ const characters = {
   },
   "盔": {
     "pinyin": "kuī",
-    "radical": "灰",
+    "radical": "𠂇",
     "strokes": 11,
     "words": [
       "头盔",
@@ -38494,7 +38494,7 @@ const characters = {
   },
   "盗": {
     "pinyin": "daò",
-    "radical": "次",
+    "radical": "冫",
     "strokes": 11,
     "words": [
       "强盗",
@@ -38520,7 +38520,7 @@ const characters = {
   },
   "盛": {
     "pinyin": "Sheng4",
-    "radical": "成",
+    "radical": "一",
     "strokes": 11,
     "words": [
       "盛典",
@@ -38533,7 +38533,7 @@ const characters = {
   },
   "盟": {
     "pinyin": "meng2",
-    "radical": "明",
+    "radical": "日",
     "strokes": 13,
     "words": [
       "加盟",
@@ -38546,7 +38546,7 @@ const characters = {
   },
   "盥": {
     "pinyin": "guan4",
-    "radical": "",
+    "radical": "臼",
     "strokes": 16,
     "words": [
       "盥洗"
@@ -38554,7 +38554,7 @@ const characters = {
   },
   "目": {
     "pinyin": "mù",
-    "radical": "口",
+    "radical": "目",
     "strokes": 5,
     "words": [
       "心目",
@@ -38586,7 +38586,7 @@ const characters = {
   },
   "盲": {
     "pinyin": "mang2",
-    "radical": "亡",
+    "radical": "匸",
     "strokes": 8,
     "words": [
       "盲目",
@@ -38658,7 +38658,7 @@ const characters = {
   },
   "省": {
     "pinyin": "sheng3",
-    "radical": "少",
+    "radical": "小",
     "strokes": 9,
     "words": [
       "节省",
@@ -38689,7 +38689,7 @@ const characters = {
   },
   "眉": {
     "pinyin": "meí",
-    "radical": "𠃜",
+    "radical": "丨",
     "strokes": 9,
     "words": [
       "眉毛",
@@ -38715,7 +38715,7 @@ const characters = {
   },
   "県": {
     "pinyin": "xian4",
-    "radical": "",
+    "radical": "目",
     "strokes": 9,
     "words": []
   },
@@ -38767,7 +38767,7 @@ const characters = {
   },
   "眢": {
     "pinyin": "yuan1",
-    "radical": "夗",
+    "radical": "夕",
     "strokes": 10,
     "words": []
   },
@@ -38842,7 +38842,7 @@ const characters = {
   },
   "眷": {
     "pinyin": "juan4",
-    "radical": "龹",
+    "radical": "二",
     "strokes": 11,
     "words": [
       "眷属",
@@ -38986,7 +38986,7 @@ const characters = {
   },
   "督": {
     "pinyin": "dū",
-    "radical": "叔",
+    "radical": "⺊",
     "strokes": 13,
     "words": [
       "基督",
@@ -39066,7 +39066,7 @@ const characters = {
   },
   "睾": {
     "pinyin": "gaō",
-    "radical": "",
+    "radical": "罒",
     "strokes": 14,
     "words": [
       "睾丸",
@@ -39076,7 +39076,7 @@ const characters = {
   },
   "睿": {
     "pinyin": "ruì",
-    "radical": "",
+    "radical": "⺊",
     "strokes": 14,
     "words": [
       "睿智"
@@ -39084,7 +39084,7 @@ const characters = {
   },
   "瞀": {
     "pinyin": "maò",
-    "radical": "敄",
+    "radical": "矛",
     "strokes": 14,
     "words": []
   },
@@ -39193,7 +39193,7 @@ const characters = {
   },
   "瞥": {
     "pinyin": "piē",
-    "radical": "敝",
+    "radical": "巾",
     "strokes": 16,
     "words": [
       "一瞥",
@@ -39293,13 +39293,13 @@ const characters = {
   },
   "矍": {
     "pinyin": "Jué",
-    "radical": "瞿",
+    "radical": "䀠",
     "strokes": 20,
     "words": []
   },
   "矗": {
     "pinyin": "chù",
-    "radical": "直",
+    "radical": "矗",
     "strokes": 24,
     "words": [
       "矗立"
@@ -39307,7 +39307,7 @@ const characters = {
   },
   "矛": {
     "pinyin": "maó",
-    "radical": "龴",
+    "radical": "矛",
     "strokes": 5,
     "words": [
       "矛盾",
@@ -39334,7 +39334,7 @@ const characters = {
   },
   "矢": {
     "pinyin": "shǐ",
-    "radical": "𠂉",
+    "radical": "矢",
     "strokes": 5,
     "words": [
       "矢量",
@@ -39424,7 +39424,7 @@ const characters = {
   },
   "石": {
     "pinyin": "Shí",
-    "radical": "丆",
+    "radical": "石",
     "strokes": 5,
     "words": [
       "宝石",
@@ -39517,7 +39517,7 @@ const characters = {
   },
   "砉": {
     "pinyin": "huā",
-    "radical": "丰",
+    "radical": "一",
     "strokes": 9,
     "words": []
   },
@@ -39636,7 +39636,7 @@ const characters = {
   },
   "砦": {
     "pinyin": "zhaì",
-    "radical": "此",
+    "radical": "止",
     "strokes": 11,
     "words": []
   },
@@ -40031,7 +40031,7 @@ const characters = {
   },
   "碧": {
     "pinyin": "bì",
-    "radical": "珀",
+    "radical": "王",
     "strokes": 14,
     "words": [
       "雪碧",
@@ -40134,7 +40134,7 @@ const characters = {
   },
   "磊": {
     "pinyin": "leǐ",
-    "radical": "石",
+    "radical": "磊",
     "strokes": 15,
     "words": [
       "磊落",
@@ -40153,7 +40153,7 @@ const characters = {
   },
   "磐": {
     "pinyin": "pan2",
-    "radical": "般",
+    "radical": "舟",
     "strokes": 15,
     "words": [
       "涅磐",
@@ -40197,7 +40197,7 @@ const characters = {
   },
   "磬": {
     "pinyin": "qing4",
-    "radical": "殸",
+    "radical": "士",
     "strokes": 16,
     "words": []
   },
@@ -40284,7 +40284,7 @@ const characters = {
   },
   "示": {
     "pinyin": "shì",
-    "radical": "二",
+    "radical": "示",
     "strokes": 5,
     "words": [
       "提示",
@@ -40413,7 +40413,7 @@ const characters = {
   },
   "祘": {
     "pinyin": "suan4",
-    "radical": "示",
+    "radical": "祘",
     "strokes": 10,
     "words": []
   },
@@ -40523,7 +40523,7 @@ const characters = {
   },
   "祭": {
     "pinyin": "Zhaì",
-    "radical": "",
+    "radical": "月",
     "strokes": 11,
     "words": [
       "拜祭",
@@ -40674,13 +40674,13 @@ const characters = {
   },
   "禸": {
     "pinyin": "roú",
-    "radical": "厶",
+    "radical": "禸",
     "strokes": 5,
     "words": []
   },
   "禹": {
     "pinyin": "Yǔ",
-    "radical": "䖝",
+    "radical": "㇒",
     "strokes": 9,
     "words": [
       "大禹",
@@ -40690,7 +40690,7 @@ const characters = {
   },
   "禺": {
     "pinyin": "oǔ",
-    "radical": "甲",
+    "radical": "冂",
     "strokes": 9,
     "words": [
       "番禺"
@@ -40698,7 +40698,7 @@ const characters = {
   },
   "离": {
     "pinyin": "lí",
-    "radical": "",
+    "radical": "亠",
     "strokes": 10,
     "words": [
       "距离",
@@ -40724,7 +40724,7 @@ const characters = {
   },
   "禾": {
     "pinyin": "hé",
-    "radical": "㇒",
+    "radical": "禾",
     "strokes": 5,
     "words": [
       "嘉禾",
@@ -40896,7 +40896,7 @@ const characters = {
   },
   "秦": {
     "pinyin": "Qin2",
-    "radical": "𡗗",
+    "radical": "一",
     "strokes": 10,
     "words": [
       "秦岭",
@@ -41225,7 +41225,7 @@ const characters = {
   },
   "穴": {
     "pinyin": "xué",
-    "radical": "宀",
+    "radical": "穴",
     "strokes": 5,
     "words": [
       "穴位",
@@ -41576,7 +41576,7 @@ const characters = {
   },
   "立": {
     "pinyin": "Lì",
-    "radical": "亠",
+    "radical": "立",
     "strokes": 5,
     "words": [
       "建立",
@@ -41589,7 +41589,7 @@ const characters = {
   },
   "竖": {
     "pinyin": "shù",
-    "radical": "",
+    "radical": "丨",
     "strokes": 9,
     "words": [
       "横竖",
@@ -41704,7 +41704,7 @@ const characters = {
   },
   "竹": {
     "pinyin": "zhú",
-    "radical": "",
+    "radical": "竹",
     "strokes": 6,
     "words": [
       "爆竹",
@@ -42713,7 +42713,7 @@ const characters = {
   },
   "米": {
     "pinyin": "Mǐ",
-    "radical": "木",
+    "radical": "米",
     "strokes": 6,
     "words": [
       "虾米",
@@ -42859,13 +42859,13 @@ const characters = {
   },
   "粢": {
     "pinyin": "zī",
-    "radical": "次",
+    "radical": "冫",
     "strokes": 12,
     "words": []
   },
   "粤": {
     "pinyin": "Yuè",
-    "radical": "",
+    "radical": "囗",
     "strokes": 12,
     "words": [
       "粤语",
@@ -42911,7 +42911,7 @@ const characters = {
   },
   "粱": {
     "pinyin": "liang2",
-    "radical": "",
+    "radical": "氵",
     "strokes": 13,
     "words": [
       "高粱"
@@ -42919,7 +42919,7 @@ const characters = {
   },
   "粲": {
     "pinyin": "can4",
-    "radical": "𣦼",
+    "radical": "歺",
     "strokes": 13,
     "words": [
       "粲然"
@@ -42944,7 +42944,7 @@ const characters = {
   },
   "粼": {
     "pinyin": "lin2",
-    "radical": "粦",
+    "radical": "米",
     "strokes": 14,
     "words": [
       "粼粼"
@@ -43135,7 +43135,7 @@ const characters = {
   },
   "糸": {
     "pinyin": "mì",
-    "radical": "幺",
+    "radical": "糸",
     "strokes": 6,
     "words": []
   },
@@ -43176,7 +43176,7 @@ const characters = {
   },
   "索": {
     "pinyin": "Suǒ",
-    "radical": "",
+    "radical": "十",
     "strokes": 10,
     "words": [
       "探索",
@@ -43189,7 +43189,7 @@ const characters = {
   },
   "紧": {
     "pinyin": "jin3",
-    "radical": "",
+    "radical": "丨",
     "strokes": 10,
     "words": [
       "紧张",
@@ -43202,7 +43202,7 @@ const characters = {
   },
   "紫": {
     "pinyin": "zǐ",
-    "radical": "此",
+    "radical": "止",
     "strokes": 12,
     "words": [
       "紫色",
@@ -43240,13 +43240,13 @@ const characters = {
   },
   "絜": {
     "pinyin": "jié",
-    "radical": "㓞",
+    "radical": "一",
     "strokes": 12,
     "words": []
   },
   "絮": {
     "pinyin": "xù",
-    "radical": "如",
+    "radical": "女",
     "strokes": 12,
     "words": [
       "絮语",
@@ -43259,7 +43259,7 @@ const characters = {
   },
   "絷": {
     "pinyin": "zhí",
-    "radical": "执",
+    "radical": "扌",
     "strokes": 12,
     "words": []
   },
@@ -43271,7 +43271,7 @@ const characters = {
   },
   "綦": {
     "pinyin": "qí",
-    "radical": "其",
+    "radical": "甘",
     "strokes": 14,
     "words": [
       "綦江"
@@ -43279,7 +43279,7 @@ const characters = {
   },
   "綮": {
     "pinyin": "qǐ",
-    "radical": "𢼄",
+    "radical": "户",
     "strokes": 14,
     "words": []
   },
@@ -43309,7 +43309,7 @@ const characters = {
   },
   "繁": {
     "pinyin": "fan2",
-    "radical": "敏",
+    "radical": "丿",
     "strokes": 17,
     "words": [
       "繁忙",
@@ -43322,7 +43322,7 @@ const characters = {
   },
   "繇": {
     "pinyin": "yaó",
-    "radical": "",
+    "radical": "爫",
     "strokes": 17,
     "words": []
   },
@@ -44674,7 +44674,7 @@ const characters = {
   },
   "缶": {
     "pinyin": "foǔ",
-    "radical": "午",
+    "radical": "缶",
     "strokes": 6,
     "words": []
   },
@@ -44714,7 +44714,7 @@ const characters = {
   },
   "罄": {
     "pinyin": "qing4",
-    "radical": "殸",
+    "radical": "士",
     "strokes": 17,
     "words": [
       "售罄",
@@ -44742,7 +44742,7 @@ const characters = {
   },
   "网": {
     "pinyin": "wang3",
-    "radical": "冂",
+    "radical": "网",
     "strokes": 6,
     "words": [
       "上网",
@@ -44887,7 +44887,7 @@ const characters = {
   },
   "罴": {
     "pinyin": "pí",
-    "radical": "罢",
+    "radical": "罒",
     "strokes": 14,
     "words": []
   },
@@ -44919,7 +44919,7 @@ const characters = {
   },
   "羊": {
     "pinyin": "Yang2",
-    "radical": "",
+    "radical": "羊",
     "strokes": 6,
     "words": [
       "山羊",
@@ -45013,7 +45013,7 @@ const characters = {
   },
   "群": {
     "pinyin": "qun2",
-    "radical": "君",
+    "radical": "⺕",
     "strokes": 13,
     "words": [
       "人群",
@@ -45056,7 +45056,7 @@ const characters = {
   },
   "羸": {
     "pinyin": "leí",
-    "radical": "𣎆",
+    "radical": "匸",
     "strokes": 19,
     "words": [
       "羸弱"
@@ -45064,7 +45064,7 @@ const characters = {
   },
   "羹": {
     "pinyin": "geng1",
-    "radical": "羔",
+    "radical": "羊",
     "strokes": 19,
     "words": [
       "残羹",
@@ -45082,7 +45082,7 @@ const characters = {
   },
   "羽": {
     "pinyin": "yǔ",
-    "radical": "习",
+    "radical": "羽",
     "strokes": 6,
     "words": [
       "关羽",
@@ -45103,7 +45103,7 @@ const characters = {
   },
   "翁": {
     "pinyin": "Weng1",
-    "radical": "公",
+    "radical": "八",
     "strokes": 10,
     "words": [
       "富翁",
@@ -45144,7 +45144,7 @@ const characters = {
   },
   "翎": {
     "pinyin": "ling2",
-    "radical": "令",
+    "radical": "人",
     "strokes": 11,
     "words": [
       "翎子"
@@ -45171,13 +45171,13 @@ const characters = {
   },
   "翕": {
     "pinyin": "xì",
-    "radical": "合",
+    "radical": "人",
     "strokes": 12,
     "words": []
   },
   "翘": {
     "pinyin": "qiaó",
-    "radical": "尧",
+    "radical": "",
     "strokes": 12,
     "words": [
       "翘楚",
@@ -45217,19 +45217,19 @@ const characters = {
   },
   "翥": {
     "pinyin": "zhù",
-    "radical": "者",
+    "radical": "耂",
     "strokes": 14,
     "words": []
   },
   "翦": {
     "pinyin": "Jian3",
-    "radical": "前",
+    "radical": "丷",
     "strokes": 15,
     "words": []
   },
   "翩": {
     "pinyin": "pian1",
-    "radical": "扁",
+    "radical": "户",
     "strokes": 15,
     "words": [
       "翩翩",
@@ -45246,7 +45246,7 @@ const characters = {
   },
   "翰": {
     "pinyin": "Han4",
-    "radical": "龺",
+    "radical": "十",
     "strokes": 16,
     "words": [
       "约翰",
@@ -45255,7 +45255,7 @@ const characters = {
   },
   "翱": {
     "pinyin": "aó",
-    "radical": "皋",
+    "radical": "白",
     "strokes": 16,
     "words": [
       "翱翔"
@@ -45263,7 +45263,7 @@ const characters = {
   },
   "翳": {
     "pinyin": "yì",
-    "radical": "殹",
+    "radical": "匚",
     "strokes": 17,
     "words": [
       "翳眼"
@@ -45271,7 +45271,7 @@ const characters = {
   },
   "翻": {
     "pinyin": "fan1",
-    "radical": "番",
+    "radical": "釆",
     "strokes": 18,
     "words": [
       "打翻",
@@ -45297,7 +45297,7 @@ const characters = {
   },
   "耀": {
     "pinyin": "yaò",
-    "radical": "光",
+    "radical": "⺌",
     "strokes": 20,
     "words": [
       "闪耀",
@@ -45310,7 +45310,7 @@ const characters = {
   },
   "老": {
     "pinyin": "laǒ",
-    "radical": "耂",
+    "radical": "老",
     "strokes": 6,
     "words": [
       "老公",
@@ -45374,7 +45374,7 @@ const characters = {
   },
   "而": {
     "pinyin": "er2",
-    "radical": "丆",
+    "radical": "而",
     "strokes": 6,
     "words": [
       "反而",
@@ -45419,7 +45419,7 @@ const characters = {
   },
   "耒": {
     "pinyin": "leǐ",
-    "radical": "丰",
+    "radical": "耒",
     "strokes": 6,
     "words": [
       "耒阳"
@@ -45520,7 +45520,7 @@ const characters = {
   },
   "耳": {
     "pinyin": "er3",
-    "radical": "㔿",
+    "radical": "耳",
     "strokes": 6,
     "words": [
       "耳朵",
@@ -45703,7 +45703,7 @@ const characters = {
   },
   "聚": {
     "pinyin": "jù",
-    "radical": "取",
+    "radical": "耳",
     "strokes": 14,
     "words": [
       "聚会",
@@ -45736,13 +45736,13 @@ const characters = {
   },
   "聱": {
     "pinyin": "aó",
-    "radical": "敖",
+    "radical": "龶",
     "strokes": 16,
     "words": []
   },
   "聿": {
     "pinyin": "yù",
-    "radical": "⺺",
+    "radical": "聿",
     "strokes": 6,
     "words": []
   },
@@ -45761,7 +45761,7 @@ const characters = {
   },
   "肄": {
     "pinyin": "yì",
-    "radical": "𠤕",
+    "radical": "匕",
     "strokes": 13,
     "words": [
       "肄业"
@@ -45782,7 +45782,7 @@ const characters = {
   },
   "肇": {
     "pinyin": "zhaò",
-    "radical": "𢼄",
+    "radical": "户",
     "strokes": 14,
     "words": [
       "肇庆",
@@ -45795,7 +45795,7 @@ const characters = {
   },
   "肉": {
     "pinyin": "roù",
-    "radical": "仌",
+    "radical": "肉",
     "strokes": 6,
     "words": [
       "果肉",
@@ -45830,7 +45830,7 @@ const characters = {
   },
   "肓": {
     "pinyin": "huang1",
-    "radical": "亡",
+    "radical": "匸",
     "strokes": 7,
     "words": []
   },
@@ -45976,7 +45976,7 @@ const characters = {
   },
   "肩": {
     "pinyin": "jian1",
-    "radical": "户",
+    "radical": "月",
     "strokes": 8,
     "words": [
       "肩膀",
@@ -46043,7 +46043,7 @@ const characters = {
   },
   "育": {
     "pinyin": "yù",
-    "radical": "",
+    "radical": "亠",
     "strokes": 8,
     "words": [
       "教育",
@@ -46093,7 +46093,7 @@ const characters = {
   },
   "肾": {
     "pinyin": "shen4",
-    "radical": "",
+    "radical": "月",
     "strokes": 8,
     "words": [
       "肾炎",
@@ -46158,7 +46158,7 @@ const characters = {
   },
   "胄": {
     "pinyin": "zhoù",
-    "radical": "由",
+    "radical": "二",
     "strokes": 9,
     "words": [
       "贵胄",
@@ -46180,7 +46180,7 @@ const characters = {
   },
   "背": {
     "pinyin": "beī",
-    "radical": "北",
+    "radical": "月",
     "strokes": 9,
     "words": [
       "背叛",
@@ -46287,7 +46287,7 @@ const characters = {
   },
   "胡": {
     "pinyin": "Hú",
-    "radical": "古",
+    "radical": "十",
     "strokes": 9,
     "words": [
       "二胡",
@@ -46439,7 +46439,7 @@ const characters = {
   },
   "能": {
     "pinyin": "Neng2",
-    "radical": "䏍",
+    "radical": "厶",
     "strokes": 10,
     "words": [
       "功能",
@@ -46491,7 +46491,7 @@ const characters = {
   },
   "脊": {
     "pinyin": "jǐ",
-    "radical": "",
+    "radical": "人",
     "strokes": 10,
     "words": [
       "脊梁",
@@ -46558,7 +46558,7 @@ const characters = {
   },
   "脔": {
     "pinyin": "luan2",
-    "radical": "亦",
+    "radical": "亠",
     "strokes": 12,
     "words": [
       "禁脔"
@@ -46613,7 +46613,7 @@ const characters = {
   },
   "脩": {
     "pinyin": "xiū",
-    "radical": "",
+    "radical": "亻",
     "strokes": 11,
     "words": []
   },
@@ -46735,7 +46735,7 @@ const characters = {
   },
   "腐": {
     "pinyin": "fǔ",
-    "radical": "府",
+    "radical": "广",
     "strokes": 14,
     "words": [
       "腐败",
@@ -46973,7 +46973,7 @@ const characters = {
   },
   "膂": {
     "pinyin": "lu:3",
-    "radical": "",
+    "radical": "方",
     "strokes": 14,
     "words": [
       "膂力"
@@ -46997,7 +46997,7 @@ const characters = {
   },
   "膏": {
     "pinyin": "gaō",
-    "radical": "",
+    "radical": "亠",
     "strokes": 14,
     "words": [
       "唇膏",
@@ -47110,7 +47110,7 @@ const characters = {
   },
   "膺": {
     "pinyin": "ying1",
-    "radical": "䧹",
+    "radical": "广",
     "strokes": 17,
     "words": []
   },
@@ -47122,7 +47122,7 @@ const characters = {
   },
   "臀": {
     "pinyin": "tun2",
-    "radical": "殿",
+    "radical": "尸",
     "strokes": 17,
     "words": [
       "臀围",
@@ -47135,7 +47135,7 @@ const characters = {
   },
   "臂": {
     "pinyin": "bì",
-    "radical": "辟",
+    "radical": "月",
     "strokes": 17,
     "words": [
       "手臂",
@@ -47187,7 +47187,7 @@ const characters = {
   },
   "臣": {
     "pinyin": "Chen2",
-    "radical": "匚",
+    "radical": "臣",
     "strokes": 6,
     "words": [
       "大臣",
@@ -47200,13 +47200,13 @@ const characters = {
   },
   "臧": {
     "pinyin": "Zang1",
-    "radical": "",
+    "radical": "爿",
     "strokes": 14,
     "words": []
   },
   "自": {
     "pinyin": "zì",
-    "radical": "目",
+    "radical": "自",
     "strokes": 6,
     "words": [
       "来自",
@@ -47238,13 +47238,13 @@ const characters = {
   },
   "臲": {
     "pinyin": "niè",
-    "radical": "臬",
+    "radical": "自",
     "strokes": 16,
     "words": []
   },
   "至": {
     "pinyin": "zhì",
-    "radical": "𠫔",
+    "radical": "至",
     "strokes": 6,
     "words": [
       "甚至",
@@ -47279,7 +47279,7 @@ const characters = {
   },
   "臼": {
     "pinyin": "jiù",
-    "radical": "彐",
+    "radical": "臼",
     "strokes": 6,
     "words": [
       "脱臼"
@@ -47301,7 +47301,7 @@ const characters = {
   },
   "臿": {
     "pinyin": "chā",
-    "radical": "千",
+    "radical": "㇒",
     "strokes": 9,
     "words": []
   },
@@ -47322,7 +47322,7 @@ const characters = {
   },
   "舂": {
     "pinyin": "chong1",
-    "radical": "𡗗",
+    "radical": "一",
     "strokes": 11,
     "words": []
   },
@@ -47344,7 +47344,7 @@ const characters = {
   },
   "舆": {
     "pinyin": "yú",
-    "radical": "",
+    "radical": "臼",
     "strokes": 14,
     "words": [
       "舆论",
@@ -47353,13 +47353,13 @@ const characters = {
   },
   "舋": {
     "pinyin": "xin4",
-    "radical": "",
+    "radical": "臼",
     "strokes": 19,
     "words": []
   },
   "舌": {
     "pinyin": "shé",
-    "radical": "千",
+    "radical": "舌",
     "strokes": 6,
     "words": [
       "舌战",
@@ -47391,7 +47391,7 @@ const characters = {
   },
   "舒": {
     "pinyin": "Shū",
-    "radical": "舍",
+    "radical": "人",
     "strokes": 12,
     "words": [
       "舒服",
@@ -47410,7 +47410,7 @@ const characters = {
   },
   "舛": {
     "pinyin": "chuan3",
-    "radical": "夕",
+    "radical": "舛",
     "strokes": 6,
     "words": [
       "多舛"
@@ -47439,7 +47439,7 @@ const characters = {
   },
   "舟": {
     "pinyin": "zhoū",
-    "radical": "",
+    "radical": "舟",
     "strokes": 6,
     "words": [
       "方舟",
@@ -47679,7 +47679,7 @@ const characters = {
   },
   "艮": {
     "pinyin": "gen3",
-    "radical": "𢀳",
+    "radical": "艮",
     "strokes": 6,
     "words": []
   },
@@ -47711,7 +47711,7 @@ const characters = {
   },
   "色": {
     "pinyin": "sè",
-    "radical": "⺈",
+    "radical": "色",
     "strokes": 6,
     "words": [
       "彩色",
@@ -47724,7 +47724,7 @@ const characters = {
   },
   "艳": {
     "pinyin": "yan4",
-    "radical": "丰",
+    "radical": "一",
     "strokes": 10,
     "words": [
       "艳遇",
@@ -47737,13 +47737,13 @@ const characters = {
   },
   "艴": {
     "pinyin": "fú",
-    "radical": "弗",
+    "radical": "弓",
     "strokes": 11,
     "words": []
   },
   "艸": {
     "pinyin": "caǒ",
-    "radical": "屮",
+    "radical": "艸",
     "strokes": 6,
     "words": []
   },
@@ -48789,7 +48789,7 @@ const characters = {
   },
   "荒": {
     "pinyin": "huang1",
-    "radical": "芒",
+    "radical": "艹",
     "strokes": 9,
     "words": [
       "荒唐",
@@ -49329,7 +49329,7 @@ const characters = {
   },
   "菐": {
     "pinyin": "pú",
-    "radical": "业",
+    "radical": "",
     "strokes": 12,
     "words": []
   },
@@ -49935,7 +49935,7 @@ const characters = {
   },
   "蒯": {
     "pinyin": "kuaǐ",
-    "radical": "萠",
+    "radical": "艹",
     "strokes": 13,
     "words": []
   },
@@ -49960,7 +49960,7 @@ const characters = {
   },
   "蒸": {
     "pinyin": "zheng1",
-    "radical": "艹",
+    "radical": "火",
     "strokes": 13,
     "words": [
       "清蒸",
@@ -50120,7 +50120,7 @@ const characters = {
   },
   "蓦": {
     "pinyin": "mò",
-    "radical": "莫",
+    "radical": "艹",
     "strokes": 13,
     "words": [
       "蓦然",
@@ -50737,7 +50737,7 @@ const characters = {
   },
   "蘖": {
     "pinyin": "niè",
-    "radical": "薛",
+    "radical": "艹",
     "strokes": 20,
     "words": []
   },
@@ -50781,7 +50781,7 @@ const characters = {
   },
   "虍": {
     "pinyin": "hū",
-    "radical": "",
+    "radical": "虍",
     "strokes": 6,
     "words": []
   },
@@ -50882,13 +50882,13 @@ const characters = {
   },
   "虢": {
     "pinyin": "Guó",
-    "radical": "寽",
+    "radical": "爫",
     "strokes": 15,
     "words": []
   },
   "虫": {
     "pinyin": "chong2",
-    "radical": "中",
+    "radical": "虫",
     "strokes": 6,
     "words": [
       "虫子",
@@ -50943,7 +50943,7 @@ const characters = {
   },
   "虺": {
     "pinyin": "huī",
-    "radical": "兀",
+    "radical": "一",
     "strokes": 9,
     "words": []
   },
@@ -50983,7 +50983,7 @@ const characters = {
   },
   "虿": {
     "pinyin": "chaì",
-    "radical": "万",
+    "radical": "一",
     "strokes": 9,
     "words": []
   },
@@ -51064,7 +51064,7 @@ const characters = {
   },
   "蚕": {
     "pinyin": "can2",
-    "radical": "天",
+    "radical": "一",
     "strokes": 10,
     "words": [
       "蚕丝",
@@ -51107,7 +51107,7 @@ const characters = {
   },
   "蚤": {
     "pinyin": "zaǒ",
-    "radical": "叉",
+    "radical": "又",
     "strokes": 9,
     "words": [
       "跳蚤"
@@ -51129,7 +51129,7 @@ const characters = {
   },
   "蚩": {
     "pinyin": "Chī",
-    "radical": "㞢",
+    "radical": "屮",
     "strokes": 10,
     "words": [
       "蚩尤"
@@ -51253,7 +51253,7 @@ const characters = {
   },
   "蛋": {
     "pinyin": "dan4",
-    "radical": "疋",
+    "radical": "虫",
     "strokes": 11,
     "words": [
       "彩蛋",
@@ -51359,7 +51359,7 @@ const characters = {
   },
   "蛩": {
     "pinyin": "qiong2",
-    "radical": "巩",
+    "radical": "工",
     "strokes": 12,
     "words": []
   },
@@ -51374,7 +51374,7 @@ const characters = {
   },
   "蛮": {
     "pinyin": "man2",
-    "radical": "亦",
+    "radical": "亠",
     "strokes": 12,
     "words": [
       "野蛮",
@@ -51387,7 +51387,7 @@ const characters = {
   },
   "蛰": {
     "pinyin": "zhé",
-    "radical": "执",
+    "radical": "扌",
     "strokes": 12,
     "words": [
       "蛰伏",
@@ -51488,7 +51488,7 @@ const characters = {
   },
   "蜇": {
     "pinyin": "zhē",
-    "radical": "折",
+    "radical": "扌",
     "strokes": 13,
     "words": [
       "海蜇"
@@ -51797,7 +51797,7 @@ const characters = {
   },
   "蝥": {
     "pinyin": "maó",
-    "radical": "敄",
+    "radical": "矛",
     "strokes": 15,
     "words": []
   },
@@ -51949,7 +51949,7 @@ const characters = {
   },
   "螫": {
     "pinyin": "shì",
-    "radical": "赦",
+    "radical": "赤",
     "strokes": 17,
     "words": []
   },
@@ -51973,7 +51973,7 @@ const characters = {
   },
   "螯": {
     "pinyin": "aó",
-    "radical": "敖",
+    "radical": "龶",
     "strokes": 16,
     "words": []
   },
@@ -52006,7 +52006,7 @@ const characters = {
   },
   "螽": {
     "pinyin": "zhong1",
-    "radical": "冬",
+    "radical": "夂",
     "strokes": 17,
     "words": []
   },
@@ -52135,7 +52135,7 @@ const characters = {
   },
   "蟹": {
     "pinyin": "xiè",
-    "radical": "解",
+    "radical": "虫",
     "strokes": 19,
     "words": [
       "巨蟹",
@@ -52156,7 +52156,7 @@ const characters = {
   },
   "蠃": {
     "pinyin": "luǒ",
-    "radical": "𣎆",
+    "radical": "匸",
     "strokes": 19,
     "words": []
   },
@@ -52198,7 +52198,7 @@ const characters = {
   },
   "蠡": {
     "pinyin": "lí",
-    "radical": "彖",
+    "radical": "彑",
     "strokes": 21,
     "words": [
       "范蠡",
@@ -52207,7 +52207,7 @@ const characters = {
   },
   "蠢": {
     "pinyin": "chun3",
-    "radical": "春",
+    "radical": "虫",
     "strokes": 21,
     "words": [
       "愚蠢",
@@ -52226,7 +52226,7 @@ const characters = {
   },
   "蠲": {
     "pinyin": "juan1",
-    "radical": "益",
+    "radical": "丷",
     "strokes": 23,
     "words": []
   },
@@ -52238,7 +52238,7 @@ const characters = {
   },
   "蠹": {
     "pinyin": "dù",
-    "radical": "",
+    "radical": "十",
     "strokes": 24,
     "words": [
       "蠹鱼"
@@ -52252,7 +52252,7 @@ const characters = {
   },
   "血": {
     "pinyin": "xuè",
-    "radical": "皿",
+    "radical": "血",
     "strokes": 6,
     "words": [
       "血液",
@@ -52280,7 +52280,7 @@ const characters = {
   },
   "行": {
     "pinyin": "hang2",
-    "radical": "彳",
+    "radical": "行",
     "strokes": 6,
     "words": [
       "排行",
@@ -52369,7 +52369,7 @@ const characters = {
   },
   "衣": {
     "pinyin": "yī",
-    "radical": "亠",
+    "radical": "衣",
     "strokes": 6,
     "words": [
       "大衣",
@@ -52493,7 +52493,7 @@ const characters = {
   },
   "衾": {
     "pinyin": "qin1",
-    "radical": "今",
+    "radical": "人",
     "strokes": 10,
     "words": []
   },
@@ -52533,7 +52533,7 @@ const characters = {
   },
   "袅": {
     "pinyin": "niaǒ",
-    "radical": "",
+    "radical": "㇆",
     "strokes": 10,
     "words": [
       "袅袅",
@@ -52542,7 +52542,7 @@ const characters = {
   },
   "袈": {
     "pinyin": "jiā",
-    "radical": "加",
+    "radical": "力",
     "strokes": 11,
     "words": [
       "袈裟"
@@ -52550,7 +52550,7 @@ const characters = {
   },
   "袋": {
     "pinyin": "daì",
-    "radical": "代",
+    "radical": "亻",
     "strokes": 11,
     "words": [
       "口袋",
@@ -52689,7 +52689,7 @@ const characters = {
   },
   "裁": {
     "pinyin": "caí",
-    "radical": "𢦏",
+    "radical": "土",
     "strokes": 12,
     "words": [
       "剪裁",
@@ -52702,7 +52702,7 @@ const characters = {
   },
   "裂": {
     "pinyin": "liè",
-    "radical": "列",
+    "radical": "歹",
     "strokes": 12,
     "words": [
       "分裂",
@@ -52715,7 +52715,7 @@ const characters = {
   },
   "装": {
     "pinyin": "zhuang1",
-    "radical": "壮",
+    "radical": "丬",
     "strokes": 12,
     "words": [
       "假装",
@@ -52779,7 +52779,7 @@ const characters = {
   },
   "裘": {
     "pinyin": "Qiú",
-    "radical": "求",
+    "radical": "𠂇",
     "strokes": 13,
     "words": []
   },
@@ -52798,7 +52798,7 @@ const characters = {
   },
   "裟": {
     "pinyin": "shā",
-    "radical": "沙",
+    "radical": "氵",
     "strokes": 13,
     "words": [
       "袈裟"
@@ -52859,7 +52859,7 @@ const characters = {
   },
   "裳": {
     "pinyin": "chang2",
-    "radical": "",
+    "radical": "⺌",
     "strokes": 14,
     "words": [
       "衣裳",
@@ -53069,7 +53069,7 @@ const characters = {
   },
   "襞": {
     "pinyin": "bì",
-    "radical": "辟",
+    "radical": "尸",
     "strokes": 19,
     "words": []
   },
@@ -53112,13 +53112,13 @@ const characters = {
   },
   "襾": {
     "pinyin": "yà",
-    "radical": "一",
+    "radical": "襾",
     "strokes": 6,
     "words": []
   },
   "西": {
     "pinyin": "Xī",
-    "radical": "兀",
+    "radical": "西",
     "strokes": 6,
     "words": [
       "东西",
@@ -53165,7 +53165,7 @@ const characters = {
   },
   "见": {
     "pinyin": "jian4",
-    "radical": "冂",
+    "radical": "见",
     "strokes": 4,
     "words": [
       "梦见",
@@ -53191,7 +53191,7 @@ const characters = {
   },
   "规": {
     "pinyin": "guī",
-    "radical": "夫",
+    "radical": "人",
     "strokes": 8,
     "words": [
       "规则",
@@ -53226,13 +53226,13 @@ const characters = {
   },
   "觇": {
     "pinyin": "chan1",
-    "radical": "占",
+    "radical": "⺊",
     "strokes": 9,
     "words": []
   },
   "览": {
     "pinyin": "lan3",
-    "radical": "",
+    "radical": "丨",
     "strokes": 9,
     "words": [
       "展览",
@@ -53245,7 +53245,7 @@ const characters = {
   },
   "觉": {
     "pinyin": "jiaò",
-    "radical": "",
+    "radical": "⺍",
     "strokes": 9,
     "words": [
       "感觉",
@@ -53258,7 +53258,7 @@ const characters = {
   },
   "觊": {
     "pinyin": "jì",
-    "radical": "岂",
+    "radical": "山",
     "strokes": 10,
     "words": [
       "觊觎"
@@ -53266,19 +53266,19 @@ const characters = {
   },
   "觋": {
     "pinyin": "xí",
-    "radical": "巫",
+    "radical": "工",
     "strokes": 11,
     "words": []
   },
   "觌": {
     "pinyin": "dí",
-    "radical": "卖",
+    "radical": "十",
     "strokes": 12,
     "words": []
   },
   "觎": {
     "pinyin": "yú",
-    "radical": "俞",
+    "radical": "人",
     "strokes": 13,
     "words": [
       "觊觎"
@@ -53286,13 +53286,13 @@ const characters = {
   },
   "觏": {
     "pinyin": "goù",
-    "radical": "冓",
+    "radical": "",
     "strokes": 14,
     "words": []
   },
   "觐": {
     "pinyin": "jin4",
-    "radical": "堇",
+    "radical": "廿",
     "strokes": 15,
     "words": [
       "觐见",
@@ -53301,7 +53301,7 @@ const characters = {
   },
   "觑": {
     "pinyin": "qù",
-    "radical": "虚",
+    "radical": "虍",
     "strokes": 15,
     "words": [
       "小觑",
@@ -53310,7 +53310,7 @@ const characters = {
   },
   "角": {
     "pinyin": "Jué",
-    "radical": "⺈",
+    "radical": "角",
     "strokes": 7,
     "words": [
       "主角",
@@ -53335,7 +53335,7 @@ const characters = {
   },
   "觜": {
     "pinyin": "zī",
-    "radical": "此",
+    "radical": "止",
     "strokes": 13,
     "words": []
   },
@@ -53393,19 +53393,19 @@ const characters = {
   },
   "觱": {
     "pinyin": "bì",
-    "radical": "咸",
+    "radical": "厂",
     "strokes": 16,
     "words": []
   },
   "觳": {
     "pinyin": "hú",
-    "radical": "",
+    "radical": "士",
     "strokes": 17,
     "words": []
   },
   "言": {
     "pinyin": "yan2",
-    "radical": "亠",
+    "radical": "言",
     "strokes": 7,
     "words": [
       "留言",
@@ -53432,7 +53432,7 @@ const characters = {
   },
   "訾": {
     "pinyin": "Zī",
-    "radical": "此",
+    "radical": "止",
     "strokes": 13,
     "words": []
   },
@@ -53452,7 +53452,7 @@ const characters = {
   },
   "誉": {
     "pinyin": "yù",
-    "radical": "兴",
+    "radical": "⺍",
     "strokes": 13,
     "words": [
       "信誉",
@@ -53465,7 +53465,7 @@ const characters = {
   },
   "誊": {
     "pinyin": "teng2",
-    "radical": "龹",
+    "radical": "二",
     "strokes": 13,
     "words": [
       "誊写"
@@ -53473,7 +53473,7 @@ const characters = {
   },
   "誓": {
     "pinyin": "shì",
-    "radical": "折",
+    "radical": "扌",
     "strokes": 14,
     "words": [
       "发誓",
@@ -53492,19 +53492,19 @@ const characters = {
   },
   "謇": {
     "pinyin": "jian3",
-    "radical": "",
+    "radical": "宀",
     "strokes": 17,
     "words": []
   },
   "謦": {
     "pinyin": "qì",
-    "radical": "殸",
+    "radical": "士",
     "strokes": 18,
     "words": []
   },
   "警": {
     "pinyin": "jing3",
-    "radical": "敬",
+    "radical": "艹",
     "strokes": 19,
     "words": [
       "交警",
@@ -53517,7 +53517,7 @@ const characters = {
   },
   "譬": {
     "pinyin": "pì",
-    "radical": "辟",
+    "radical": "尸",
     "strokes": 20,
     "words": [
       "譬如",
@@ -53526,7 +53526,7 @@ const characters = {
   },
   "讠": {
     "pinyin": "yan2",
-    "radical": "㇊",
+    "radical": "讠",
     "strokes": 2,
     "words": []
   },
@@ -54934,7 +54934,7 @@ const characters = {
   },
   "谷": {
     "pinyin": "gǔ",
-    "radical": "八",
+    "radical": "谷",
     "strokes": 7,
     "words": [
       "曼谷",
@@ -54947,7 +54947,7 @@ const characters = {
   },
   "豁": {
     "pinyin": "huá",
-    "radical": "害",
+    "radical": "宀",
     "strokes": 17,
     "words": [
       "豁达",
@@ -54957,7 +54957,7 @@ const characters = {
   },
   "豆": {
     "pinyin": "doù",
-    "radical": "𠮛",
+    "radical": "豆",
     "strokes": 7,
     "words": [
       "土豆",
@@ -54987,7 +54987,7 @@ const characters = {
   },
   "豊": {
     "pinyin": "feng1",
-    "radical": "曲",
+    "radical": "",
     "strokes": 13,
     "words": []
   },
@@ -55001,13 +55001,13 @@ const characters = {
   },
   "豔": {
     "pinyin": "yan4",
-    "radical": "豐",
+    "radical": "山",
     "strokes": 28,
     "words": []
   },
   "豕": {
     "pinyin": "shǐ",
-    "radical": "一",
+    "radical": "豕",
     "strokes": 7,
     "words": []
   },
@@ -55043,7 +55043,7 @@ const characters = {
   },
   "豢": {
     "pinyin": "huan4",
-    "radical": "龹",
+    "radical": "二",
     "strokes": 13,
     "words": [
       "豢养"
@@ -55057,7 +55057,7 @@ const characters = {
   },
   "豪": {
     "pinyin": "haó",
-    "radical": "",
+    "radical": "亠",
     "strokes": 14,
     "words": [
       "富豪",
@@ -55070,7 +55070,7 @@ const characters = {
   },
   "豫": {
     "pinyin": "Yù",
-    "radical": "予",
+    "radical": "龴",
     "strokes": 15,
     "words": [
       "犹豫",
@@ -55093,7 +55093,7 @@ const characters = {
   },
   "豸": {
     "pinyin": "zhì",
-    "radical": "爫",
+    "radical": "豸",
     "strokes": 7,
     "words": [
       "獬豸"
@@ -55190,13 +55190,13 @@ const characters = {
   },
   "賏": {
     "pinyin": "ying4",
-    "radical": "貝",
+    "radical": "賏",
     "strokes": 14,
     "words": []
   },
   "贝": {
     "pinyin": "Beì",
-    "radical": "冂",
+    "radical": "贝",
     "strokes": 4,
     "words": [
       "宝贝",
@@ -55274,7 +55274,7 @@ const characters = {
   },
   "贤": {
     "pinyin": "xian2",
-    "radical": "",
+    "radical": "丨",
     "strokes": 8,
     "words": [
       "贤惠",
@@ -55313,7 +55313,7 @@ const characters = {
   },
   "货": {
     "pinyin": "huò",
-    "radical": "化",
+    "radical": "亻",
     "strokes": 8,
     "words": [
       "年货",
@@ -55326,7 +55326,7 @@ const characters = {
   },
   "质": {
     "pinyin": "zhì",
-    "radical": "𣂑",
+    "radical": "⺁",
     "strokes": 8,
     "words": [
       "优质",
@@ -55352,7 +55352,7 @@ const characters = {
   },
   "贪": {
     "pinyin": "tan1",
-    "radical": "今",
+    "radical": "人",
     "strokes": 8,
     "words": [
       "贪婪",
@@ -55365,7 +55365,7 @@ const characters = {
   },
   "贫": {
     "pinyin": "pin2",
-    "radical": "分",
+    "radical": "八",
     "strokes": 8,
     "words": [
       "贫困",
@@ -55414,7 +55414,7 @@ const characters = {
   },
   "贯": {
     "pinyin": "guan4",
-    "radical": "毌",
+    "radical": "囗",
     "strokes": 8,
     "words": [
       "一贯",
@@ -55427,7 +55427,7 @@ const characters = {
   },
   "贰": {
     "pinyin": "er4",
-    "radical": "弍",
+    "radical": "弋",
     "strokes": 9,
     "words": []
   },
@@ -55452,7 +55452,7 @@ const characters = {
   },
   "贳": {
     "pinyin": "shì",
-    "radical": "世",
+    "radical": "㇗",
     "strokes": 9,
     "words": []
   },
@@ -55471,7 +55471,7 @@ const characters = {
   },
   "贵": {
     "pinyin": "guì",
-    "radical": "𠀐",
+    "radical": "口",
     "strokes": 9,
     "words": [
       "富贵",
@@ -55490,7 +55490,7 @@ const characters = {
   },
   "贷": {
     "pinyin": "daì",
-    "radical": "代",
+    "radical": "亻",
     "strokes": 9,
     "words": [
       "信贷",
@@ -55516,7 +55516,7 @@ const characters = {
   },
   "费": {
     "pinyin": "Feì",
-    "radical": "弗",
+    "radical": "弓",
     "strokes": 9,
     "words": [
       "免费",
@@ -55529,7 +55529,7 @@ const characters = {
   },
   "贺": {
     "pinyin": "Hè",
-    "radical": "加",
+    "radical": "力",
     "strokes": 9,
     "words": [
       "祝贺",
@@ -55565,7 +55565,7 @@ const characters = {
   },
   "贽": {
     "pinyin": "zhì",
-    "radical": "执",
+    "radical": "扌",
     "strokes": 10,
     "words": []
   },
@@ -55591,13 +55591,13 @@ const characters = {
   },
   "赀": {
     "pinyin": "zī",
-    "radical": "此",
+    "radical": "止",
     "strokes": 10,
     "words": []
   },
   "赁": {
     "pinyin": "lin4",
-    "radical": "任",
+    "radical": "亻",
     "strokes": 10,
     "words": [
       "租赁"
@@ -55625,7 +55625,7 @@ const characters = {
   },
   "资": {
     "pinyin": "zī",
-    "radical": "次",
+    "radical": "冫",
     "strokes": 10,
     "words": [
       "小资",
@@ -55665,7 +55665,7 @@ const characters = {
   },
   "赉": {
     "pinyin": "laì",
-    "radical": "来",
+    "radical": "木",
     "strokes": 11,
     "words": []
   },
@@ -55707,7 +55707,7 @@ const characters = {
   },
   "赍": {
     "pinyin": "jī",
-    "radical": "",
+    "radical": "十",
     "strokes": 12,
     "words": []
   },
@@ -55724,7 +55724,7 @@ const characters = {
   },
   "赏": {
     "pinyin": "shang3",
-    "radical": "",
+    "radical": "⺌",
     "strokes": 12,
     "words": [
       "欣赏",
@@ -55750,7 +55750,7 @@ const characters = {
   },
   "赑": {
     "pinyin": "bì",
-    "radical": "贝",
+    "radical": "赑",
     "strokes": 12,
     "words": [
       "赑屃"
@@ -55764,7 +55764,7 @@ const characters = {
   },
   "赓": {
     "pinyin": "geng1",
-    "radical": "庚",
+    "radical": "广",
     "strokes": 12,
     "words": []
   },
@@ -55789,7 +55789,7 @@ const characters = {
   },
   "赖": {
     "pinyin": "Laì",
-    "radical": "束",
+    "radical": "木",
     "strokes": 13,
     "words": [
       "依赖",
@@ -55802,7 +55802,7 @@ const characters = {
   },
   "赘": {
     "pinyin": "zhuì",
-    "radical": "敖",
+    "radical": "龶",
     "strokes": 14,
     "words": [
       "累赘",
@@ -55844,13 +55844,13 @@ const characters = {
   },
   "赜": {
     "pinyin": "zé",
-    "radical": "𦣞",
+    "radical": "匚",
     "strokes": 15,
     "words": []
   },
   "赝": {
     "pinyin": "yan4",
-    "radical": "雁",
+    "radical": "厂",
     "strokes": 16,
     "words": [
       "赝品"
@@ -55892,7 +55892,7 @@ const characters = {
   },
   "赢": {
     "pinyin": "ying2",
-    "radical": "𣎆",
+    "radical": "匸",
     "strokes": 17,
     "words": [
       "赢得",
@@ -55904,7 +55904,7 @@ const characters = {
   },
   "赣": {
     "pinyin": "Gan4",
-    "radical": "章",
+    "radical": "立",
     "strokes": 21,
     "words": [
       "赣州",
@@ -55916,7 +55916,7 @@ const characters = {
   },
   "赤": {
     "pinyin": "chì",
-    "radical": "土",
+    "radical": "赤",
     "strokes": 7,
     "words": [
       "赤壁",
@@ -55946,7 +55946,7 @@ const characters = {
   },
   "赫": {
     "pinyin": "Hè",
-    "radical": "赤",
+    "radical": "赫",
     "strokes": 14,
     "words": [
       "赫本",
@@ -55967,7 +55967,7 @@ const characters = {
   },
   "走": {
     "pinyin": "zoǔ",
-    "radical": "土",
+    "radical": "走",
     "strokes": 7,
     "words": [
       "带走",
@@ -56153,7 +56153,7 @@ const characters = {
   },
   "足": {
     "pinyin": "jù",
-    "radical": "口",
+    "radical": "足",
     "strokes": 7,
     "words": [
       "不足",
@@ -56180,7 +56180,7 @@ const characters = {
   },
   "趸": {
     "pinyin": "dun3",
-    "radical": "万",
+    "radical": "一",
     "strokes": 10,
     "words": [
       "拥趸",
@@ -56404,7 +56404,7 @@ const characters = {
   },
   "跫": {
     "pinyin": "qiong2",
-    "radical": "巩",
+    "radical": "工",
     "strokes": 13,
     "words": []
   },
@@ -56504,7 +56504,7 @@ const characters = {
   },
   "踅": {
     "pinyin": "chì",
-    "radical": "折",
+    "radical": "扌",
     "strokes": 14,
     "words": [
       "踅摸"
@@ -56782,7 +56782,7 @@ const characters = {
   },
   "蹙": {
     "pinyin": "cù",
-    "radical": "戚",
+    "radical": "厂",
     "strokes": 18,
     "words": [
       "蹙眉"
@@ -56821,7 +56821,7 @@ const characters = {
   },
   "蹩": {
     "pinyin": "bié",
-    "radical": "敝",
+    "radical": "巾",
     "strokes": 18,
     "words": [
       "蹩脚"
@@ -56963,7 +56963,7 @@ const characters = {
   },
   "身": {
     "pinyin": "shen1",
-    "radical": "𨈑",
+    "radical": "身",
     "strokes": 7,
     "words": [
       "单身",
@@ -57029,7 +57029,7 @@ const characters = {
   },
   "輂": {
     "pinyin": "jú",
-    "radical": "共",
+    "radical": "艹",
     "strokes": 13,
     "words": []
   },
@@ -57059,7 +57059,7 @@ const characters = {
   },
   "车": {
     "pinyin": "Chē",
-    "radical": "七",
+    "radical": "车",
     "strokes": 4,
     "words": [
       "上车",
@@ -57258,7 +57258,7 @@ const characters = {
   },
   "载": {
     "pinyin": "zaǐ",
-    "radical": "𢦏",
+    "radical": "土",
     "strokes": 10,
     "words": [
       "下载",
@@ -57362,7 +57362,7 @@ const characters = {
   },
   "辉": {
     "pinyin": "huī",
-    "radical": "光",
+    "radical": "⺌",
     "strokes": 12,
     "words": [
       "辉煌",
@@ -57508,7 +57508,7 @@ const characters = {
   },
   "辛": {
     "pinyin": "Xin1",
-    "radical": "立",
+    "radical": "辛",
     "strokes": 7,
     "words": [
       "辛苦",
@@ -57521,7 +57521,7 @@ const characters = {
   },
   "辜": {
     "pinyin": "Gū",
-    "radical": "古",
+    "radical": "十",
     "strokes": 12,
     "words": [
       "无辜",
@@ -57543,7 +57543,7 @@ const characters = {
   },
   "辟": {
     "pinyin": "bì",
-    "radical": "𡰪",
+    "radical": "尸",
     "strokes": 13,
     "words": [
       "精辟",
@@ -57605,7 +57605,7 @@ const characters = {
   },
   "辰": {
     "pinyin": "chen2",
-    "radical": "厂",
+    "radical": "辰",
     "strokes": 7,
     "words": [
       "壬辰",
@@ -57631,13 +57631,13 @@ const characters = {
   },
   "辵": {
     "pinyin": "chuò",
-    "radical": "彡",
+    "radical": "辵",
     "strokes": 7,
     "words": []
   },
   "辶": {
     "pinyin": "chuò",
-    "radical": "",
+    "radical": "辶",
     "strokes": 3,
     "words": []
   },
@@ -58591,7 +58591,7 @@ const characters = {
   },
   "遥": {
     "pinyin": "yaó",
-    "radical": "",
+    "radical": "辶",
     "strokes": 13,
     "words": [
       "遥远",
@@ -58699,7 +58699,7 @@ const characters = {
   },
   "邃": {
     "pinyin": "suì",
-    "radical": "遂",
+    "radical": "辶",
     "strokes": 17,
     "words": [
       "深邃"
@@ -58721,7 +58721,7 @@ const characters = {
   },
   "邑": {
     "pinyin": "yì",
-    "radical": "口",
+    "radical": "邑",
     "strokes": 7,
     "words": [
       "大邑",
@@ -58760,13 +58760,13 @@ const characters = {
   },
   "邘": {
     "pinyin": "Yú",
-    "radical": "于",
+    "radical": "干",
     "strokes": 5,
     "words": []
   },
   "邙": {
     "pinyin": "Mang2",
-    "radical": "亡",
+    "radical": "匸",
     "strokes": 5,
     "words": [
       "北邙",
@@ -58789,7 +58789,7 @@ const characters = {
   },
   "邠": {
     "pinyin": "Bin1",
-    "radical": "分",
+    "radical": "八",
     "strokes": 6,
     "words": []
   },
@@ -58803,7 +58803,7 @@ const characters = {
   },
   "邢": {
     "pinyin": "Xing2",
-    "radical": "开",
+    "radical": "一",
     "strokes": 6,
     "words": [
       "邢台"
@@ -58811,7 +58811,7 @@ const characters = {
   },
   "那": {
     "pinyin": "nǎ",
-    "radical": "",
+    "radical": "㇆",
     "strokes": 6,
     "words": [
       "那么",
@@ -58824,7 +58824,7 @@ const characters = {
   },
   "邦": {
     "pinyin": "bang1",
-    "radical": "丰",
+    "radical": "一",
     "strokes": 6,
     "words": [
       "联邦",
@@ -58837,7 +58837,7 @@ const characters = {
   },
   "邨": {
     "pinyin": "cun1",
-    "radical": "屯",
+    "radical": "十",
     "strokes": 6,
     "words": []
   },
@@ -58856,13 +58856,13 @@ const characters = {
   },
   "邬": {
     "pinyin": "Wū",
-    "radical": "乌",
+    "radical": "㇆",
     "strokes": 6,
     "words": []
   },
   "邮": {
     "pinyin": "yoú",
-    "radical": "由",
+    "radical": "二",
     "strokes": 7,
     "words": [
       "包邮",
@@ -58883,13 +58883,13 @@ const characters = {
   },
   "邰": {
     "pinyin": "Taí",
-    "radical": "台",
+    "radical": "厶",
     "strokes": 7,
     "words": []
   },
   "邱": {
     "pinyin": "Qiū",
-    "radical": "丘",
+    "radical": "斤",
     "strokes": 7,
     "words": [
       "大邱",
@@ -58899,7 +58899,7 @@ const characters = {
   },
   "邳": {
     "pinyin": "Pī",
-    "radical": "丕",
+    "radical": "一",
     "strokes": 7,
     "words": [
       "邳州"
@@ -58907,13 +58907,13 @@ const characters = {
   },
   "邴": {
     "pinyin": "Bing3",
-    "radical": "丙",
+    "radical": "一",
     "strokes": 7,
     "words": []
   },
   "邵": {
     "pinyin": "Shaò",
-    "radical": "召",
+    "radical": "刀",
     "strokes": 7,
     "words": [
       "邵阳",
@@ -58929,7 +58929,7 @@ const characters = {
   },
   "邸": {
     "pinyin": "Dǐ",
-    "radical": "氐",
+    "radical": "氏",
     "strokes": 7,
     "words": [
       "官邸",
@@ -58938,7 +58938,7 @@ const characters = {
   },
   "邹": {
     "pinyin": "Zoū",
-    "radical": "刍",
+    "radical": "⺈",
     "strokes": 7,
     "words": [
       "邹城",
@@ -58948,7 +58948,7 @@ const characters = {
   },
   "邺": {
     "pinyin": "Yè",
-    "radical": "业",
+    "radical": "",
     "strokes": 7,
     "words": [
       "建邺"
@@ -58956,7 +58956,7 @@ const characters = {
   },
   "邻": {
     "pinyin": "lin2",
-    "radical": "令",
+    "radical": "人",
     "strokes": 7,
     "words": [
       "邻家",
@@ -58969,13 +58969,13 @@ const characters = {
   },
   "邾": {
     "pinyin": "Zhū",
-    "radical": "朱",
+    "radical": "木",
     "strokes": 8,
     "words": []
   },
   "郁": {
     "pinyin": "Yù",
-    "radical": "有",
+    "radical": "𠂇",
     "strokes": 8,
     "words": [
       "郁闷",
@@ -58988,7 +58988,7 @@ const characters = {
   },
   "郄": {
     "pinyin": "Xì",
-    "radical": "𠫤",
+    "radical": "乂",
     "strokes": 8,
     "words": []
   },
@@ -59000,13 +59000,13 @@ const characters = {
   },
   "郇": {
     "pinyin": "xun2",
-    "radical": "旬",
+    "radical": "勹",
     "strokes": 8,
     "words": []
   },
   "郊": {
     "pinyin": "Jiaō",
-    "radical": "交",
+    "radical": "亠",
     "strokes": 8,
     "words": [
       "郊区",
@@ -59019,7 +59019,7 @@ const characters = {
   },
   "郎": {
     "pinyin": "Lang2",
-    "radical": "",
+    "radical": "丨",
     "strokes": 8,
     "words": [
       "女郎",
@@ -59032,7 +59032,7 @@ const characters = {
   },
   "郏": {
     "pinyin": "jiá",
-    "radical": "夹",
+    "radical": "人",
     "strokes": 8,
     "words": [
       "郏县"
@@ -59040,13 +59040,13 @@ const characters = {
   },
   "郐": {
     "pinyin": "Kuaì",
-    "radical": "会",
+    "radical": "人",
     "strokes": 8,
     "words": []
   },
   "郑": {
     "pinyin": "Zheng4",
-    "radical": "关",
+    "radical": "丷",
     "strokes": 8,
     "words": [
       "郑州",
@@ -59058,7 +59058,7 @@ const characters = {
   },
   "郓": {
     "pinyin": "yun4",
-    "radical": "军",
+    "radical": "冖",
     "strokes": 8,
     "words": [
       "郓城"
@@ -59066,19 +59066,19 @@ const characters = {
   },
   "郗": {
     "pinyin": "Chī",
-    "radical": "希",
+    "radical": "乂",
     "strokes": 9,
     "words": []
   },
   "郛": {
     "pinyin": "fú",
-    "radical": "孚",
+    "radical": "爫",
     "strokes": 9,
     "words": []
   },
   "郜": {
     "pinyin": "Gaò",
-    "radical": "告",
+    "radical": "⺧",
     "strokes": 9,
     "words": []
   },
@@ -59090,13 +59090,13 @@ const characters = {
   },
   "郡": {
     "pinyin": "jun4",
-    "radical": "君",
+    "radical": "⺕",
     "strokes": 9,
     "words": []
   },
   "郢": {
     "pinyin": "Ying3",
-    "radical": "呈",
+    "radical": "口",
     "strokes": 9,
     "words": []
   },
@@ -59108,13 +59108,13 @@ const characters = {
   },
   "郦": {
     "pinyin": "Lì",
-    "radical": "丽",
+    "radical": "一",
     "strokes": 9,
     "words": []
   },
   "郧": {
     "pinyin": "yun2",
-    "radical": "员",
+    "radical": "口",
     "strokes": 9,
     "words": [
       "郧县",
@@ -59123,7 +59123,7 @@ const characters = {
   },
   "部": {
     "pinyin": "bù",
-    "radical": "咅",
+    "radical": "立",
     "strokes": 10,
     "words": [
       "全部",
@@ -59136,7 +59136,7 @@ const characters = {
   },
   "郫": {
     "pinyin": "pí",
-    "radical": "卑",
+    "radical": "冂",
     "strokes": 10,
     "words": [
       "郫县"
@@ -59144,7 +59144,7 @@ const characters = {
   },
   "郭": {
     "pinyin": "Guō",
-    "radical": "享",
+    "radical": "亠",
     "strokes": 10,
     "words": []
   },
@@ -59166,7 +59166,7 @@ const characters = {
   },
   "郸": {
     "pinyin": "dan1",
-    "radical": "单",
+    "radical": "丷",
     "strokes": 10,
     "words": [
       "邯郸",
@@ -59175,7 +59175,7 @@ const characters = {
   },
   "都": {
     "pinyin": "Dū",
-    "radical": "者",
+    "radical": "耂",
     "strokes": 10,
     "words": [
       "成都",
@@ -59188,13 +59188,13 @@ const characters = {
   },
   "郾": {
     "pinyin": "yan3",
-    "radical": "匽",
+    "radical": "匚",
     "strokes": 11,
     "words": []
   },
   "鄂": {
     "pinyin": "E4",
-    "radical": "咢",
+    "radical": "吅",
     "strokes": 11,
     "words": [
       "鄂州"
@@ -59202,7 +59202,7 @@ const characters = {
   },
   "鄄": {
     "pinyin": "juan4",
-    "radical": "垔",
+    "radical": "西",
     "strokes": 11,
     "words": [
       "鄄城"
@@ -59210,13 +59210,13 @@ const characters = {
   },
   "鄋": {
     "pinyin": "soū",
-    "radical": "叟",
+    "radical": "臼",
     "strokes": 11,
     "words": []
   },
   "鄙": {
     "pinyin": "bǐ",
-    "radical": "啚",
+    "radical": "口",
     "strokes": 13,
     "words": [
       "鄙视",
@@ -59229,7 +59229,7 @@ const characters = {
   },
   "鄞": {
     "pinyin": "yin2",
-    "radical": "堇",
+    "radical": "廿",
     "strokes": 13,
     "words": [
       "鄞州"
@@ -59237,7 +59237,7 @@ const characters = {
   },
   "鄢": {
     "pinyin": "Yan1",
-    "radical": "焉",
+    "radical": "一",
     "strokes": 13,
     "words": [
       "鄢陵"
@@ -59245,19 +59245,19 @@ const characters = {
   },
   "鄣": {
     "pinyin": "zhang1",
-    "radical": "章",
+    "radical": "立",
     "strokes": 13,
     "words": []
   },
   "鄦": {
     "pinyin": "Xǔ",
-    "radical": "無",
+    "radical": "",
     "strokes": 14,
     "words": []
   },
   "鄯": {
     "pinyin": "shan4",
-    "radical": "善",
+    "radical": "羊",
     "strokes": 14,
     "words": [
       "鄯善"
@@ -59265,7 +59265,7 @@ const characters = {
   },
   "鄱": {
     "pinyin": "pó",
-    "radical": "番",
+    "radical": "釆",
     "strokes": 14,
     "words": [
       "鄱阳"
@@ -59273,25 +59273,25 @@ const characters = {
   },
   "鄹": {
     "pinyin": "Zoū",
-    "radical": "聚",
+    "radical": "耳",
     "strokes": 16,
     "words": []
   },
   "酃": {
     "pinyin": "ling2",
-    "radical": "霝",
+    "radical": "雨",
     "strokes": 19,
     "words": []
   },
   "酆": {
     "pinyin": "Feng1",
-    "radical": "豐",
+    "radical": "山",
     "strokes": 20,
     "words": []
   },
   "酉": {
     "pinyin": "yoǔ",
-    "radical": "兀",
+    "radical": "酉",
     "strokes": 7,
     "words": [
       "癸酉",
@@ -59524,7 +59524,7 @@ const characters = {
   },
   "酱": {
     "pinyin": "jiang4",
-    "radical": "",
+    "radical": "丬",
     "strokes": 13,
     "words": [
       "酱油",
@@ -59794,7 +59794,7 @@ const characters = {
   },
   "釆": {
     "pinyin": "bian4",
-    "radical": "㇒",
+    "radical": "釆",
     "strokes": 7,
     "words": []
   },
@@ -59834,7 +59834,7 @@ const characters = {
   },
   "里": {
     "pinyin": "lǐ",
-    "radical": "田",
+    "radical": "里",
     "strokes": 7,
     "words": [
       "哪里",
@@ -59847,7 +59847,7 @@ const characters = {
   },
   "重": {
     "pinyin": "chong2",
-    "radical": "千",
+    "radical": "㇒",
     "strokes": 9,
     "words": [
       "严重",
@@ -59886,7 +59886,7 @@ const characters = {
   },
   "金": {
     "pinyin": "Jin1",
-    "radical": "全",
+    "radical": "金",
     "strokes": 8,
     "words": [
       "现金",
@@ -59925,7 +59925,7 @@ const characters = {
   },
   "鉴": {
     "pinyin": "jian4",
-    "radical": "",
+    "radical": "丨",
     "strokes": 13,
     "words": [
       "鉴定",
@@ -59944,19 +59944,19 @@ const characters = {
   },
   "銎": {
     "pinyin": "qiong1",
-    "radical": "巩",
+    "radical": "工",
     "strokes": 14,
     "words": []
   },
   "銮": {
     "pinyin": "luan2",
-    "radical": "亦",
+    "radical": "亠",
     "strokes": 14,
     "words": []
   },
   "鋈": {
     "pinyin": "wù",
-    "radical": "沃",
+    "radical": "氵",
     "strokes": 15,
     "words": []
   },
@@ -59968,7 +59968,7 @@ const characters = {
   },
   "錾": {
     "pinyin": "zan4",
-    "radical": "斩",
+    "radical": "车",
     "strokes": 16,
     "words": []
   },
@@ -59980,7 +59980,7 @@ const characters = {
   },
   "鍪": {
     "pinyin": "moú",
-    "radical": "敄",
+    "radical": "矛",
     "strokes": 17,
     "words": [
       "兜鍪"
@@ -59988,7 +59988,7 @@ const characters = {
   },
   "鎏": {
     "pinyin": "liú",
-    "radical": "流",
+    "radical": "氵",
     "strokes": 18,
     "words": [
       "鎏金"
@@ -59996,7 +59996,7 @@ const characters = {
   },
   "鏊": {
     "pinyin": "aò",
-    "radical": "敖",
+    "radical": "龶",
     "strokes": 18,
     "words": []
   },
@@ -60028,7 +60028,7 @@ const characters = {
   },
   "鑫": {
     "pinyin": "xin1",
-    "radical": "金",
+    "radical": "鑫",
     "strokes": 24,
     "words": []
   },
@@ -61700,7 +61700,7 @@ const characters = {
   },
   "长": {
     "pinyin": "chang2",
-    "radical": "",
+    "radical": "长",
     "strokes": 4,
     "words": [
       "增长",
@@ -61737,7 +61737,7 @@ const characters = {
   },
   "门": {
     "pinyin": "Men2",
-    "radical": "",
+    "radical": "门",
     "strokes": 3,
     "words": [
       "出门",
@@ -62165,7 +62165,7 @@ const characters = {
   },
   "阜": {
     "pinyin": "fù",
-    "radical": "𠂤",
+    "radical": "阜",
     "strokes": 8,
     "words": [
       "阜阳",
@@ -62793,13 +62793,13 @@ const characters = {
   },
   "隳": {
     "pinyin": "huī",
-    "radical": "隋",
+    "radical": "阝",
     "strokes": 17,
     "words": []
   },
   "隶": {
     "pinyin": "lì",
-    "radical": "⺺",
+    "radical": "隶",
     "strokes": 8,
     "words": [
       "奴隶",
@@ -62810,7 +62810,7 @@ const characters = {
   },
   "隹": {
     "pinyin": "zhuī",
-    "radical": "亻",
+    "radical": "隹",
     "strokes": 8,
     "words": []
   },
@@ -62843,7 +62843,7 @@ const characters = {
   },
   "雀": {
     "pinyin": "qiaō",
-    "radical": "少",
+    "radical": "小",
     "strokes": 11,
     "words": [
       "雀巢",
@@ -62868,7 +62868,7 @@ const characters = {
   },
   "雄": {
     "pinyin": "xiong2",
-    "radical": "厷",
+    "radical": "𠂇",
     "strokes": 12,
     "words": [
       "英雄",
@@ -62932,7 +62932,7 @@ const characters = {
   },
   "雌": {
     "pinyin": "cí",
-    "radical": "此",
+    "radical": "止",
     "strokes": 14,
     "words": [
       "雌性",
@@ -62954,13 +62954,13 @@ const characters = {
   },
   "雎": {
     "pinyin": "jū",
-    "radical": "且",
+    "radical": "月",
     "strokes": 13,
     "words": []
   },
   "雏": {
     "pinyin": "chú",
-    "radical": "刍",
+    "radical": "⺈",
     "strokes": 13,
     "words": [
       "雏菊",
@@ -62973,13 +62973,13 @@ const characters = {
   },
   "雒": {
     "pinyin": "luò",
-    "radical": "各",
+    "radical": "夂",
     "strokes": 14,
     "words": []
   },
   "雕": {
     "pinyin": "diaō",
-    "radical": "周",
+    "radical": "田",
     "strokes": 16,
     "words": [
       "雕刻",
@@ -62998,7 +62998,7 @@ const characters = {
   },
   "雝": {
     "pinyin": "yong1",
-    "radical": "邕",
+    "radical": "巛",
     "strokes": 18,
     "words": []
   },
@@ -63010,7 +63010,7 @@ const characters = {
   },
   "雨": {
     "pinyin": "yǔ",
-    "radical": "帀",
+    "radical": "雨",
     "strokes": 8,
     "words": [
       "下雨",
@@ -63334,13 +63334,13 @@ const characters = {
   },
   "靑": {
     "pinyin": "qing1",
-    "radical": "龶",
+    "radical": "靑",
     "strokes": 8,
     "words": []
   },
   "青": {
     "pinyin": "qing1",
-    "radical": "龶",
+    "radical": "青",
     "strokes": 8,
     "words": [
       "青年",
@@ -63401,7 +63401,7 @@ const characters = {
   },
   "非": {
     "pinyin": "Feī",
-    "radical": "",
+    "radical": "非",
     "strokes": 8,
     "words": [
       "非常",
@@ -63440,7 +63440,7 @@ const characters = {
   },
   "面": {
     "pinyin": "mian4",
-    "radical": "丆",
+    "radical": "面",
     "strokes": 9,
     "words": [
       "上面",
@@ -63453,7 +63453,7 @@ const characters = {
   },
   "靥": {
     "pinyin": "yè",
-    "radical": "厌",
+    "radical": "厂",
     "strokes": 15,
     "words": [
       "笑靥"
@@ -63461,7 +63461,7 @@ const characters = {
   },
   "革": {
     "pinyin": "gé",
-    "radical": "廿",
+    "radical": "革",
     "strokes": 9,
     "words": [
       "改革",
@@ -63610,7 +63610,7 @@ const characters = {
   },
   "韦": {
     "pinyin": "Weí",
-    "radical": "",
+    "radical": "韦",
     "strokes": 4,
     "words": [
       "韦德",
@@ -63631,7 +63631,7 @@ const characters = {
   },
   "韩": {
     "pinyin": "Han2",
-    "radical": "龺",
+    "radical": "十",
     "strokes": 12,
     "words": [
       "韩国",
@@ -63644,7 +63644,7 @@ const characters = {
   },
   "韪": {
     "pinyin": "weǐ",
-    "radical": "是",
+    "radical": "日",
     "strokes": 13,
     "words": [
       "不韪"
@@ -63666,7 +63666,7 @@ const characters = {
   },
   "韭": {
     "pinyin": "jiǔ",
-    "radical": "非",
+    "radical": "韭",
     "strokes": 9,
     "words": [
       "韭菜"
@@ -63680,7 +63680,7 @@ const characters = {
   },
   "音": {
     "pinyin": "yin1",
-    "radical": "立",
+    "radical": "音",
     "strokes": 9,
     "words": [
       "声音",
@@ -63715,13 +63715,13 @@ const characters = {
   },
   "顗": {
     "pinyin": "yǐ",
-    "radical": "豈",
+    "radical": "山",
     "strokes": 19,
     "words": []
   },
   "页": {
     "pinyin": "yè",
-    "radical": "丆",
+    "radical": "页",
     "strokes": 6,
     "words": [
       "首页",
@@ -63734,7 +63734,7 @@ const characters = {
   },
   "顶": {
     "pinyin": "ding3",
-    "radical": "丁",
+    "radical": "一",
     "strokes": 8,
     "words": [
       "屋顶",
@@ -63811,7 +63811,7 @@ const characters = {
   },
   "顽": {
     "pinyin": "wan2",
-    "radical": "元",
+    "radical": "二",
     "strokes": 10,
     "words": [
       "顽固",
@@ -63824,7 +63824,7 @@ const characters = {
   },
   "顾": {
     "pinyin": "Gù",
-    "radical": "厄",
+    "radical": "厂",
     "strokes": 10,
     "words": [
       "回顾",
@@ -63837,7 +63837,7 @@ const characters = {
   },
   "顿": {
     "pinyin": "dun4",
-    "radical": "屯",
+    "radical": "十",
     "strokes": 10,
     "words": [
       "顿时",
@@ -63856,7 +63856,7 @@ const characters = {
   },
   "颁": {
     "pinyin": "ban1",
-    "radical": "分",
+    "radical": "八",
     "strokes": 10,
     "words": [
       "颁奖",
@@ -63868,7 +63868,7 @@ const characters = {
   },
   "颂": {
     "pinyin": "song4",
-    "radical": "公",
+    "radical": "八",
     "strokes": 10,
     "words": [
       "歌颂",
@@ -63881,13 +63881,13 @@ const characters = {
   },
   "颃": {
     "pinyin": "hang2",
-    "radical": "亢",
+    "radical": "亠",
     "strokes": 10,
     "words": []
   },
   "预": {
     "pinyin": "yù",
-    "radical": "予",
+    "radical": "龴",
     "strokes": 10,
     "words": [
       "预报",
@@ -63900,7 +63900,7 @@ const characters = {
   },
   "颅": {
     "pinyin": "lú",
-    "radical": "卢",
+    "radical": "⺊",
     "strokes": 11,
     "words": [
       "头颅",
@@ -63910,7 +63910,7 @@ const characters = {
   },
   "领": {
     "pinyin": "ling3",
-    "radical": "令",
+    "radical": "人",
     "strokes": 11,
     "words": [
       "带领",
@@ -63934,7 +63934,7 @@ const characters = {
   },
   "颈": {
     "pinyin": "jing3",
-    "radical": "",
+    "radical": "龴",
     "strokes": 11,
     "words": [
       "瓶颈",
@@ -63947,7 +63947,7 @@ const characters = {
   },
   "颉": {
     "pinyin": "Xié",
-    "radical": "吉",
+    "radical": "士",
     "strokes": 12,
     "words": [
       "仓颉"
@@ -63955,7 +63955,7 @@ const characters = {
   },
   "颊": {
     "pinyin": "jiá",
-    "radical": "夹",
+    "radical": "人",
     "strokes": 12,
     "words": [
       "脸颊",
@@ -63964,7 +63964,7 @@ const characters = {
   },
   "颌": {
     "pinyin": "hé",
-    "radical": "合",
+    "radical": "人",
     "strokes": 12,
     "words": [
       "下颌",
@@ -63973,7 +63973,7 @@ const characters = {
   },
   "颍": {
     "pinyin": "Ying3",
-    "radical": "",
+    "radical": "匕",
     "strokes": 12,
     "words": [
       "颍上",
@@ -63983,7 +63983,7 @@ const characters = {
   },
   "颏": {
     "pinyin": "kē",
-    "radical": "亥",
+    "radical": "亠",
     "strokes": 12,
     "words": [
       "下颏"
@@ -63991,7 +63991,7 @@ const characters = {
   },
   "颐": {
     "pinyin": "yí",
-    "radical": "𦣞",
+    "radical": "匚",
     "strokes": 13,
     "words": [
       "朵颐",
@@ -64000,7 +64000,7 @@ const characters = {
   },
   "频": {
     "pinyin": "pin2",
-    "radical": "步",
+    "radical": "止",
     "strokes": 13,
     "words": [
       "视频",
@@ -64013,7 +64013,7 @@ const characters = {
   },
   "颓": {
     "pinyin": "tuí",
-    "radical": "秃",
+    "radical": "禾",
     "strokes": 13,
     "words": [
       "颓废",
@@ -64026,7 +64026,7 @@ const characters = {
   },
   "颔": {
     "pinyin": "han4",
-    "radical": "含",
+    "radical": "人",
     "strokes": 13,
     "words": [
       "颔联",
@@ -64035,7 +64035,7 @@ const characters = {
   },
   "颖": {
     "pinyin": "Ying3",
-    "radical": "",
+    "radical": "匕",
     "strokes": 13,
     "words": [
       "新颖",
@@ -64046,7 +64046,7 @@ const characters = {
   },
   "颗": {
     "pinyin": "kē",
-    "radical": "果",
+    "radical": "田",
     "strokes": 14,
     "words": [
       "颗粒"
@@ -64054,7 +64054,7 @@ const characters = {
   },
   "题": {
     "pinyin": "Tí",
-    "radical": "是",
+    "radical": "日",
     "strokes": 15,
     "words": [
       "主题",
@@ -64067,7 +64067,7 @@ const characters = {
   },
   "颚": {
     "pinyin": "è",
-    "radical": "咢",
+    "radical": "吅",
     "strokes": 15,
     "words": [
       "下颚"
@@ -64075,7 +64075,7 @@ const characters = {
   },
   "颛": {
     "pinyin": "Zhuan1",
-    "radical": "耑",
+    "radical": "山",
     "strokes": 15,
     "words": [
       "颛顼"
@@ -64083,7 +64083,7 @@ const characters = {
   },
   "颜": {
     "pinyin": "Yan2",
-    "radical": "彦",
+    "radical": "立",
     "strokes": 15,
     "words": [
       "颜色",
@@ -64096,7 +64096,7 @@ const characters = {
   },
   "额": {
     "pinyin": "é",
-    "radical": "客",
+    "radical": "宀",
     "strokes": 15,
     "words": [
       "金额",
@@ -64109,7 +64109,7 @@ const characters = {
   },
   "颞": {
     "pinyin": "niè",
-    "radical": "聂",
+    "radical": "耳",
     "strokes": 16,
     "words": [
       "颞骨"
@@ -64117,13 +64117,13 @@ const characters = {
   },
   "颟": {
     "pinyin": "man1",
-    "radical": "",
+    "radical": "艹",
     "strokes": 16,
     "words": []
   },
   "颠": {
     "pinyin": "dian1",
-    "radical": "真",
+    "radical": "十",
     "strokes": 16,
     "words": [
       "颠倒",
@@ -64136,19 +64136,19 @@ const characters = {
   },
   "颡": {
     "pinyin": "sang3",
-    "radical": "桑",
+    "radical": "叒",
     "strokes": 16,
     "words": []
   },
   "颢": {
     "pinyin": "haò",
-    "radical": "景",
+    "radical": "日",
     "strokes": 18,
     "words": []
   },
   "颤": {
     "pinyin": "chan4",
-    "radical": "亶",
+    "radical": "亠",
     "strokes": 19,
     "words": [
       "颤抖",
@@ -64161,19 +64161,19 @@ const characters = {
   },
   "颥": {
     "pinyin": "rú",
-    "radical": "需",
+    "radical": "雨",
     "strokes": 20,
     "words": []
   },
   "颦": {
     "pinyin": "pin2",
-    "radical": "频",
+    "radical": "止",
     "strokes": 21,
     "words": []
   },
   "颧": {
     "pinyin": "quan2",
-    "radical": "雚",
+    "radical": "艹",
     "strokes": 23,
     "words": [
       "颧骨"
@@ -64181,7 +64181,7 @@ const characters = {
   },
   "风": {
     "pinyin": "feng1",
-    "radical": "几",
+    "radical": "风",
     "strokes": 4,
     "words": [
       "微风",
@@ -64231,13 +64231,13 @@ const characters = {
   },
   "飖": {
     "pinyin": "yaó",
-    "radical": "",
+    "radical": "爫",
     "strokes": 14,
     "words": []
   },
   "飘": {
     "pinyin": "piaō",
-    "radical": "票",
+    "radical": "覀",
     "strokes": 15,
     "words": [
       "飘忽",
@@ -64269,7 +64269,7 @@ const characters = {
   },
   "飞": {
     "pinyin": "feī",
-    "radical": "㇠",
+    "radical": "飞",
     "strokes": 3,
     "words": [
       "飞天",
@@ -64282,7 +64282,7 @@ const characters = {
   },
   "食": {
     "pinyin": "shí",
-    "radical": "亽",
+    "radical": "食",
     "strokes": 9,
     "words": [
       "美食",
@@ -64301,19 +64301,19 @@ const characters = {
   },
   "飨": {
     "pinyin": "xiang3",
-    "radical": "乡",
+    "radical": "",
     "strokes": 12,
     "words": []
   },
   "餍": {
     "pinyin": "yan4",
-    "radical": "厌",
+    "radical": "厂",
     "strokes": 15,
     "words": []
   },
   "餐": {
     "pinyin": "can1",
-    "radical": "𣦼",
+    "radical": "歺",
     "strokes": 16,
     "words": [
       "早餐",
@@ -64326,13 +64326,13 @@ const characters = {
   },
   "餚": {
     "pinyin": "yaó",
-    "radical": "飠",
+    "radical": "人",
     "strokes": 16,
     "words": []
   },
   "餮": {
     "pinyin": "tiè",
-    "radical": "殄",
+    "radical": "歹",
     "strokes": 18,
     "words": [
       "饕餮"
@@ -64340,13 +64340,13 @@ const characters = {
   },
   "饔": {
     "pinyin": "yong1",
-    "radical": "雍",
+    "radical": "亠",
     "strokes": 22,
     "words": []
   },
   "饕": {
     "pinyin": "taō",
-    "radical": "號",
+    "radical": "口",
     "strokes": 22,
     "words": [
       "饕餮",
@@ -64711,7 +64711,7 @@ const characters = {
   },
   "首": {
     "pinyin": "shoǔ",
-    "radical": "䒑",
+    "radical": "首",
     "strokes": 9,
     "words": [
       "首页",
@@ -64724,7 +64724,7 @@ const characters = {
   },
   "馗": {
     "pinyin": "kuí",
-    "radical": "九",
+    "radical": "丿",
     "strokes": 11,
     "words": [
       "钟馗"
@@ -64738,7 +64738,7 @@ const characters = {
   },
   "香": {
     "pinyin": "xiang1",
-    "radical": "禾",
+    "radical": "香",
     "strokes": 9,
     "words": [
       "香港",
@@ -64759,7 +64759,7 @@ const characters = {
   },
   "馨": {
     "pinyin": "xin1",
-    "radical": "殸",
+    "radical": "士",
     "strokes": 20,
     "words": [
       "温馨",
@@ -64792,7 +64792,7 @@ const characters = {
   },
   "马": {
     "pinyin": "Mǎ",
-    "radical": "",
+    "radical": "马",
     "strokes": 3,
     "words": [
       "宝马",
@@ -64950,13 +64950,13 @@ const characters = {
   },
   "驽": {
     "pinyin": "nú",
-    "radical": "奴",
+    "radical": "女",
     "strokes": 8,
     "words": []
   },
   "驾": {
     "pinyin": "Jià",
-    "radical": "加",
+    "radical": "力",
     "strokes": 8,
     "words": [
       "大驾",
@@ -65136,7 +65136,7 @@ const characters = {
   },
   "骘": {
     "pinyin": "zhì",
-    "radical": "陟",
+    "radical": "阝",
     "strokes": 12,
     "words": [
       "阴骘"
@@ -65157,13 +65157,13 @@ const characters = {
   },
   "骛": {
     "pinyin": "wù",
-    "radical": "敄",
+    "radical": "矛",
     "strokes": 12,
     "words": []
   },
   "骜": {
     "pinyin": "aò",
-    "radical": "敖",
+    "radical": "龶",
     "strokes": 13,
     "words": []
   },
@@ -65177,7 +65177,7 @@ const characters = {
   },
   "骞": {
     "pinyin": "qian1",
-    "radical": "",
+    "radical": "宀",
     "strokes": 13,
     "words": [
       "张骞"
@@ -65243,7 +65243,7 @@ const characters = {
   },
   "骨": {
     "pinyin": "gǔ",
-    "radical": "冎",
+    "radical": "骨",
     "strokes": 9,
     "words": [
       "排骨",
@@ -65369,7 +65369,7 @@ const characters = {
   },
   "高": {
     "pinyin": "Gaō",
-    "radical": "",
+    "radical": "高",
     "strokes": 10,
     "words": [
       "提高",
@@ -65382,7 +65382,7 @@ const characters = {
   },
   "髟": {
     "pinyin": "biaō",
-    "radical": "镸",
+    "radical": "髟",
     "strokes": 10,
     "words": []
   },
@@ -65487,25 +65487,25 @@ const characters = {
   },
   "鬯": {
     "pinyin": "chang4",
-    "radical": "",
+    "radical": "鬯",
     "strokes": 10,
     "words": []
   },
   "鬲": {
     "pinyin": "Gé",
-    "radical": "𠮛",
+    "radical": "鬲",
     "strokes": 10,
     "words": []
   },
   "鬻": {
     "pinyin": "yù",
-    "radical": "粥",
+    "radical": "弜",
     "strokes": 22,
     "words": []
   },
   "鬼": {
     "pinyin": "guǐ",
-    "radical": "",
+    "radical": "鬼",
     "strokes": 9,
     "words": [
       "魔鬼",
@@ -65531,7 +65531,7 @@ const characters = {
   },
   "魂": {
     "pinyin": "hun2",
-    "radical": "云",
+    "radical": "二",
     "strokes": 13,
     "words": [
       "灵魂",
@@ -65580,7 +65580,7 @@ const characters = {
   },
   "魇": {
     "pinyin": "yan3",
-    "radical": "厌",
+    "radical": "厂",
     "strokes": 15,
     "words": [
       "梦魇"
@@ -65610,7 +65610,7 @@ const characters = {
   },
   "魏": {
     "pinyin": "Weì",
-    "radical": "委",
+    "radical": "禾",
     "strokes": 17,
     "words": [
       "魏国",
@@ -65668,7 +65668,7 @@ const characters = {
   },
   "鱀": {
     "pinyin": "jì",
-    "radical": "既",
+    "radical": "丨",
     "strokes": 20,
     "words": []
   },
@@ -65698,13 +65698,13 @@ const characters = {
   },
   "鱻": {
     "pinyin": "xian1",
-    "radical": "魚",
+    "radical": "鱻",
     "strokes": 33,
     "words": []
   },
   "鱼": {
     "pinyin": "Yú",
-    "radical": "",
+    "radical": "鱼",
     "strokes": 8,
     "words": [
       "捕鱼",
@@ -65792,7 +65792,7 @@ const characters = {
   },
   "鲎": {
     "pinyin": "hoù",
-    "radical": "",
+    "radical": "⺍",
     "strokes": 13,
     "words": []
   },
@@ -65857,7 +65857,7 @@ const characters = {
   },
   "鲞": {
     "pinyin": "xiang3",
-    "radical": "龹",
+    "radical": "二",
     "strokes": 14,
     "words": []
   },
@@ -65925,7 +65925,7 @@ const characters = {
   },
   "鲨": {
     "pinyin": "shā",
-    "radical": "沙",
+    "radical": "氵",
     "strokes": 15,
     "words": [
       "鲨鱼",
@@ -66093,7 +66093,7 @@ const characters = {
   },
   "鳌": {
     "pinyin": "aó",
-    "radical": "敖",
+    "radical": "龶",
     "strokes": 18,
     "words": [
       "博鳌"
@@ -66160,7 +66160,7 @@ const characters = {
   },
   "鳖": {
     "pinyin": "biē",
-    "radical": "敝",
+    "radical": "巾",
     "strokes": 19,
     "words": [
       "土鳖",
@@ -66228,7 +66228,7 @@ const characters = {
   },
   "鴂": {
     "pinyin": "jué",
-    "radical": "夬",
+    "radical": "",
     "strokes": 15,
     "words": []
   },
@@ -66240,37 +66240,37 @@ const characters = {
   },
   "鴔": {
     "pinyin": "fú",
-    "radical": "乏",
+    "radical": "㇒",
     "strokes": 15,
     "words": []
   },
   "鶊": {
     "pinyin": "geng1",
-    "radical": "庚",
+    "radical": "广",
     "strokes": 19,
     "words": []
   },
   "鶬": {
     "pinyin": "cang1",
-    "radical": "倉",
+    "radical": "人",
     "strokes": 21,
     "words": []
   },
   "鶹": {
     "pinyin": "liú",
-    "radical": "留",
+    "radical": "卯",
     "strokes": 21,
     "words": []
   },
   "鷄": {
     "pinyin": "jī",
-    "radical": "奚",
+    "radical": "爫",
     "strokes": 21,
     "words": []
   },
   "鷫": {
     "pinyin": "sù",
-    "radical": "肅",
+    "radical": "⺺",
     "strokes": 24,
     "words": []
   },
@@ -66282,7 +66282,7 @@ const characters = {
   },
   "鸟": {
     "pinyin": "niaǒ",
-    "radical": "",
+    "radical": "鸟",
     "strokes": 5,
     "words": [
       "鸟儿",
@@ -66295,7 +66295,7 @@ const characters = {
   },
   "鸠": {
     "pinyin": "jiū",
-    "radical": "九",
+    "radical": "丿",
     "strokes": 7,
     "words": [
       "鸠山"
@@ -66338,7 +66338,7 @@ const characters = {
   },
   "鸥": {
     "pinyin": "oū",
-    "radical": "区",
+    "radical": "匚",
     "strokes": 9,
     "words": [
       "海鸥"
@@ -66356,7 +66356,7 @@ const characters = {
   },
   "鸨": {
     "pinyin": "baǒ",
-    "radical": "𠤏",
+    "radical": "匕",
     "strokes": 9,
     "words": [
       "老鸨"
@@ -66364,13 +66364,13 @@ const characters = {
   },
   "鸩": {
     "pinyin": "zhen4",
-    "radical": "冘",
+    "radical": "巾",
     "strokes": 9,
     "words": []
   },
   "鸪": {
     "pinyin": "gū",
-    "radical": "古",
+    "radical": "十",
     "strokes": 10,
     "words": [
       "鹧鸪"
@@ -66378,7 +66378,7 @@ const characters = {
   },
   "鸫": {
     "pinyin": "dong1",
-    "radical": "东",
+    "radical": "乚",
     "strokes": 10,
     "words": [
       "乌鸫"
@@ -66386,7 +66386,7 @@ const characters = {
   },
   "鸬": {
     "pinyin": "lú",
-    "radical": "卢",
+    "radical": "⺊",
     "strokes": 10,
     "words": [
       "鸬鹚"
@@ -66394,7 +66394,7 @@ const characters = {
   },
   "鸭": {
     "pinyin": "yā",
-    "radical": "甲",
+    "radical": "冂",
     "strokes": 10,
     "words": [
       "鸭子",
@@ -66407,13 +66407,13 @@ const characters = {
   },
   "鸮": {
     "pinyin": "xiaō",
-    "radical": "号",
+    "radical": "口",
     "strokes": 10,
     "words": []
   },
   "鸯": {
     "pinyin": "yang1",
-    "radical": "央",
+    "radical": "大",
     "strokes": 10,
     "words": [
       "鸳鸯"
@@ -66421,25 +66421,25 @@ const characters = {
   },
   "鸰": {
     "pinyin": "ling2",
-    "radical": "令",
+    "radical": "人",
     "strokes": 10,
     "words": []
   },
   "鸱": {
     "pinyin": "chī",
-    "radical": "氐",
+    "radical": "氏",
     "strokes": 10,
     "words": []
   },
   "鸲": {
     "pinyin": "qú",
-    "radical": "句",
+    "radical": "勹",
     "strokes": 10,
     "words": []
   },
   "鸳": {
     "pinyin": "yuan1",
-    "radical": "夗",
+    "radical": "夕",
     "strokes": 10,
     "words": [
       "鸳鸯"
@@ -66455,13 +66455,13 @@ const characters = {
   },
   "鸶": {
     "pinyin": "sī",
-    "radical": "丝",
+    "radical": "",
     "strokes": 10,
     "words": []
   },
   "鸷": {
     "pinyin": "zhì",
-    "radical": "执",
+    "radical": "扌",
     "strokes": 11,
     "words": []
   },
@@ -66481,7 +66481,7 @@ const characters = {
   },
   "鸺": {
     "pinyin": "xiū",
-    "radical": "休",
+    "radical": "亻",
     "strokes": 11,
     "words": []
   },
@@ -66493,7 +66493,7 @@ const characters = {
   },
   "鸽": {
     "pinyin": "gē",
-    "radical": "合",
+    "radical": "人",
     "strokes": 11,
     "words": [
       "飞鸽",
@@ -66505,7 +66505,7 @@ const characters = {
   },
   "鸾": {
     "pinyin": "luan2",
-    "radical": "亦",
+    "radical": "亠",
     "strokes": 11,
     "words": [
       "鸾凤"
@@ -66526,13 +66526,13 @@ const characters = {
   },
   "鹁": {
     "pinyin": "bó",
-    "radical": "孛",
+    "radical": "十",
     "strokes": 12,
     "words": []
   },
   "鹂": {
     "pinyin": "lí",
-    "radical": "丽",
+    "radical": "一",
     "strokes": 12,
     "words": [
       "黄鹂"
@@ -66540,7 +66540,7 @@ const characters = {
   },
   "鹃": {
     "pinyin": "juan1",
-    "radical": "肙",
+    "radical": "口",
     "strokes": 12,
     "words": [
       "杜鹃"
@@ -66548,7 +66548,7 @@ const characters = {
   },
   "鹄": {
     "pinyin": "gǔ",
-    "radical": "告",
+    "radical": "⺧",
     "strokes": 12,
     "words": [
       "鸿鹄"
@@ -66556,7 +66556,7 @@ const characters = {
   },
   "鹅": {
     "pinyin": "é",
-    "radical": "我",
+    "radical": "手",
     "strokes": 12,
     "words": [
       "企鹅",
@@ -66574,19 +66574,19 @@ const characters = {
   },
   "鹇": {
     "pinyin": "xian2",
-    "radical": "闲",
+    "radical": "门",
     "strokes": 12,
     "words": []
   },
   "鹈": {
     "pinyin": "tí",
-    "radical": "弟",
+    "radical": "丷",
     "strokes": 12,
     "words": []
   },
   "鹉": {
     "pinyin": "wǔ",
-    "radical": "武",
+    "radical": "一",
     "strokes": 13,
     "words": [
       "鹦鹉"
@@ -66594,7 +66594,7 @@ const characters = {
   },
   "鹊": {
     "pinyin": "què",
-    "radical": "昔",
+    "radical": "艹",
     "strokes": 13,
     "words": [
       "喜鹊",
@@ -66603,7 +66603,7 @@ const characters = {
   },
   "鹋": {
     "pinyin": "miaó",
-    "radical": "苗",
+    "radical": "艹",
     "strokes": 13,
     "words": [
       "鸸鹋"
@@ -66611,7 +66611,7 @@ const characters = {
   },
   "鹌": {
     "pinyin": "an1",
-    "radical": "奄",
+    "radical": "大",
     "strokes": 13,
     "words": [
       "鹌鹑"
@@ -66619,13 +66619,13 @@ const characters = {
   },
   "鹍": {
     "pinyin": "kun1",
-    "radical": "昆",
+    "radical": "日",
     "strokes": 13,
     "words": []
   },
   "鹎": {
     "pinyin": "beī",
-    "radical": "卑",
+    "radical": "冂",
     "strokes": 13,
     "words": []
   },
@@ -66641,7 +66641,7 @@ const characters = {
   },
   "鹑": {
     "pinyin": "chun2",
-    "radical": "享",
+    "radical": "亠",
     "strokes": 13,
     "words": [
       "鹌鹑"
@@ -66649,13 +66649,13 @@ const characters = {
   },
   "鹕": {
     "pinyin": "hú",
-    "radical": "胡",
+    "radical": "十",
     "strokes": 14,
     "words": []
   },
   "鹗": {
     "pinyin": "è",
-    "radical": "咢",
+    "radical": "吅",
     "strokes": 14,
     "words": []
   },
@@ -66667,13 +66667,13 @@ const characters = {
   },
   "鹙": {
     "pinyin": "qiū",
-    "radical": "秋",
+    "radical": "禾",
     "strokes": 14,
     "words": []
   },
   "鹚": {
     "pinyin": "cí",
-    "radical": "兹",
+    "radical": "丷",
     "strokes": 14,
     "words": [
       "鸬鹚"
@@ -66681,31 +66681,31 @@ const characters = {
   },
   "鹜": {
     "pinyin": "wù",
-    "radical": "敄",
+    "radical": "矛",
     "strokes": 14,
     "words": []
   },
   "鹞": {
     "pinyin": "yaò",
-    "radical": "",
+    "radical": "爫",
     "strokes": 15,
     "words": []
   },
   "鹡": {
     "pinyin": "jí",
-    "radical": "脊",
+    "radical": "人",
     "strokes": 15,
     "words": []
   },
   "鹣": {
     "pinyin": "jian1",
-    "radical": "兼",
+    "radical": "丷",
     "strokes": 15,
     "words": []
   },
   "鹤": {
     "pinyin": "hè",
-    "radical": "隺",
+    "radical": "巾",
     "strokes": 15,
     "words": [
       "仙鹤",
@@ -66718,7 +66718,7 @@ const characters = {
   },
   "鹦": {
     "pinyin": "ying1",
-    "radical": "婴",
+    "radical": "",
     "strokes": 16,
     "words": [
       "鹦鹉"
@@ -66726,7 +66726,7 @@ const characters = {
   },
   "鹧": {
     "pinyin": "zhè",
-    "radical": "庶",
+    "radical": "广",
     "strokes": 16,
     "words": [
       "鹧鸪"
@@ -66734,7 +66734,7 @@ const characters = {
   },
   "鹩": {
     "pinyin": "liaó",
-    "radical": "尞",
+    "radical": "大",
     "strokes": 17,
     "words": [
       "鹩哥",
@@ -66743,7 +66743,7 @@ const characters = {
   },
   "鹪": {
     "pinyin": "jiaō",
-    "radical": "焦",
+    "radical": "隹",
     "strokes": 17,
     "words": [
       "鹪鹩"
@@ -66751,7 +66751,7 @@ const characters = {
   },
   "鹫": {
     "pinyin": "jiù",
-    "radical": "就",
+    "radical": "亠",
     "strokes": 17,
     "words": [
       "秃鹫",
@@ -66761,13 +66761,13 @@ const characters = {
   },
   "鹬": {
     "pinyin": "yù",
-    "radical": "矞",
+    "radical": "矛",
     "strokes": 17,
     "words": []
   },
   "鹭": {
     "pinyin": "lù",
-    "radical": "路",
+    "radical": "⻊",
     "strokes": 18,
     "words": [
       "白鹭",
@@ -66776,7 +66776,7 @@ const characters = {
   },
   "鹮": {
     "pinyin": "huan2",
-    "radical": "睘",
+    "radical": "罒",
     "strokes": 18,
     "words": [
       "朱鹮"
@@ -66784,7 +66784,7 @@ const characters = {
   },
   "鹰": {
     "pinyin": "ying1",
-    "radical": "䧹",
+    "radical": "广",
     "strokes": 18,
     "words": [
       "飞鹰",
@@ -66797,7 +66797,7 @@ const characters = {
   },
   "鹳": {
     "pinyin": "guan4",
-    "radical": "雚",
+    "radical": "艹",
     "strokes": 22,
     "words": []
   },
@@ -66809,7 +66809,7 @@ const characters = {
   },
   "鹿": {
     "pinyin": "lù",
-    "radical": "",
+    "radical": "鹿",
     "strokes": 11,
     "words": [
       "逐鹿",
@@ -66890,7 +66890,7 @@ const characters = {
   },
   "麦": {
     "pinyin": "Maì",
-    "radical": "龶",
+    "radical": "麦",
     "strokes": 7,
     "words": [
       "丹麦",
@@ -66923,7 +66923,7 @@ const characters = {
   },
   "麻": {
     "pinyin": "Má",
-    "radical": "广",
+    "radical": "麻",
     "strokes": 11,
     "words": [
       "麻将",
@@ -66958,7 +66958,7 @@ const characters = {
   },
   "黄": {
     "pinyin": "Huang2",
-    "radical": "龷",
+    "radical": "艹",
     "strokes": 11,
     "words": [
       "黄昏",
@@ -66971,19 +66971,19 @@ const characters = {
   },
   "黉": {
     "pinyin": "hong2",
-    "radical": "",
+    "radical": "⺍",
     "strokes": 16,
     "words": []
   },
   "黍": {
     "pinyin": "shǔ",
-    "radical": "禾",
+    "radical": "黍",
     "strokes": 12,
     "words": []
   },
   "黎": {
     "pinyin": "Lí",
-    "radical": "",
+    "radical": "禾",
     "strokes": 15,
     "words": [
       "巴黎",
@@ -66996,7 +66996,7 @@ const characters = {
   },
   "黏": {
     "pinyin": "nian2",
-    "radical": "",
+    "radical": "禾",
     "strokes": 17,
     "words": [
       "黏度",
@@ -67009,7 +67009,7 @@ const characters = {
   },
   "黑": {
     "pinyin": "Heī",
-    "radical": "",
+    "radical": "黑",
     "strokes": 12,
     "words": [
       "黑暗",
@@ -67044,7 +67044,7 @@ const characters = {
   },
   "黛": {
     "pinyin": "daì",
-    "radical": "代",
+    "radical": "亻",
     "strokes": 17,
     "words": [
       "眉黛"
@@ -67098,7 +67098,7 @@ const characters = {
   },
   "黧": {
     "pinyin": "lí",
-    "radical": "",
+    "radical": "禾",
     "strokes": 20,
     "words": []
   },
@@ -67125,7 +67125,7 @@ const characters = {
   },
   "黹": {
     "pinyin": "zhǐ",
-    "radical": "业",
+    "radical": "黹",
     "strokes": 12,
     "words": []
   },
@@ -67143,7 +67143,7 @@ const characters = {
   },
   "黾": {
     "pinyin": "min3",
-    "radical": "口",
+    "radical": "黾",
     "strokes": 8,
     "words": []
   },
@@ -67155,7 +67155,7 @@ const characters = {
   },
   "鼋": {
     "pinyin": "yuan2",
-    "radical": "元",
+    "radical": "二",
     "strokes": 12,
     "words": []
   },
@@ -67167,7 +67167,7 @@ const characters = {
   },
   "鼎": {
     "pinyin": "ding3",
-    "radical": "𤕰",
+    "radical": "鼎",
     "strokes": 12,
     "words": [
       "问鼎",
@@ -67180,13 +67180,13 @@ const characters = {
   },
   "鼐": {
     "pinyin": "naì",
-    "radical": "乃",
+    "radical": "㇎",
     "strokes": 14,
     "words": []
   },
   "鼓": {
     "pinyin": "gǔ",
-    "radical": "壴",
+    "radical": "鼓",
     "strokes": 13,
     "words": [
       "鼓励",
@@ -67205,7 +67205,7 @@ const characters = {
   },
   "鼠": {
     "pinyin": "shǔ",
-    "radical": "臼",
+    "radical": "鼠",
     "strokes": 13,
     "words": [
       "老鼠",
@@ -67300,7 +67300,7 @@ const characters = {
   },
   "齐": {
     "pinyin": "Qí",
-    "radical": "文",
+    "radical": "齐",
     "strokes": 6,
     "words": [
       "一齐",
@@ -67321,7 +67321,7 @@ const characters = {
   },
   "齧": {
     "pinyin": "Niè",
-    "radical": "㓞",
+    "radical": "一",
     "strokes": 21,
     "words": []
   },
@@ -67345,7 +67345,7 @@ const characters = {
   },
   "齿": {
     "pinyin": "chǐ",
-    "radical": "止",
+    "radical": "齿",
     "strokes": 8,
     "words": [
       "牙齿",
@@ -67446,7 +67446,7 @@ const characters = {
   },
   "龙": {
     "pinyin": "Long2",
-    "radical": "",
+    "radical": "龙",
     "strokes": 5,
     "words": [
       "龙年",
@@ -67465,7 +67465,7 @@ const characters = {
   },
   "龛": {
     "pinyin": "kan1",
-    "radical": "合",
+    "radical": "人",
     "strokes": 11,
     "words": [
       "佛龛",
@@ -67474,7 +67474,7 @@ const characters = {
   },
   "龟": {
     "pinyin": "guī",
-    "radical": "⺈",
+    "radical": "龟",
     "strokes": 7,
     "words": [
       "乌龟",
@@ -67487,7 +67487,7 @@ const characters = {
   },
   "龠": {
     "pinyin": "yuè",
-    "radical": "亼",
+    "radical": "龠",
     "strokes": 17,
     "words": []
   }
