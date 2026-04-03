@@ -19,6 +19,7 @@ button { cursor: pointer; border: none; background: none; }
 /* ===== 首页 ===== */
 .home {
   padding: 32px 20px 40px;
+  position: relative;
   display: flex;
   flex-direction: column;
   gap: 32px;
@@ -53,6 +54,92 @@ button { cursor: pointer; border: none; background: none; }
   color: #999;
   font-size: 14px;
 }
+
+.settings-btn {
+  position: absolute;
+  top: 32px;
+  right: 20px;
+  font-size: 22px;
+  padding: 4px;
+  opacity: 0.5;
+  transition: opacity 0.2s;
+}
+.settings-btn:hover { opacity: 1; }
+
+.settings-panel {
+  background: white;
+  border: 2px solid #f0f0f0;
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.settings-title {
+  font-size: 16px;
+  font-weight: bold;
+  color: #333;
+}
+
+.settings-desc {
+  font-size: 13px;
+  color: #999;
+  line-height: 1.6;
+}
+
+.key-status {
+  font-size: 13px;
+  color: #555;
+  background: #f8f8f8;
+  padding: 10px 14px;
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.clear-key-btn {
+  font-size: 13px;
+  color: #e74c3c;
+  padding: 2px 8px;
+}
+
+.key-input-row {
+  display: flex;
+  gap: 8px;
+}
+
+.key-input {
+  flex: 1;
+  height: 44px;
+  padding: 0 12px;
+  border: 2px solid #eee;
+  border-radius: 10px;
+  font-size: 13px;
+  font-family: monospace;
+  outline: none;
+}
+.key-input:focus { border-color: #ff6b6b; }
+
+.save-key-btn {
+  height: 44px;
+  padding: 0 18px;
+  background: #ff6b6b;
+  color: white;
+  border-radius: 10px;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: inherit;
+}
+
+.close-settings-btn {
+  font-size: 14px;
+  color: #999;
+  text-align: center;
+  padding: 4px;
+}
+.close-settings-btn:hover { color: #333; }
 
 /* ===== 搜索区域 ===== */
 .search-area {
