@@ -1,29 +1,45 @@
 import { useState, useEffect, useRef } from 'react'
 import characters from '../data/characters'
 
-async function askClaudeForChar(transcript, apiKey) {
-  const res = await fetch('https://api.anthropic.com/v1/messages', {
-    method: 'POST',
-    headers: {
-      'x-api-key': apiKey,
-      'anthropic-version': '2023-06-01',
-      'content-type': 'application/json',
-      'anthropic-dangerous-direct-browser-access': 'true',
-    },
-    body: JSON.stringify({
-      model: 'claude-haiku-4-5-20251001',
-      max_tokens: 10,
-      messages: [{
-        role: 'user',
-        content: `用户对着手机说了这句话想查一个汉字的写法："${transcript}"。语音识别可能把字识别错了，比如把"巍"识别成"威"。请根据语境推断用户真正想查的是哪一个汉字，只返回那一个汉字，不要任何解释或标点。`,
-      }],
-    }),
-  })
-  if (!res.ok) throw new Error(`API错误 ${res.status}`)
-  const data = await res.json()
-  const char = data.content?.[0]?.text?.trim()
-  // 只接受单个汉字
-  if (char && /^[\u4e00-\u9fa5]$/.test(char)) return char
+async function askClaudeForChar(transcript, localApiKey) {
+  // 优先走服务器中转（朋友无需配置 key）
+  try {
+    const res = await fetch('/api/claude', {
+      method: 'POST',
+      headers: { 'content-type': 'application/json' },
+      body: JSON.stringify({ transcript }),
+    })
+    if (res.ok) {
+      const data = await res.json()
+      if (data.char && /^[\u4e00-\u9fa5]$/.test(data.char)) return data.char
+    }
+  } catch (_) {}
+
+  // 降级：用本地保存的 key 直接调用（自己用时的备选）
+  if (localApiKey) {
+    const res = await fetch('https://api.anthropic.com/v1/messages', {
+      method: 'POST',
+      headers: {
+        'x-api-key': localApiKey,
+        'anthropic-version': '2023-06-01',
+        'content-type': 'application/json',
+        'anthropic-dangerous-direct-browser-access': 'true',
+      },
+      body: JSON.stringify({
+        model: 'claude-haiku-4-5-20251001',
+        max_tokens: 10,
+        messages: [{
+          role: 'user',
+          content: `用户对着手机说了这句话想查一个汉字的写法："${transcript}"。语音识别可能把字识别错了，比如把"巍"识别成"威"。请根据语境推断用户真正想查的是哪一个汉字，只返回那一个汉字，不要任何解释或标点。`,
+        }],
+      }),
+    })
+    if (!res.ok) throw new Error(`API错误 ${res.status}`)
+    const data = await res.json()
+    const char = data.content?.[0]?.text?.trim()
+    if (char && /^[\u4e00-\u9fa5]$/.test(char)) return char
+  }
+
   return null
 }
 
