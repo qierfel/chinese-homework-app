@@ -15,7 +15,7 @@ export default async (req, context) => {
     return new Response(JSON.stringify({ error: 'transcript is required' }), { status: 400 })
   }
 
-  const apiKey = Netlify.env.get('ANTHROPIC_API_KEY')
+  const apiKey = Deno.env.get('ANTHROPIC_API_KEY')
   if (!apiKey) {
     return new Response(JSON.stringify({ error: 'API key not configured' }), { status: 500 })
   }
@@ -53,4 +53,3 @@ export default async (req, context) => {
   }
 }
 
-export const config = { path: '/api/claude' }
