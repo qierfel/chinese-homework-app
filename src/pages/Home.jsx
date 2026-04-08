@@ -1,6 +1,9 @@
 import { useState, useEffect, useRef } from 'react'
 import characters from '../data/characters'
 
+// 判断是否为"查询句"（含怎么写/怎么读/查等问句词）
+const QUERY_PATTERN = /怎么写|怎么读|怎么念|怎么拼|怎么组词|的[^\s]字|查[^\s]/
+
 async function askClaudeForChar(transcript, localApiKey) {
   // 优先走服务器中转（朋友无需配置 key）
   try {
@@ -15,7 +18,7 @@ async function askClaudeForChar(transcript, localApiKey) {
     }
   } catch (_) {}
 
-  // 降级：用本地保存的 key 直接调用（自己用时的备选）
+  // 降级：用本地保存的 key 直接调用
   if (localApiKey) {
     const res = await fetch('https://api.anthropic.com/v1/messages', {
       method: 'POST',
@@ -52,6 +55,7 @@ export default function Home({ onSelect }) {
   const [listening, setListening] = useState(false)
   const [voiceStatus, setVoiceStatus] = useState('')
   const [voiceError, setVoiceError] = useState('')
+  const [voiceCandidates, setVoiceCandidates] = useState([]) // 词组消歧
   const [showSettings, setShowSettings] = useState(false)
   const [apiKey, setApiKey] = useState(() => localStorage.getItem('anthropic_key') || '')
   const [apiKeyInput, setApiKeyInput] = useState('')
@@ -64,6 +68,7 @@ export default function Home({ onSelect }) {
   }, [input])
 
   function handleSelect(char) {
+    setVoiceCandidates([])
     const newHistory = [char, ...history.filter(h => h !== char)].slice(0, 10)
     setHistory(newHistory)
     localStorage.setItem('history', JSON.stringify(newHistory))
@@ -90,25 +95,37 @@ export default function Home({ onSelect }) {
 
   async function handleVoiceResult(transcript) {
     setVoiceStatus('')
+    setVoiceError('')
+    setVoiceCandidates([])
 
-    // 有 API key：用 Claude 做语义理解
-    if (apiKey) {
-      setVoiceStatus('正在理解...')
-      try {
-        const char = await askClaudeForChar(transcript, apiKey)
-        if (char) {
-          setInput(char)
-          if (characters[char]) setTimeout(() => handleSelect(char), 300)
-          return
-        }
-      } catch (e) {
-        // API 调用失败，降级到正则
-        console.warn('Claude API 失败，降级到正则:', e.message)
+    const hanziList = [...new Set(transcript.match(/[\u4e00-\u9fa5]/g) || [])]
+    const isQuery = QUERY_PATTERN.test(transcript)
+
+    // 纯词组（没有问句词，2-6个字）→ 直接展示让用户选
+    if (!isQuery && hanziList.length >= 2 && hanziList.length <= 6) {
+      const candidates = hanziList.filter(c => characters[c])
+      if (candidates.length >= 2) {
+        setVoiceCandidates(candidates)
+        return
       }
     }
 
-    // 降级：正则匹配
-    const hanziList = transcript.match(/[\u4e00-\u9fa5]/g) || []
+    // 有问句词或单字 → 用 Claude 语义理解
+    setVoiceStatus('正在理解...')
+    try {
+      const char = await askClaudeForChar(transcript, apiKey)
+      setVoiceStatus('')
+      if (char) {
+        setInput(char)
+        if (characters[char]) setTimeout(() => handleSelect(char), 300)
+        return
+      }
+    } catch (e) {
+      console.warn('Claude API 失败，降级到正则:', e.message)
+    }
+    setVoiceStatus('')
+
+    // 最终降级：正则
     let target = null
     const m1 = transcript.match(/([\u4e00-\u9fa5])字怎么写/)
     const m2 = transcript.match(/的([\u4e00-\u9fa5])字/)
@@ -131,6 +148,7 @@ export default function Home({ onSelect }) {
   function startVoice() {
     setVoiceError('')
     setVoiceStatus('')
+    setVoiceCandidates([])
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition
     if (!SpeechRecognition) {
       setVoiceError('当前浏览器不支持语音识别，请用 Chrome 或 Safari')
@@ -221,11 +239,25 @@ export default function Home({ onSelect }) {
             {listening ? '⏹' : '🎤'}
           </button>
         </div>
-        {listening && <p className="voice-hint">正在听...说出想查的字，比如"巍峨的巍怎么写"</p>}
+        {listening && <p className="voice-hint">说出词组或句子，比如"巍峨"或"巍峨的巍怎么写"</p>}
         {voiceStatus && <p className="voice-hint">{voiceStatus}</p>}
         {voiceError && <p className="voice-error">{voiceError}</p>}
 
-        {suggestions.length > 0 && (
+        {voiceCandidates.length > 0 && (
+          <div className="voice-candidates">
+            <p className="candidates-hint">你想查哪个字？</p>
+            <div className="suggestions">
+              {voiceCandidates.map(char => (
+                <button key={char} className="char-btn" onClick={() => handleSelect(char)}>
+                  <span className="char-big">{char}</span>
+                  <span className="char-pinyin">{characters[char].pinyin}</span>
+                </button>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {voiceCandidates.length === 0 && suggestions.length > 0 && (
           <div className="suggestions">
             {suggestions.map(char => (
               <button key={char} className="char-btn" onClick={() => handleSelect(char)}>
@@ -236,7 +268,7 @@ export default function Home({ onSelect }) {
           </div>
         )}
 
-        {input && suggestions.length === 0 && (
+        {input && suggestions.length === 0 && voiceCandidates.length === 0 && (
           <p className="not-found">暂无这个字的数据，正在持续完善中...</p>
         )}
       </div>

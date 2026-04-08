@@ -202,6 +202,9 @@ button { cursor: pointer; border: none; background: none; }
 .voice-hint { color: #ff6b6b; font-size: 14px; text-align: center; }
 .voice-error { color: #e74c3c; font-size: 13px; text-align: center; }
 
+.voice-candidates { display: flex; flex-direction: column; gap: 10px; }
+.candidates-hint { font-size: 14px; color: #999; text-align: center; }
+
 /* ===== 候选字 ===== */
 .suggestions {
   display: grid;
