@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/chinese-homework-app/',
+  base: process.env.NETLIFY ? '/' : '/chinese-homework-app/',
   plugins: [react()],
 })
