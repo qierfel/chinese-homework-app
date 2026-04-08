@@ -1,23 +1,23 @@
-export default async (req, context) => {
-  if (req.method !== 'POST') {
-    return new Response('Method not allowed', { status: 405 })
+exports.handler = async (event) => {
+  if (event.httpMethod !== 'POST') {
+    return { statusCode: 405, body: 'Method not allowed' }
   }
 
   let transcript
   try {
-    const body = await req.json()
+    const body = JSON.parse(event.body)
     transcript = body.transcript
   } catch {
-    return new Response(JSON.stringify({ error: 'Invalid JSON' }), { status: 400 })
+    return { statusCode: 400, body: JSON.stringify({ error: 'Invalid JSON' }) }
   }
 
   if (!transcript || typeof transcript !== 'string') {
-    return new Response(JSON.stringify({ error: 'transcript is required' }), { status: 400 })
+    return { statusCode: 400, body: JSON.stringify({ error: 'transcript is required' }) }
   }
 
-  const apiKey = Deno.env.get('ANTHROPIC_API_KEY')
+  const apiKey = process.env.ANTHROPIC_API_KEY
   if (!apiKey) {
-    return new Response(JSON.stringify({ error: 'API key not configured' }), { status: 500 })
+    return { statusCode: 500, body: JSON.stringify({ error: 'API key not configured' }) }
   }
 
   try {
@@ -39,17 +39,17 @@ export default async (req, context) => {
     })
 
     if (!response.ok) {
-      return new Response(JSON.stringify({ error: 'Upstream API error' }), { status: 502 })
+      return { statusCode: 502, body: JSON.stringify({ error: 'Upstream API error' }) }
     }
 
     const data = await response.json()
     const char = data.content?.[0]?.text?.trim()
-    return new Response(JSON.stringify({ char: char || null }), {
-      status: 200,
+    return {
+      statusCode: 200,
       headers: { 'content-type': 'application/json' },
-    })
-  } catch {
-    return new Response(JSON.stringify({ error: 'Internal error' }), { status: 500 })
+      body: JSON.stringify({ char: char || null }),
+    }
+  } catch (e) {
+    return { statusCode: 500, body: JSON.stringify({ error: e.message }) }
   }
 }
-
