@@ -6,6 +6,23 @@
  *   - 偏旁：hanzi.decompose() level 2（部首分解）+ 人工修正表
  */
 
+// 拼音人工修正表 —— CC-CEDICT 首条读音为姓氏/虚词/生僻音时，改为小学常用音
+const PINYIN_OVERRIDES = {
+  '万': 'wàn',   // CC-CEDICT 首条为姓氏 Mò
+  '地': 'dì',    // CC-CEDICT 首条为结构助词 de
+  '上': 'shàng', // CC-CEDICT 首条为古音 shǎng
+  '重': 'zhòng', // CC-CEDICT 首条为 chóng（重复），小学先学"重量"义
+  '长': 'cháng', // CC-CEDICT 首条为 zhǎng，但常用义先是"长度"
+  '强': 'qiáng', // CC-CEDICT 首条可能为 qiǎng
+  '数': 'shù',   // CC-CEDICT 首条可能为 shǔ（数一数）
+  '好': 'hǎo',   // CC-CEDICT 首条可能为 hào（爱好）
+  '乐': 'lè',    // CC-CEDICT 首条可能为 yuè（音乐）
+  '觉': 'jiào',  // CC-CEDICT 首条可能为 jué（感觉）
+  '着': 'zhe',   // CC-CEDICT 首条可能为 zháo
+  '了': 'le',    // CC-CEDICT 首条可能为 liǎo
+  '得': 'de',    // 助词
+};
+
 // 新华字典人工修正表（优先级最高，覆盖自动识别的错误）
 // 来源：新华字典2011版部首查字表
 const RADICAL_OVERRIDES = {
@@ -32,8 +49,10 @@ const RADICAL_OVERRIDES = {
   '张': '弓', '弦': '弓',
   // 偏旁为 又 的字
   '双': '又', '难': '又', '叔': '又', '取': '又', '受': '又',
+  '对': '又', '观': '又',
   // 偏旁为 儿 的字
   '兄': '儿', '光': '儿', '先': '儿', '元': '儿', '儿': '儿',
+  '克': '儿', '党': '儿',
   // 偏旁为 巾 的字
   '师': '巾', '帮': '巾', '带': '巾', '希': '巾', '幕': '巾',
   '帽': '巾', '幸': '干',
@@ -58,6 +77,42 @@ const RADICAL_OVERRIDES = {
   '动': '力', '助': '力', '加': '力', '努': '力', '劳': '力',
   '别': '刀', '利': '刀', '列': '刀', '到': '刀', '制': '刀',
   '刻': '刀', '则': '刀', '初': '刀', '前': '刀',
+  // 偏旁为 一 的字（常被误识别）
+  '上': '一', '丑': '一', '世': '一', '丘': '一', '丙': '一',
+  '业': '一', '专': '一', '且': '一', '与': '一', '万': '一',
+  '天': '一', '不': '一', '开': '一', '平': '一',
+  // 偏旁为 口 的字
+  '吃': '口', '喝': '口', '叫': '口', '唱': '口', '说': '口',
+  '听': '口', '问': '口', '告': '口', '哭': '口', '笑': '口',
+  '叶': '口', '号': '口', '名': '口', '只': '口', '可': '口',
+  // 偏旁为 氵(水) 的字
+  '海': '氵', '河': '氵', '湖': '氵', '江': '氵', '泳': '氵',
+  '浪': '氵', '流': '氵', '洗': '氵', '泡': '氵', '澡': '氵',
+  '清': '氵', '浅': '氵', '深': '氵', '满': '氵', '泪': '氵',
+  '法': '氵', '活': '氵', '注': '氵', '游': '氵', '漂': '氵',
+  // 偏旁为 讠(言) 的字
+  '说': '讠', '话': '讠', '读': '讠', '语': '讠', '请': '讠',
+  '谢': '讠', '认': '讠', '识': '讠', '课': '讠', '词': '讠',
+  // 偏旁为 阝(阜) 的字（左耳旁）
+  '阴': '阝', '阳': '阝', '际': '阝', '队': '阝', '陆': '阝',
+  '院': '阝', '除': '阝', '陈': '阝',
+  // 偏旁为 宀 的字
+  '家': '宀', '字': '宀', '宝': '宀', '宫': '宀', '室': '宀',
+  '安': '宀', '定': '宀', '宽': '宀', '容': '宀', '完': '宀',
+  // 偏旁为 土 的字
+  '地': '土', '场': '土', '坐': '土', '块': '土', '城': '土',
+  '坏': '土', '型': '土', '均': '土', '基': '土',
+  // 偏旁为 人(亻) 的字
+  '你': '亻', '他': '亻', '们': '亻', '作': '亻', '住': '亻',
+  '位': '亻', '休': '亻', '体': '亻', '借': '亻', '像': '亻',
+  '信': '亻', '做': '亻', '停': '亻', '健': '亻', '保': '亻',
+  // 偏旁为 鸟 的字
+  '鸡': '鸟', '鸭': '鸟', '鹅': '鸟', '鸽': '鸟', '鹤': '鸟',
+  '燕': '鸟', '鸦': '鸟', '鹰': '鸟',
+  // 偏旁为 草(艹) 的字
+  '花': '艹', '草': '艹', '芽': '艹', '苗': '艹', '苹': '艹',
+  '菜': '艹', '茶': '艹', '荷': '艹', '莲': '艹', '蒲': '艹',
+  '薄': '艹', '蓝': '艹', '芬': '艹', '芳': '艹',
 };
 
 const fs = require('fs');
@@ -78,14 +133,44 @@ const TONE_MAP = {
 };
 
 function convertPinyin(raw) {
-  // raw like "ni3 hao3" or "de/di2/di4" -> take first
-  const first = raw.split('/')[0].split(' ')[0];
-  return first.replace(/([aeiouüv])(\d)/g, (_, vowel, tone) => {
-    const t = parseInt(tone);
-    const map = TONE_MAP[vowel.toLowerCase()];
-    if (!map) return vowel;
-    const result = t >= 1 && t <= 5 ? map[t - 1] : vowel;
-    return vowel === vowel.toUpperCase() ? result.toUpperCase() : result;
+  // raw like "ni3 hao3" or "de/di2/di4" -> take first, lowercase
+  const first = raw.split('/')[0].split(' ')[0].toLowerCase();
+  // normalize u: -> ü (CC-CEDICT uses u: for ü)
+  const normalized = first.replace(/u:/g, 'ü');
+
+  // Replace each syllable+tone-number with proper tone mark
+  // Tone mark placement rules:
+  //   1. If syllable has 'a' or 'e', it takes the mark
+  //   2. In 'ou', 'o' takes the mark
+  //   3. Otherwise the last vowel (i/o/u/ü) takes the mark
+  return normalized.replace(/([a-züv]+)([1-5])/g, (_, syllable, toneStr) => {
+    const t = parseInt(toneStr);
+    const s = syllable;
+    let idx = -1;
+
+    // Rule 1
+    for (let i = 0; i < s.length; i++) {
+      if (s[i] === 'a' || s[i] === 'e') { idx = i; break; }
+    }
+    // Rule 2
+    if (idx === -1) {
+      const ouPos = s.indexOf('ou');
+      if (ouPos !== -1) idx = ouPos;
+    }
+    // Rule 3
+    if (idx === -1) {
+      for (let i = s.length - 1; i >= 0; i--) {
+        if ('iouüv'.includes(s[i])) { idx = i; break; }
+      }
+    }
+
+    // Neutral tone (5) or no vowel: return syllable without the number
+    if (idx === -1 || t < 1 || t > 4) return s;
+
+    const key = s[idx] === 'v' ? 'v' : s[idx];
+    const map = TONE_MAP[key];
+    if (!map) return s;
+    return s.substring(0, idx) + map[t - 1] + s.substring(idx + 1);
   });
 }
 
@@ -116,14 +201,18 @@ for (const file of files) {
     continue;
   }
 
-  // 拼音
+  // 拼音：优先使用人工修正表，否则取 CC-CEDICT 首条读音
   let pinyin = '';
-  const defs = hanzi.definitionLookup(char, 's');
-  if (defs && defs.length > 0) {
-    pinyin = convertPinyin(defs[0].pinyin);
+  if (PINYIN_OVERRIDES[char]) {
+    pinyin = PINYIN_OVERRIDES[char];
   } else {
-    pinyin = '';
-    noDefinition++;
+    const defs = hanzi.definitionLookup(char, 's');
+    if (defs && defs.length > 0) {
+      pinyin = convertPinyin(defs[0].pinyin);
+    } else {
+      pinyin = '';
+      noDefinition++;
+    }
   }
 
   // 偏旁：优先使用人工修正表，否则用 level 2 部首分解
